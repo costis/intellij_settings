@@ -199,8 +199,8 @@
         <mark key="^" line="0" column="41" />
         <mark key="." line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/global_session.rb" timestamp="1463093856365">
-        <mark key="'" line="346" column="53" />
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/global_session.rb" timestamp="1463564607209">
+        <mark key="'" line="155" column="4" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/test_process.rb" timestamp="1463062216143">
         <mark key="'" line="509" column="6" />
@@ -400,9 +400,9 @@
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/billing/journal_entry.rb" timestamp="1461927853946">
         <mark key="'" line="296" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" timestamp="1463563601127">
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" timestamp="1463564502186">
         <mark key="g" line="22" column="19" />
-        <mark key="'" line="15" column="44" />
+        <mark key="'" line="96" column="43" />
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -909,16 +909,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="23" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/abstract_class.rb" />
-      <jump line="292" column="6" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/abstract_class.rb" />
-      <jump line="3" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/abstract_class.rb" />
-      <jump line="831" column="8" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/base.rb" />
-      <jump line="828" column="7" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/base.rb" />
-      <jump line="832" column="32" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/base.rb" />
-      <jump line="2" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/base.rb" />
-      <jump line="4" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/base.rb" />
-      <jump line="89" column="15" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/base.rb" />
-      <jump line="401" column="12" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/base.rb" />
       <jump line="414" column="37" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/base.rb" />
       <jump line="459" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/base.rb" />
       <jump line="433" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/base.rb" />
@@ -1009,6 +999,16 @@
       <jump line="5" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/vispization/configuration.rb" />
       <jump line="231" column="4" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
       <jump line="15" column="44" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
+      <jump line="151" column="23" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
+      <jump line="97" column="32" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
+      <jump line="14" column="21" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
+      <jump line="95" column="10" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
+      <jump line="23" column="17" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
+      <jump line="96" column="43" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
+      <jump line="8" column="6" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/global_session.rb" />
+      <jump line="192" column="6" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/global_session.rb" />
+      <jump line="155" column="4" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/global_session.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1018,7 +1018,7 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>endpoint</text>
+        <text>global_session</text>
       </register>
       <register name="0" type="4">
         <text>employee_login_default_redirect_route</text>
@@ -1055,9 +1055,9 @@
       </register>
     </registers>
     <search>
-      <last-search>endpoint</last-search>
+      <last-search>global_session</last-search>
       <last-offset />
-      <last-pattern>endpoint</last-pattern>
+      <last-pattern>global_session</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sub</last-substitute>
       <last-dir>1</last-dir>
@@ -1065,7 +1065,6 @@
     </search>
     <history>
       <history-search>
-        <entry>find</entry>
         <entry>def provisioned</entry>
         <entry>provisioned</entry>
         <entry>method_missing</entry>
@@ -1085,6 +1084,7 @@
         <entry>item_descriptino</entry>
         <entry>readback</entry>
         <entry>endpoint</entry>
+        <entry>global_session</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
