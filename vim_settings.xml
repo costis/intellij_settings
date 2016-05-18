@@ -36,9 +36,6 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1463416057414">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/simpleform.component.html" timestamp="1461496769678">
         <mark key="'" line="2" column="15" />
         <mark key="[" line="13" column="46" />
@@ -729,9 +726,6 @@
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/base.rb" timestamp="1463406718829">
         <mark key="'" line="407" column="58" />
       </file>
-      <file name="/Ruby Console" timestamp="1463162571298">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/internal_only_controller.rb" timestamp="1463135530259">
         <mark key="'" line="4" column="8" />
       </file>
@@ -823,8 +817,8 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="4" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/Gemfile" timestamp="1462969939221">
-        <mark key="'" line="24" column="0" />
+      <file name="$USER_HOME$/projects/clara/concord/webapp/Gemfile" timestamp="1463575298329">
+        <mark key="'" line="5" column="0" />
         <mark key="[" line="16" column="21" />
         <mark key="]" line="17" column="17" />
         <mark key="." line="17" column="17" />
@@ -836,9 +830,6 @@
         <mark key="]" line="6" column="65" />
         <mark key="." line="6" column="65" />
         <mark key="^" line="6" column="64" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1462972900589">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/mailbox.rb" timestamp="1463403615922">
         <mark key="'" line="7" column="0" />
@@ -912,8 +903,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="539" column="8" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/base.rb" />
-      <jump line="430" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/base.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/base.rb" />
       <jump line="22" column="44" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/base.rb" />
       <jump line="77" column="43" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/base.rb" />
@@ -1012,6 +1001,8 @@
       <jump line="378" column="6" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
       <jump line="290" column="31" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/auth_controller.rb" />
       <jump line="377" column="5" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/Gemfile" />
+      <jump line="5" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1021,7 +1012,7 @@
         <text>possible</text>
       </register>
       <register name="/" type="4">
-        <text>login</text>
+        <text>clara_auth</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ID0gVmlzcGl6YXRpb246OkNvbmZpZ3VyYXRpb24uZmluZF9hbGxfYnlfaG9zdG5hbWUocmVxdWVzdC5ob3N0KS5maXJzdA==</text>
@@ -1058,9 +1049,9 @@
       </register>
     </registers>
     <search>
-      <last-search>login</last-search>
+      <last-search>clara_auth</last-search>
       <last-offset />
-      <last-pattern>login</last-pattern>
+      <last-pattern>clara_auth</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sub</last-substitute>
       <last-dir>1</last-dir>
@@ -1068,8 +1059,6 @@
     </search>
     <history>
       <history-search>
-        <entry>method_missing</entry>
-        <entry>parent_ref</entry>
         <entry>scratch</entry>
         <entry>get_scratch</entry>
         <entry>new_ma</entry>
@@ -1088,6 +1077,8 @@
         <entry>global_session</entry>
         <entry>private</entry>
         <entry>login</entry>
+        <entry>clara_oath</entry>
+        <entry>clara_auth</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
