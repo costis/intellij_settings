@@ -36,6 +36,9 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1463609971797">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/domain_controller.rb" timestamp="1463581671216">
         <mark key="'" line="0" column="45" />
       </file>
@@ -127,6 +130,7 @@
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/rest_api/package_summary.rb" timestamp="1463609761327" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/58664fa1-8296-4105-bc1d-8872f0ba9b16/console_1.sql" timestamp="1463578229857">
         <mark key="[" line="0" column="80" />
         <mark key="]" line="0" column="79" />
@@ -205,9 +209,11 @@
         <mark key="^" line="0" column="41" />
         <mark key="." line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/global_session.rb" timestamp="1463608739491">
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/global_session.rb" timestamp="1463609100698">
         <mark key="'" line="155" column="4" />
-        <mark key="[" line="359" column="74" />
+        <mark key="[" line="272" column="0" />
+        <mark key="]" line="272" column="0" />
+        <mark key="." line="272" column="0" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/test_process.rb" timestamp="1463062216143">
         <mark key="'" line="509" column="6" />
@@ -581,6 +587,7 @@
       <file name="$USER_HOME$/projects/clara/concord/webapp/test/fixtures/visp_configurations.yml" timestamp="1462965484899">
         <mark key="'" line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/package_summary_controller.rb" timestamp="1463609963143" />
       <file name="$USER_HOME$/projects/clara/concord/webapp/test/integration/dedicated_server_update_test.rb" timestamp="1463126963055">
         <mark key="'" line="67" column="28" />
       </file>
@@ -1056,7 +1063,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1068,31 +1075,31 @@
         <text encoding="base64">ID0gVmlzcGl6YXRpb246OkNvbmZpZ3VyYXRpb24uZmluZF9hbGxfYnlfaG9zdG5hbWUocmVxdWVzdC5ob3N0KS5maXJzdA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICBkZWYgZmluZF90YWdhZGFiX2VtcGxveWVlKGxvZ2luLCBwYXNzd29yZCkKICAgIEBlbXBsb3llZSA9IG5pbAogICAgZW1wbG95ZWVzX3dpdGhfbG9naW4gPSBFbXBsb3llZS5maW5kKDphbGwsIDpjb25kaXRpb25zID0+IHs6bG9naW4gPT4gbG9naW59KQogICAgaWYgZW1wbG95ZWVzX3dpdGhfbG9naW4uc2l6ZSA+IDAKICAgICAgZW1wbG95ZWVzX3dpdGhfbG9naW4uZWFjaCBkbyB8ZW1wbG95ZWV8CiAgICAgICAgQGVtcGxveWVlID0gZW1wbG95ZWUgaWYgZW1wbG95ZWUuaGFzX3Bhc3N3b3JkPyhwYXNzd29yZCkKICAgICAgZW5kCiAgICBlbmQKICAgIHJldHVybiBuaWwgaWYgQGVtcGxveWVlLm5pbD8KICAgIEB1c2VyX3Byb2ZpbGUgPSBVc2VyUHJvZmlsZS5uZXcKICAgIEB1c2VyX3Byb2ZpbGUuZW1wbG95ZWUgPSBAZW1wbG95ZWUKICAgIEB1c2VyX3Byb2ZpbGUKICBlbmQK</text>
+        <text encoding="base64">ICBkZWYgY2xlYXJfZW1wbG95ZWVfdXNlcl9wcm9maWxlCiAgICBAZW1wbG95ZWVfdXNlcl9wcm9maWxlID0gbmlsCiAgICBAZW1wbG95ZWVfdXNlcl9wcm9maWxlX2lkID0gbmlsCiAgZW5k</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdmlzcCA9IFZpc3BpemF0aW9uOjpDb25maWd1cmF0aW9uLmN1cnJlbnQuaWQK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICBkZWYgY2xlYXJfY2xhcmFfYXV0aF9yaWdodHMKICAgIEBjbGFyYV9hdXRoX3JpZ2h0cyA9IFtdCiAgZW5kCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgaWYgdmlzcCA9PSAzIG9yIHZpc3AgPT0gNwogICAgICAgIEB1c2VyX3Byb2ZpbGUgPSBmaW5kX3RhZ2FkYWJfZW1wbG95ZWUobG9naW4sIHBhc3N3b3JkKQogICAgICBlbHNl</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIEB1c2VyX3Byb2ZpbGUubmlsPwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
