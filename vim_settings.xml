@@ -400,12 +400,13 @@
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/billing/journal_entry.rb" timestamp="1461927853946">
         <mark key="'" line="296" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" timestamp="1463565414586">
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" timestamp="1463566899807">
         <mark key="g" line="22" column="19" />
-        <mark key="'" line="430" column="0" />
-        <mark key="[" line="257" column="4" />
-        <mark key="]" line="257" column="4" />
-        <mark key="." line="257" column="4" />
+        <mark key="'" line="144" column="0" />
+        <mark key="[" line="151" column="6" />
+        <mark key="]" line="151" column="6" />
+        <mark key="." line="151" column="6" />
+        <mark key="^" line="151" column="12" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/customer_mail_content.rb" timestamp="1462349155701">
         <mark key="'" line="227" column="0" />
@@ -908,7 +909,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="540" column="25" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/base.rb" />
       <jump line="820" column="13" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/base.rb" />
       <jump line="6" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/base.rb" />
       <jump line="408" column="22" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/base.rb" />
@@ -1008,6 +1008,7 @@
       <jump line="151" column="1" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
       <jump line="168" column="41" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
       <jump line="430" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
+      <jump line="144" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1019,35 +1020,35 @@
       <register name="/" type="4">
         <text>private</text>
       </register>
-      <register name="0" type="4">
-        <text>employee_login_default_redirect_route</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgUkFJTFNfREVGQVVMVF9MT0dHRVIuaW5mbyAiI3tzZWxmLmNsYXNzLm5hbWV9IDogVklTUF9EQkcgaGFzIGFscmVhZHkgYmVlbiBzZXQgaW4gQGdsb2JhbF9zZXNzaW9uOiAje0Bjb25maWcuaWR9Igo=</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>1</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>:</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>in @global_session</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">YWxyZWFkeSA=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAjICoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKiAjCiAgIyAqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKiogIwogICMgKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqICMK</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICBkZWYgcmVzdG9yZV92aXNwX2Zyb21fZ2xvYmFsX3Nlc3Npb24KICBlbmQKCiAgZGVmIHNldF92aXNwX2Zyb21faG9zdG5hbWUKICBlbmQ=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
