@@ -445,6 +445,12 @@
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/cmmailspace.rb" timestamp="1463415874105">
         <mark key="'" line="68" column="35" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/58664fa1-8296-4105-bc1d-8872f0ba9b16/console.sql" timestamp="1463577771776">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/automation/billd_money_maker.rb" timestamp="1461761090965">
         <mark key="'" line="3" column="8" />
       </file>
@@ -648,8 +654,8 @@
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/shop/visp_controller.rb" timestamp="1462892404642">
         <mark key="'" line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/auth_controller.rb" timestamp="1463568860457">
-        <mark key="'" line="290" column="31" />
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/auth_controller.rb" timestamp="1463577575339">
+        <mark key="'" line="122" column="37" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/ag2-directives-tutorial/app/myhighlight.directive.ts" timestamp="1461848965790">
         <mark key="'" line="0" column="0" />
@@ -903,7 +909,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/base.rb" />
       <jump line="22" column="44" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/base.rb" />
       <jump line="77" column="43" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/base.rb" />
       <jump line="136" column="10" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/base.rb" />
@@ -1003,10 +1008,11 @@
       <jump line="377" column="5" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/Gemfile" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/Gemfile" />
+      <jump line="122" column="37" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/auth_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZpc3BfY29uZmlnID0gVmlzcGl6YXRpb246OkNvbmZpZ3VyYXRpb24uZmluZF9hbGxfYnlfaG9zdG5hbWUocmVxdWVzdC5ob3N0KS5maXJzdAo=</text>
+        <text encoding="base64">U0VMRUNUIDI7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>possible</text>
@@ -1018,31 +1024,31 @@
         <text encoding="base64">ID0gVmlzcGl6YXRpb246OkNvbmZpZ3VyYXRpb24uZmluZF9hbGxfYnlfaG9zdG5hbWUocmVxdWVzdC5ob3N0KS5maXJzdA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZpc3BfY29uZmlnID0gVmlzcGl6YXRpb246OkNvbmZpZ3VyYXRpb24uZmluZF9hbGxfYnlfaG9zdG5hbWUocmVxdWVzdC5ob3N0KS5maXJzdAo=</text>
+        <text encoding="base64">U0VMRUNUIDI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgUkFJTFNfREVGQVVMVF9MT0dHRVIuaW5mbyAiI3tzZWxmLmNsYXNzLm5hbWV9IDogVklTUF9EQkcgaGFzIGJlZW4gc2V0IHRvICAje0Bjb25maWcuaWR9IGZvciBob3N0bmFtZSAje3JlcXVlc3QuaG9zdH0iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">c2VsZWN0IDE7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHZpc3BfY29uZmlnID0gVmlzcGl6YXRpb246OkNvbmZpZ3VyYXRpb24uZmluZF9hbGxfYnlfaG9zdG5hbWUocmVxdWVzdC5ob3N0KS5maXJzdAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgUkFJTFNfREVGQVVMVF9MT0dHRVIuaW5mbyAiI3tzZWxmLmNsYXNzLm5hbWV9IDogVklTUF9EQkcgaGFzIGJlZW4gc2V0IHRvICAje0Bjb25maWcuaWR9IGZvciBob3N0bmFtZSAje3JlcXVlc3QuaG9zdH0iCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgUkFJTFNfREVGQVVMVF9MT0dHRVIuaW5mbyAiI3tzZWxmLmNsYXNzLm5hbWV9IDogVklTUF9EQkcgaGFzIGFscmVhZHkgYmVlbiBzZXQgaW4gQGdsb2JhbF9zZXNzaW9uOiAje0Bjb25maWcuaWR9Igo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>possible</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">cmV0dXJuIA==</text>
       </register>
-      <register name="6" type="4">
-        <text>1</text>
-      </register>
-      <register name="7" type="4">
-        <text>:</text>
-      </register>
-      <register name="8" type="4">
-        <text>in @global_session</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">YWxyZWFkeSA=</text>
+        <text>1</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
