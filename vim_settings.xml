@@ -36,9 +36,6 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1463609971797">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/domain_controller.rb" timestamp="1463581671216">
         <mark key="'" line="0" column="45" />
       </file>
@@ -217,8 +214,8 @@
       <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/test_process.rb" timestamp="1463062216143">
         <mark key="'" line="509" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" timestamp="1463581991475">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" timestamp="1463749450978">
+        <mark key="'" line="445" column="392" />
         <mark key="[" line="309" column="0" />
         <mark key="]" line="309" column="0" />
         <mark key="." line="309" column="0" />
@@ -359,8 +356,8 @@
         <mark key="." line="13" column="36" />
         <mark key="^" line="13" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/webhosting.rb" timestamp="1463740725819">
-        <mark key="'" line="156" column="11" />
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/webhosting.rb" timestamp="1463748915780">
+        <mark key="'" line="181" column="11" />
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="^" line="377" column="34" />
@@ -469,11 +466,11 @@
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/cmmailspace.rb" timestamp="1463415874105">
         <mark key="'" line="68" column="35" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/58664fa1-8296-4105-bc1d-8872f0ba9b16/console.sql" timestamp="1463596850497">
-        <mark key="[" line="0" column="55" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/58664fa1-8296-4105-bc1d-8872f0ba9b16/console.sql" timestamp="1463749822662">
+        <mark key="[" line="1" column="55" />
+        <mark key="]" line="1" column="89" />
+        <mark key="^" line="1" column="89" />
+        <mark key="." line="1" column="89" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/automation/billd_money_maker.rb" timestamp="1461761090965">
         <mark key="'" line="3" column="8" />
@@ -681,8 +678,8 @@
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/shop/visp_controller.rb" timestamp="1462892404642">
         <mark key="'" line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/auth_controller.rb" timestamp="1463608350531">
-        <mark key="'" line="165" column="22" />
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/auth_controller.rb" timestamp="1463749236556">
+        <mark key="'" line="135" column="18" />
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
         <mark key="^" line="281" column="0" />
@@ -964,18 +961,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="34" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account.rb" />
-      <jump line="181" column="48" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account.rb" />
-      <jump line="182" column="22" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account.rb" />
-      <jump line="198" column="27" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account.rb" />
-      <jump line="116" column="26" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/mailhosting_types/chapi_two.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/mailhosting_types/chapi_two.rb" />
-      <jump line="912" column="37" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/mailhosting_types/chapi_two.rb" />
-      <jump line="68" column="35" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/cmmailspace.rb" />
-      <jump line="421" column="20" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/vispization/configuration.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/vispization/configuration.rb" />
-      <jump line="495" column="95" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/vispization/configuration.rb" />
-      <jump line="5" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/vispization/configuration.rb" />
       <jump line="231" column="4" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
       <jump line="97" column="32" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
@@ -1018,9 +1003,7 @@
       <jump line="163" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/shop/basket_controller.rb" />
       <jump line="58" column="44" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/shop/basket_controller.rb" />
       <jump line="165" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/shop/basket_controller.rb" />
-      <jump line="583" column="12" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
       <jump line="594" column="67" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
-      <jump line="552" column="62" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
       <jump line="553" column="80" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
       <jump line="549" column="61" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
       <jump line="263" column="6" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/pacman/account_search_controller.rb" />
@@ -1039,7 +1022,6 @@
       <jump line="0" column="45" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/domain_controller.rb" />
       <jump line="550" column="61" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
       <jump line="555" column="52" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
       <jump line="6" column="16" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/http_authenticated_controller.rb" />
       <jump line="62" column="22" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/business_api/session.rb" />
       <jump line="6" column="12" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/business_api/session.rb" />
@@ -1064,6 +1046,21 @@
       <jump line="525" column="36" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/service.rb" />
       <jump line="71" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/user_action_logger/log_types/deprovision_service_from_backoffice.rb" />
       <jump line="156" column="11" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/webhosting.rb" />
+      <jump line="181" column="11" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/webhosting.rb" />
+      <jump line="228" column="19" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/auth_controller.rb" />
+      <jump line="552" column="31" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
+      <jump line="586" column="66" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
+      <jump line="587" column="66" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
+      <jump line="583" column="66" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
+      <jump line="584" column="66" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
+      <jump line="81" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/auth_controller.rb" />
+      <jump line="2" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/auth_controller.rb" />
+      <jump line="116" column="18" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/auth_controller.rb" />
+      <jump line="126" column="20" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/auth_controller.rb" />
+      <jump line="135" column="18" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/auth_controller.rb" />
+      <jump line="585" column="66" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
+      <jump line="445" column="392" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1073,7 +1070,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>deprovision</text>
+        <text>auth_code</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ID0gVmlzcGl6YXRpb246OkNvbmZpZ3VyYXRpb24uZmluZF9hbGxfYnlfaG9zdG5hbWUocmVxdWVzdC5ob3N0KS5maXJzdA==</text>
@@ -1110,9 +1107,9 @@
       </register>
     </registers>
     <search>
-      <last-search>deprovision</last-search>
+      <last-search>auth_code</last-search>
       <last-offset />
-      <last-pattern>deprovision</last-pattern>
+      <last-pattern>auth_code</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sub</last-substitute>
       <last-dir>1</last-dir>
@@ -1120,10 +1117,6 @@
     </search>
     <history>
       <history-search>
-        <entry>TSS</entry>
-        <entry>is not un</entry>
-        <entry>chargeable_items</entry>
-        <entry>item_descriptino</entry>
         <entry>readback</entry>
         <entry>endpoint</entry>
         <entry>global_session</entry>
@@ -1140,6 +1133,10 @@
         <entry>RestApi</entry>
         <entry>@session</entry>
         <entry>deprovision</entry>
+        <entry>authenticate</entry>
+        <entry>'auth'</entry>
+        <entry>fresh_login</entry>
+        <entry>auth_code</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
