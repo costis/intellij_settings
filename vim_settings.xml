@@ -672,6 +672,9 @@
       <file name="$USER_HOME$/projects/learning/js/directive-kata/node_modules/@angular/common/src/forms/directives/ng_control.d.ts" timestamp="1462366862152">
         <mark key="'" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/sessions_controller.rb" timestamp="1463756839211">
+        <mark key="'" line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/changepassword.component.html" timestamp="1461581701690">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="37" column="7" />
@@ -964,9 +967,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="430" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
-      <jump line="144" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
-      <jump line="150" column="6" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
       <jump line="16" column="43" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
       <jump line="105" column="6" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
       <jump line="0" column="6" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/auth_controller.rb" />
@@ -1064,6 +1064,9 @@
       <jump line="15" column="44" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
       <jump line="460" column="20" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/user_profile.rb" />
       <jump line="32" column="25" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/user_profile.rb" />
+      <jump line="27" column="36" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/sessions_controller.rb" />
+      <jump line="18" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/sessions_controller.rb" />
+      <jump line="38" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/sessions_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
