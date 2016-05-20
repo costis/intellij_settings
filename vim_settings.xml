@@ -359,8 +359,8 @@
         <mark key="." line="13" column="36" />
         <mark key="^" line="13" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/webhosting.rb" timestamp="1462985926168">
-        <mark key="'" line="26" column="42" />
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/webhosting.rb" timestamp="1463740011017">
+        <mark key="'" line="156" column="12" />
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="^" line="377" column="34" />
@@ -964,7 +964,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="28" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account.rb" />
       <jump line="163" column="34" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account.rb" />
       <jump line="181" column="48" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account.rb" />
       <jump line="182" column="22" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account.rb" />
@@ -1064,6 +1063,7 @@
       <jump line="12" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/service.rb" />
       <jump line="525" column="36" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/service.rb" />
       <jump line="71" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/user_action_logger/log_types/deprovision_service_from_backoffice.rb" />
+      <jump line="156" column="12" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/webhosting.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
