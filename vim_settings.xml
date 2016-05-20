@@ -130,7 +130,6 @@
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/rest_api/package_summary.rb" timestamp="1463609761327" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/58664fa1-8296-4105-bc1d-8872f0ba9b16/console_1.sql" timestamp="1463578229857">
         <mark key="[" line="0" column="80" />
         <mark key="]" line="0" column="79" />
@@ -315,7 +314,6 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/ciot/sftp_uploader.rb" timestamp="1463584403203" />
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/abstract_class.rb" timestamp="1463403541025">
         <mark key="'" line="76" column="23" />
       </file>
@@ -416,6 +414,7 @@
         <mark key="]" line="430" column="62" />
         <mark key="." line="434" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/secure_payment/pay_and_postprocess/pay_for_order.rb" timestamp="1463734732745" />
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/billing/journal_entry.rb" timestamp="1461927853946">
         <mark key="'" line="296" column="26" />
       </file>
@@ -587,7 +586,6 @@
       <file name="$USER_HOME$/projects/clara/concord/webapp/test/fixtures/visp_configurations.yml" timestamp="1462965484899">
         <mark key="'" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/package_summary_controller.rb" timestamp="1463609963143" />
       <file name="$USER_HOME$/projects/clara/concord/webapp/test/integration/dedicated_server_update_test.rb" timestamp="1463126963055">
         <mark key="'" line="67" column="28" />
       </file>
@@ -828,6 +826,9 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="0" column="19" />
       </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/service.rb" timestamp="1463735865579">
+        <mark key="'" line="537" column="13" />
+      </file>
       <file name="$USER_HOME$/projects/learning/js/ag2-unit-testing/package.json" timestamp="1461944604481">
         <mark key="'" line="3" column="0" />
       </file>
@@ -960,9 +961,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="332" column="6" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/mailhosting_types/chapi_two.rb" />
-      <jump line="165" column="26" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/mailhosting_types/chapi_two.rb" />
-      <jump line="105" column="22" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/mailhosting.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/pacman/accounts/service_reallocator_controller.rb" />
       <jump line="308" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/pacman/accounts/service_reallocator_controller.rb" />
       <jump line="26" column="6" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account.rb" />
@@ -1060,6 +1058,9 @@
       <jump line="187" column="22" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/auth_controller.rb" />
       <jump line="140" column="6" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
       <jump line="125" column="4" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
+      <jump line="279" column="6" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/service.rb" />
+      <jump line="537" column="13" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/service.rb" />
+      <jump line="281" column="8" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/service.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
