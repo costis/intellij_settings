@@ -336,6 +336,9 @@
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/user_profile.rb" timestamp="1463578002146">
         <mark key="'" line="203" column="12" />
       </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/user_action_logger/log_types/deprovision_service_from_backoffice.rb" timestamp="1463737370655">
+        <mark key="'" line="71" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/learning/js/directive-kata/node_modules/@angular/core/src/metadata.d.ts" timestamp="1462653902972">
         <mark key="'" line="1107" column="14" />
       </file>
@@ -826,8 +829,8 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/service.rb" timestamp="1463735865579">
-        <mark key="'" line="537" column="13" />
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/service.rb" timestamp="1463737368347">
+        <mark key="'" line="525" column="36" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/ag2-unit-testing/package.json" timestamp="1461944604481">
         <mark key="'" line="3" column="0" />
@@ -961,10 +964,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/pacman/accounts/service_reallocator_controller.rb" />
-      <jump line="308" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/pacman/accounts/service_reallocator_controller.rb" />
-      <jump line="26" column="6" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account.rb" />
-      <jump line="111" column="12" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account.rb" />
       <jump line="159" column="28" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account.rb" />
       <jump line="163" column="34" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account.rb" />
       <jump line="181" column="48" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account.rb" />
@@ -1061,6 +1060,10 @@
       <jump line="279" column="6" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/service.rb" />
       <jump line="537" column="13" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/service.rb" />
       <jump line="281" column="8" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/service.rb" />
+      <jump line="538" column="6" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/service.rb" />
+      <jump line="12" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/service.rb" />
+      <jump line="525" column="36" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/service.rb" />
+      <jump line="71" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/user_action_logger/log_types/deprovision_service_from_backoffice.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1070,7 +1073,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>@session</text>
+        <text>deprovision</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ID0gVmlzcGl6YXRpb246OkNvbmZpZ3VyYXRpb24uZmluZF9hbGxfYnlfaG9zdG5hbWUocmVxdWVzdC5ob3N0KS5maXJzdA==</text>
@@ -1107,9 +1110,9 @@
       </register>
     </registers>
     <search>
-      <last-search>@session</last-search>
+      <last-search>deprovision</last-search>
       <last-offset />
-      <last-pattern>@session</last-pattern>
+      <last-pattern>deprovision</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sub</last-substitute>
       <last-dir>1</last-dir>
@@ -1117,7 +1120,6 @@
     </search>
     <history>
       <history-search>
-        <entry>validate</entry>
         <entry>TSS</entry>
         <entry>is not un</entry>
         <entry>chargeable_items</entry>
@@ -1137,6 +1139,7 @@
         <entry>page</entry>
         <entry>RestApi</entry>
         <entry>@session</entry>
+        <entry>deprovision</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
