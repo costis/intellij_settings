@@ -5,6 +5,12 @@
       <mark key="A" line="123" column="13" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/secure_payment/pay_and_postprocess/pay_for_order.rb" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/json_api_controller_test.rb" timestamp="1464018802809">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="2" column="43" />
+        <mark key="]" line="2" column="43" />
+        <mark key="." line="2" column="43" />
+      </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/auto-grow.directive.ts" timestamp="1461329457722">
         <mark key="'" line="9" column="13" />
         <mark key="[" line="10" column="66" />
@@ -365,6 +371,9 @@
         <mark key="." line="7" column="1" />
         <mark key="^" line="7" column="1" />
       </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/json_api_controller_test.rb" timestamp="1464018188488">
+        <mark key="'" line="57" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/learning/js/directive-kata/app/domaingroups.service.ts" timestamp="1462619537772">
         <mark key="'" line="17" column="31" />
         <mark key="[" line="13" column="30" />
@@ -409,7 +418,7 @@
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/base.rb" timestamp="1463406718829">
         <mark key="'" line="407" column="58" />
       </file>
-      <file name="/Ruby Console" timestamp="1464013833714">
+      <file name="/Ruby Console" timestamp="1464018805759">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/pacman/accounts/pay_arbitrary_period_controller.rb" timestamp="1461927352681">
@@ -562,6 +571,13 @@
       <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller.rb" timestamp="1463214620386">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/V2/json_api_controller.rb" timestamp="1464018235865">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="3" column="78" />
+        <mark key="]" line="3" column="78" />
+        <mark key="^" line="3" column="85" />
+        <mark key="." line="3" column="78" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/58664fa1-8296-4105-bc1d-8872f0ba9b16/console_1.sql" timestamp="1463578229857">
         <mark key="[" line="0" column="80" />
         <mark key="]" line="0" column="79" />
@@ -697,7 +713,7 @@
       <file name="$USER_HOME$/projects/learning/js/directive-kata/node_modules/@angular/core/src/metadata.d.ts" timestamp="1462653902972">
         <mark key="'" line="1107" column="14" />
       </file>
-      <file name="/fragment.rb" timestamp="1464013856439">
+      <file name="/fragment.rb" timestamp="1464018839119">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -738,12 +754,12 @@
         <mark key="]" line="430" column="62" />
         <mark key="." line="434" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/V2/base_controller.rb" timestamp="1464013582942">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="3" column="6" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/V2/base_controller.rb" timestamp="1464017879791">
+        <mark key="'" line="4" column="44" />
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="3" column="44" />
+        <mark key="^" line="3" column="44" />
+        <mark key="." line="3" column="44" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" timestamp="1464008415292">
         <mark key="g" line="22" column="19" />
@@ -817,12 +833,12 @@
         <mark key="^" line="3" column="50" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" timestamp="1464015816149">
+      <file name="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" timestamp="1464018020363">
         <mark key="'" line="23" column="29" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="23" column="87" />
-        <mark key="." line="19" column="0" />
+        <mark key="[" line="14" column="10" />
+        <mark key="]" line="14" column="16" />
+        <mark key="^" line="14" column="16" />
+        <mark key="." line="14" column="16" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/package_summary_controller.rb" timestamp="1463995096747">
         <mark key="'" line="2" column="0" />
@@ -876,6 +892,13 @@
         <mark key="]" line="37" column="11" />
         <mark key="." line="37" column="11" />
         <mark key="^" line="37" column="11" />
+      </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/json_api_controller.rb" timestamp="1464018605303">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="2" column="3" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/http_authenticated_controller.rb" timestamp="1464004533717">
         <mark key="'" line="5" column="0" />
@@ -1021,22 +1044,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="47" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
-      <jump line="65" column="2" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
-      <jump line="15" column="44" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
-      <jump line="1249" column="8" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/routing.rb" />
-      <jump line="47" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/integration.rb" />
-      <jump line="17" column="37" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/integration.rb" />
-      <jump line="585" column="17" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
-      <jump line="229" column="46" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
-      <jump line="155" column="201" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
-      <jump line="195" column="9" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
-      <jump line="196" column="11" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
-      <jump line="224" column="56" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
-      <jump line="544" column="31" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
-      <jump line="549" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
-      <jump line="1" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
       <jump line="34" column="6" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/http_authenticated_controller_test.rb" />
       <jump line="4" column="44" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/http_authenticated_controller.rb" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/http_authenticated_controller.rb" />
@@ -1082,7 +1089,6 @@
       <jump line="17" column="15" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
       <jump line="21" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
       <jump line="10" column="4" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/V2/base_controller.rb" />
-      <jump line="11" column="8" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/V2/base_controller.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/V2/base_controller.rb" />
       <jump line="19" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
@@ -1121,13 +1127,30 @@
       <jump line="43" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
       <jump line="7" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
       <jump line="23" column="29" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
+      <jump line="11" column="6" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/V2/base_controller.rb" />
+      <jump line="4" column="44" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/V2/base_controller.rb" />
+      <jump line="10" column="21" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/V2/json_api_controller.rb" />
+      <jump line="3" column="37" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/V2/json_api_controller.rb" />
+      <jump line="44" column="12" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/json_api_controller_test.rb" />
+      <jump line="17" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/json_api_controller_test.rb" />
+      <jump line="57" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/json_api_controller_test.rb" />
+      <jump line="6" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/V2/json_api_controller.rb" />
+      <jump line="20" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/json_api_controller_test.rb" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/json_api_controller.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/json_api_controller.rb" />
+      <jump line="13" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/json_api_controller.rb" />
+      <jump line="5" column="22" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/json_api_controller_test.rb" />
+      <jump line="13" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/json_api_controller_test.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/json_api_controller_test.rb" />
+      <jump line="4" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/json_api_controller_test.rb" />
+      <jump line="55" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/json_api_controller_test.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhlYWRlcnNbJ0F1dGhvcml6YXRpb24nXSA9IEFjdGlvbkNvbnRyb2xsZXI6Okh0dHBBdXRoZW50aWNhdGlvbjo6QmFzaWMuZW5jb2RlX2NyZWRlbnRpYWxzKHZpc3AubmFtZSwgdmlzcC5wYXNzd29yZCkK</text>
+      <register name="&quot;" type="4">
+        <text>V2::</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>V2::</text>
       </register>
       <register name="/" type="4">
         <text>visp</text>
@@ -1135,32 +1158,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICA6YXV0aG9yaXphdGlvbiA9PiBBY3Rpb25Db250cm9sbGVyOjpIdHRwQXV0aGVudGljYXRpb246OkJhc2ljLmVuY29kZV9jcmVkZW50aWFscyh2aXNwLm5hbWUsIHZpc3AucGFzc3dvcmQpLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhlYWRlcnNbJ0F1dGhvcml6YXRpb24nXSA9IEFjdGlvbkNvbnRyb2xsZXI6Okh0dHBBdXRoZW50aWNhdGlvbjo6QmFzaWMuZW5jb2RlX2NyZWRlbnRpYWxzKHZpc3AubmFtZSwgdmlzcC5wYXNzd29yZCkK</text>
+      <register name="1" type="4">
+        <text>V2::</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBlbmQK</text>
       </register>
-      <register name="3" type="4">
-        <text>)</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBtb2R1bGUgVjIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA6YXV0aG9yaXphdGlvbiA9PiBBY3Rpb25Db250cm9sbGVyOjpIdHRwQXV0aGVudGljYXRpb246OkJhc2ljLmVuY29kZV9jcmVkZW50aWFscyh2aXNwLm5hbWUsIHZpc3AucGFzc3dvcmQpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBlbmQK</text>
       </register>
-      <register name="7" type="4">
-        <text>,</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBtb2R1bGUgVjIK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA6YXV0aG9yaXphdGlvbiA9PiBBY3Rpb25Db250cm9sbGVyOjpIdHRwQXV0aGVudGljYXRpb246OkJhc2ljLmVuY29kZV9jcmVkZW50aWFscyh2aXNwLm5hbWUsIHZpc3AucGFzc3dvcmQpLAo=</text>
+      <register name="8" type="4">
+        <text>../</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>**only**</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
