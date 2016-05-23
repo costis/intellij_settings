@@ -817,9 +817,12 @@
         <mark key="^" line="3" column="50" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" timestamp="1464014488871">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="15" column="85" />
+      <file name="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" timestamp="1464015816149">
+        <mark key="'" line="23" column="29" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="23" column="87" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/package_summary_controller.rb" timestamp="1463995096747">
         <mark key="'" line="2" column="0" />
@@ -1018,10 +1021,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="277" column="28" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
-      <jump line="317" column="28" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
-      <jump line="323" column="30" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
-      <jump line="341" column="17" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
       <jump line="123" column="47" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
       <jump line="65" column="2" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
       <jump line="15" column="44" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
@@ -1064,7 +1063,6 @@
       <jump line="40" column="10" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
       <jump line="14" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
       <jump line="19" column="9" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/http_authenticated_controller_test.rb" />
-      <jump line="43" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
       <jump line="31" column="9" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/http_authenticated_controller_test.rb" />
       <jump line="46" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/http_authenticated_controller_test.rb" />
       <jump line="35" column="3" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/http_authenticated_controller_test.rb" />
@@ -1115,58 +1113,63 @@
       <jump line="30" column="12" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
       <jump line="24" column="42" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
       <jump line="41" column="8" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
-      <jump line="3" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
       <jump line="31" column="29" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
       <jump line="35" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
+      <jump line="3" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
+      <jump line="42" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
+      <jump line="43" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
+      <jump line="7" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
+      <jump line="23" column="29" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>self.request</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmhlYWRlcnNbJ0F1dGhvcml6YXRpb24nXSA9IEFjdGlvbkNvbnRyb2xsZXI6Okh0dHBBdXRoZW50aWNhdGlvbjo6QmFzaWMuZW5jb2RlX2NyZWRlbnRpYWxzKHZpc3AubmFtZSwgdmlzcC5wYXNzd29yZCkK</text>
       </register>
       <register name="-" type="4">
-        <text>self.request</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>json</text>
+        <text>visp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbGYuaG9zdCA9ICdhZG1pbi5jbGFyYWhvc3QuY28udWsnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA6YXV0aG9yaXphdGlvbiA9PiBBY3Rpb25Db250cm9sbGVyOjpIdHRwQXV0aGVudGljYXRpb246OkJhc2ljLmVuY29kZV9jcmVkZW50aWFscyh2aXNwLm5hbWUsIHZpc3AucGFzc3dvcmQpLAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>self.request</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmhlYWRlcnNbJ0F1dGhvcml6YXRpb24nXSA9IEFjdGlvbkNvbnRyb2xsZXI6Okh0dHBBdXRoZW50aWNhdGlvbjo6QmFzaWMuZW5jb2RlX2NyZWRlbnRpYWxzKHZpc3AubmFtZSwgdmlzcC5wYXNzd29yZCkK</text>
       </register>
       <register name="2" type="4">
-        <text>@</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
-      <register name="4" type="4">
-        <text>self</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA6YXV0aG9yaXphdGlvbiA9PiBBY3Rpb25Db250cm9sbGVyOjpIdHRwQXV0aGVudGljYXRpb246OkJhc2ljLmVuY29kZV9jcmVkZW50aWFscyh2aXNwLm5hbWUsIHZpc3AucGFzc3dvcmQpLAo=</text>
       </register>
       <register name="5" type="4">
-        <text>expect</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>406</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>200</text>
+        <text>,</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">TWltZTo6VHlwZS5yZWdpc3RlciAiaW1hZ2UvanBnIiwgOmpwY3Rpb25Db250cm9sbGVyOjpTdGF0dXNDb2RlcyA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA6YXV0aG9yaXphdGlvbiA9PiBBY3Rpb25Db250cm9sbGVyOjpIdHRwQXV0aGVudGljYXRpb246OkJhc2ljLmVuY29kZV9jcmVkZW50aWFscyh2aXNwLm5hbWUsIHZpc3AucGFzc3dvcmQpLAo=</text>
       </register>
       <register name="9" type="4">
-        <text>vnd.api+json</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>json</last-search>
+      <last-search>visp</last-search>
       <last-offset />
-      <last-pattern>json</last-pattern>
+      <last-pattern>visp</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sub</last-substitute>
       <last-dir>1</last-dir>
@@ -1178,7 +1181,6 @@
         <entry>config</entry>
         <entry>attr</entry>
         <entry>attr_</entry>
-        <entry>visp</entry>
         <entry>authenticate</entry>
         <entry>restcontrol</entry>
         <entry>rest_con</entry>
@@ -1194,6 +1196,7 @@
         <entry>def register</entry>
         <entry>it</entry>
         <entry>json</entry>
+        <entry>visp</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
