@@ -713,12 +713,12 @@
         <mark key="]" line="430" column="62" />
         <mark key="." line="434" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/V2/base_controller.rb" timestamp="1464008503799">
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/V2/base_controller.rb" timestamp="1464009850956">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="8" column="38" />
-        <mark key="." line="9" column="0" />
+        <mark key="[" line="7" column="37" />
+        <mark key="]" line="7" column="37" />
+        <mark key="^" line="7" column="38" />
+        <mark key="." line="7" column="37" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" timestamp="1464008415292">
         <mark key="g" line="22" column="19" />
@@ -1090,11 +1090,11 @@
       <jump line="19" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>request</text>
@@ -1102,29 +1102,29 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2aXNwID0gVmlzcGl6YXRpb246OkNvbmZpZ3VyYXRpb24uZmluZF9hbGxfYnlfaG9zdG5hbWUoaG9zdCkuZmlyc3QK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>r</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>none</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBlbmQK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IA==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGVuZAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
