@@ -526,12 +526,12 @@
         <mark key="^" line="23" column="111" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/domain_extension_groups_controller.rb" timestamp="1464035750850">
-        <mark key="'" line="11" column="4" />
-        <mark key="[" line="7" column="35" />
-        <mark key="]" line="8" column="10" />
-        <mark key="^" line="8" column="10" />
-        <mark key="." line="8" column="10" />
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/domain_extension_groups_controller.rb" timestamp="1464038343459">
+        <mark key="'" line="9" column="14" />
+        <mark key="[" line="27" column="31" />
+        <mark key="]" line="28" column="28" />
+        <mark key="^" line="28" column="28" />
+        <mark key="." line="28" column="28" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/account.rb" timestamp="1463412795757">
         <mark key="'" line="198" column="27" />
@@ -983,9 +983,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="3" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/http_authenticated_controller_test.rb" />
-      <jump line="42" column="4" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/http_authenticated_controller_test.rb" />
-      <jump line="43" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/http_authenticated_controller_test.rb" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/http_authenticated_controller_test.rb" />
       <jump line="0" column="14" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/http_authenticated_controller_test.rb" />
       <jump line="12" column="3" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/http_authenticated_controller_test.rb" />
@@ -1083,46 +1080,49 @@
       <jump line="5" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/domain_extension_groups_controller.rb" />
       <jump line="875" column="40" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/base.rb" />
       <jump line="7" column="4" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/domain_extension_groups_controller.rb" />
+      <jump line="10" column="20" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/domain_extension_groups_controller.rb" />
+      <jump line="4" column="9" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/domain_extension_groups_controller.rb" />
+      <jump line="9" column="14" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/domain_extension_groups_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>path_prefix</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXJ0X2tpbmRfb2YgSGFzaCwgcGF5bG9hZFsnZGF0YSddWydhdHRyaWJ1dGVzJ10KICAgIGVuZAo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ewogICAgICAgICAgICAgIDp0eXBlID0+IERvbWFpbkV4dGVuc2lvbkdyb3VwLAogICAgICAgICAgICAgIDphdHRyaWJ1dGVzID0+IHt9LAogICAgICAgICAgICAgIDpyZWxhdGlvbnNoaXBzID0+IHt9CiAgICAgICAgICB9</text>
       </register>
       <register name="1" type="4">
-        <text>}</text>
+        <text>r</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="4">
-        <text>attributes</text>
+        <text>groups</text>
       </register>
-      <register name="4" type="2">
+      <register name="4" type="4">
+        <text>oups</text>
+      </register>
+      <register name="5" type="4">
+        <text>group</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>'Blah'</text>
-      </register>
-      <register name="7" type="4">
-        <text>type</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>}</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
