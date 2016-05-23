@@ -115,8 +115,10 @@
         <mark key="." line="0" column="42" />
         <mark key="^" line="0" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/http_authentication.rb" timestamp="1462894638229">
-        <mark key="'" line="3" column="0" />
+      <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/http_authentication.rb" timestamp="1463996801775">
+        <mark key="'" line="82" column="0" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="66" column="33" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/directive-kata/node_modules/browser-sync/node_modules/lodash/_baseIntersection.js" timestamp="1462366767592">
         <mark key="'" line="68" column="2" />
@@ -268,9 +270,12 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/http_authenticated_controller_test.rb" timestamp="1463996122392">
-        <mark key="'" line="15" column="16" />
-        <mark key="[" line="9" column="81" />
+      <file name="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/http_authenticated_controller_test.rb" timestamp="1463996873467">
+        <mark key="'" line="14" column="140" />
+        <mark key="[" line="16" column="113" />
+        <mark key="]" line="16" column="116" />
+        <mark key="." line="16" column="116" />
+        <mark key="^" line="16" column="116" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/test/unit/PasswordCheckerTest.rb" timestamp="1462986705629">
         <mark key="'" line="30" column="6" />
@@ -704,8 +709,10 @@
         <mark key="." line="7" column="1" />
         <mark key="^" line="7" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/http_authenticated_controller.rb" timestamp="1463994768514">
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/http_authenticated_controller.rb" timestamp="1463996834445">
         <mark key="'" line="6" column="32" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="45" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/directive-kata/app/domaingroups.service.ts" timestamp="1462619537772">
         <mark key="'" line="17" column="31" />
@@ -973,9 +980,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="378" column="6" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
-      <jump line="290" column="31" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/auth_controller.rb" />
-      <jump line="377" column="5" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/Gemfile" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/Gemfile" />
       <jump line="203" column="12" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/user_profile.rb" />
@@ -1071,48 +1075,51 @@
       <jump line="3" column="51" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/package_summary_controller.rb" />
       <jump line="10" column="4" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/package_summary_controller.rb" />
       <jump line="2" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/package_summary_controller.rb" />
-      <jump line="15" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/http_authenticated_controller_test.rb" />
-      <jump line="14" column="16" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/http_authenticated_controller_test.rb" />
+      <jump line="82" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/http_authentication.rb" />
+      <jump line="15" column="1" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/http_authenticated_controller_test.rb" />
+      <jump line="7" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/http_authenticated_controller_test.rb" />
+      <jump line="6" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/http_authenticated_controller_test.rb" />
+      <jump line="14" column="140" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/http_authenticated_controller_test.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBmaXh0dXJlcyA6dmlzcF9jb25maWd1cmF0aW9ucywgOnZpc3BfY29uZmlndXJhdGlvbl92YWx1ZXMsIDpnbG9iYWxpemVfbGFuZ3VhZ2VzCg==</text>
+      <register name="&quot;" type="4">
+        <text>users(:dhh)</text>
       </register>
       <register name="-" type="4">
-        <text>uses th</text>
+        <text>users(:dhh)</text>
       </register>
       <register name="/" type="4">
         <text>attr_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBmaXh0dXJlcyA6dmlzcF9jb25maWd1cmF0aW9ucywgOnZpc3BfY29uZmlndXJhdGlvbl92YWx1ZXMsIDpnbG9iYWxpemVfbGFuZ3VhZ2VzCg==</text>
+        <text encoding="base64">ICAgIHZpc3AgPSBWaXNwaXphdGlvbjo6Q29uZmlndXJhdGlvbi5jdXJyZW50Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>uses th</text>
+        <text>users(:dhh)</text>
       </register>
       <register name="2" type="4">
-        <text>, 200</text>
+        <text>users(:dhh)</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>s</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBTMjRFMzkwSEwK</text>
       </register>
-      <register name="5" type="4">
-        <text>r</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBTMjRFMzkwSEwK</text>
       </register>
       <register name="6" type="4">
-        <text>l</text>
+        <text>uses th</text>
       </register>
       <register name="7" type="4">
-        <text>e</text>
+        <text>, 200</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>repspon</text>
+        <text>s</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
