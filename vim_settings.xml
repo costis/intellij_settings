@@ -5,12 +5,6 @@
       <mark key="A" line="123" column="13" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/secure_payment/pay_and_postprocess/pay_for_order.rb" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/json_api_controller_test.rb" timestamp="1464019958234">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="30" column="55" />
-        <mark key="]" line="30" column="92" />
-        <mark key="." line="2" column="43" />
-      </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/auto-grow.directive.ts" timestamp="1461329457722">
         <mark key="'" line="9" column="13" />
         <mark key="[" line="10" column="66" />
@@ -224,11 +218,11 @@
         <mark key="." line="37" column="55" />
         <mark key="^" line="37" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/jsonapi_simple/test/test_helper.rb" timestamp="1464100045142">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-        <mark key="^" line="0" column="9" />
+      <file name="$USER_HOME$/projects/jsonapi_simple/test/test_helper.rb" timestamp="1464100458079">
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="1" column="31" />
+        <mark key="." line="1" column="31" />
+        <mark key="^" line="1" column="31" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/routing.rb" timestamp="1464002366727">
         <mark key="'" line="1249" column="8" />
@@ -297,11 +291,12 @@
         <mark key="." line="16" column="10" />
         <mark key="^" line="16" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/jsonapi_simple/test/jsonapi_simple/serializer_test.rb" timestamp="1464100265510">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="24" />
-        <mark key="^" line="0" column="24" />
+      <file name="$USER_HOME$/projects/jsonapi_simple/test/jsonapi_simple/serializer_test.rb" timestamp="1464101093287">
+        <mark key="'" line="20" column="3" />
+        <mark key="[" line="16" column="34" />
+        <mark key="]" line="16" column="42" />
+        <mark key="^" line="16" column="42" />
+        <mark key="." line="16" column="42" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/newsletter.component.html" timestamp="1461501742976">
         <mark key="'" line="7" column="25" />
@@ -418,6 +413,13 @@
         <mark key="]" line="13" column="29" />
         <mark key="." line="13" column="29" />
         <mark key="^" line="13" column="29" />
+      </file>
+      <file name="$USER_HOME$/projects/jsonapi_simple/lib/jsonapi_simple/serializer.rb" timestamp="1464100729614">
+        <mark key="'" line="4" column="6" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/package.json" timestamp="1461599039856">
         <mark key="'" line="8" column="44" />
@@ -766,6 +768,12 @@
       <file name="$USER_HOME$/projects/learning/js/directive-kata/node_modules/@angular/core/src/metadata.d.ts" timestamp="1462653902972">
         <mark key="'" line="1107" column="14" />
       </file>
+      <file name="/fragment.rb" timestamp="1464018839119">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+        <mark key="^" line="0" column="37" />
+      </file>
       <file name="$USER_HOME$/.rvm/gems/ruby-1.8.7-p374@concord/gems/ruby-cracklib-1.0.0/lib/cracklib.rb" timestamp="1462986347530">
         <mark key="'" line="3" column="0" />
       </file>
@@ -1081,10 +1089,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
-      <jump line="42" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
-      <jump line="43" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
-      <jump line="7" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
       <jump line="23" column="29" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
       <jump line="11" column="6" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/V2/base_controller.rb" />
       <jump line="4" column="44" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/V2/base_controller.rb" />
@@ -1181,55 +1185,59 @@
       <jump line="8" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="20" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="45" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
+      <jump line="5" column="34" filename="$USER_HOME$/projects/jsonapi_simple/test/jsonapi_simple/serializer_test.rb" />
+      <jump line="4" column="6" filename="$USER_HOME$/projects/jsonapi_simple/lib/jsonapi_simple/serializer.rb" />
+      <jump line="9" column="32" filename="$USER_HOME$/projects/jsonapi_simple/test/jsonapi_simple/serializer_test.rb" />
+      <jump line="15" column="3" filename="$USER_HOME$/projects/jsonapi_simple/test/jsonapi_simple/serializer_test.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(File.dirname(__FILE__), '../../test_helpererasdf')</text>
+        <text>Sample</text>
       </register>
       <register name="-" type="4">
-        <text>(File.dirname(__FILE__), '../../test_helpererasdf')</text>
+        <text>Sample</text>
       </register>
       <register name="/" type="4">
-        <text>hirb</text>
+        <text>of</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cmVxdWlyZSAianNvbmFwaV9zaW1wbGUvdmVyc2lvbiIK</text>
       </register>
       <register name="1" type="4">
-        <text>(File.dirname(__FILE__), '../../test_helpererasdf')</text>
+        <text>Sample</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>Sample</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAjIFlvdXIgY29kZSBnb2VzIGhlcmUuLi4K</text>
+      <register name="4" type="4">
+        <text>Sample</text>
       </register>
       <register name="5" type="4">
-        <text>version</text>
+        <text>Struct.new</text>
       </register>
       <register name="6" type="4">
-        <text>serializer_test</text>
+        <text encoding="base64">ICAgIGRlZiBmaXh0dXJlCgogICAgZW5kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbyA9IFN0cnVjdC5uZXcK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>_</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>hirb</last-search>
+      <last-search>of</last-search>
       <last-offset />
-      <last-pattern>hirb</last-pattern>
+      <last-pattern>of</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sub</last-substitute>
       <last-dir>1</last-dir>
@@ -1237,8 +1245,6 @@
     </search>
     <history>
       <history-search>
-        <entry>authenticate</entry>
-        <entry>restcontrol</entry>
         <entry>rest_con</entry>
         <entry>reset</entry>
         <entry>rest</entry>
@@ -1257,6 +1263,8 @@
         <entry>namespace</entry>
         <entry>path_prefix</entry>
         <entry>hirb</entry>
+        <entry>type</entry>
+        <entry>of</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
