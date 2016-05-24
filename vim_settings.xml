@@ -42,13 +42,13 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" timestamp="1464092669908">
-        <mark key="a" line="40" column="40" />
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="47" column="11" />
-        <mark key="]" line="51" column="5" />
-        <mark key="." line="51" column="5" />
-        <mark key="^" line="51" column="5" />
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" timestamp="1464094162262">
+        <mark key="a" line="47" column="40" />
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="9" column="12" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/domain_controller.rb" timestamp="1463581671216">
         <mark key="'" line="0" column="45" />
@@ -77,6 +77,12 @@
       <file name="$USER_HOME$/projects/learning/js/directive-kata/node_modules/browser-sync/node_modules/lodash/_baseIntersection.js" timestamp="1462366767592">
         <mark key="'" line="68" column="2" />
       </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/mailhosting_types/chapi_two.rb" timestamp="1463415784079">
+        <mark key="'" line="912" column="37" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/status_codes.rb" timestamp="1463062558369">
         <mark key="'" line="82" column="0" />
       </file>
@@ -87,12 +93,11 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/domain_extension_groups_controller_test.rb" timestamp="1464092373040">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="5" column="37" />
-        <mark key="]" line="5" column="69" />
-        <mark key="." line="5" column="69" />
-        <mark key="^" line="5" column="69" />
+      <file name="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/domain_extension_groups_controller_test.rb" timestamp="1464093888990">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/newsletter.component.ts" timestamp="1461501967448">
         <mark key="'" line="8" column="25" />
@@ -366,6 +371,12 @@
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/shop/visp_controller.rb" timestamp="1462892404642">
         <mark key="'" line="4" column="20" />
       </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/auth_controller.rb" timestamp="1463753819990">
+        <mark key="'" line="135" column="18" />
+        <mark key="[" line="174" column="56" />
+        <mark key="]" line="174" column="56" />
+        <mark key="." line="174" column="56" />
+      </file>
       <file name="$USER_HOME$/projects/learning/js/ag2-directives-tutorial/app/myhighlight.directive.ts" timestamp="1461848965790">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="5" column="31" />
@@ -521,6 +532,12 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/test_case.rb" timestamp="1463998060738">
+        <mark key="'" line="64" column="4" />
+        <mark key="[" line="55" column="28" />
+        <mark key="]" line="55" column="29" />
+        <mark key="." line="55" column="29" />
+      </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/activerecord/lib/active_record/associations/association_proxy.rb" timestamp="1463057799892">
         <mark key="'" line="47" column="6" />
       </file>
@@ -610,6 +627,12 @@
         <mark key="." line="27" column="49" />
         <mark key="^" line="27" column="49" />
       </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/global_session.rb" timestamp="1463609100698">
+        <mark key="'" line="155" column="4" />
+        <mark key="[" line="272" column="0" />
+        <mark key="]" line="272" column="0" />
+        <mark key="." line="272" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/test_process.rb" timestamp="1463998149574">
         <mark key="'" line="186" column="4" />
       </file>
@@ -677,6 +700,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/activerecord/lib/active_record/fixtures.rb" timestamp="1463092619047">
+        <mark key="'" line="428" column="45" />
+        <mark key="[" line="853" column="37" />
+        <mark key="]" line="853" column="38" />
+        <mark key="." line="853" column="38" />
+      </file>
       <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" timestamp="1462881675992">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="130" column="8" />
@@ -712,6 +741,12 @@
         <mark key="^" line="449" column="28" />
         <mark key="." line="449" column="28" />
       </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/cmmailbox.rb" timestamp="1463408914675">
+        <mark key="'" line="176" column="15" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/learning/js/directive-kata/node_modules/@angular/common/src/forms/directives/ng_form_control.d.ts" timestamp="1462453047963">
         <mark key="'" line="40" column="57" />
       </file>
@@ -721,6 +756,12 @@
         <mark key="]" line="10" column="58" />
         <mark key="^" line="10" column="55" />
         <mark key="." line="10" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/vispization/configuration.rb" timestamp="1463997835185">
+        <mark key="'" line="259" column="15" />
+        <mark key="[" line="430" column="26" />
+        <mark key="]" line="430" column="62" />
+        <mark key="." line="434" column="0" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/V2/base_controller.rb" timestamp="1464017879791">
         <mark key="'" line="4" column="44" />
@@ -849,6 +890,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="2" column="3" />
       </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/http_authenticated_controller.rb" timestamp="1464004533717">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/migration/claranet_uk/migrate.rb" timestamp="1463584131496">
         <mark key="'" line="116" column="6" />
       </file>
@@ -969,6 +1016,9 @@
       <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/integration.rb" timestamp="1464022687119">
         <mark key="'" line="275" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/test/fixtures/domain_registration_prices.yml" timestamp="1464093859381">
+        <mark key="'" line="2199" column="2" />
+      </file>
       <file name="$USER_HOME$/.rvm/gems/ruby-1.8.7-p374@concord/gems/test-unit-2.1.2/lib/test/unit/fixture.rb" timestamp="1462896013077">
         <mark key="'" line="28" column="8" />
       </file>
@@ -987,22 +1037,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="39" filename="$USER_HOME$/.rvm/gems/ruby-1.8.7-p374@concord/gems/mime-types-1.25.1/lib/mime/types.rb" />
-      <jump line="292" column="41" filename="$USER_HOME$/.rvm/gems/ruby-1.8.7-p374@concord/gems/mime-types-1.25.1/lib/mime/types.rb" />
-      <jump line="333" column="14" filename="$USER_HOME$/.rvm/gems/ruby-1.8.7-p374@concord/gems/mime-types-1.25.1/lib/mime/types.rb" />
-      <jump line="373" column="32" filename="$USER_HOME$/.rvm/gems/ruby-1.8.7-p374@concord/gems/mime-types-1.25.1/lib/mime/types.rb" />
-      <jump line="399" column="35" filename="$USER_HOME$/.rvm/gems/ruby-1.8.7-p374@concord/gems/mime-types-1.25.1/lib/mime/types.rb" />
-      <jump line="431" column="11" filename="$USER_HOME$/.rvm/gems/ruby-1.8.7-p374@concord/gems/mime-types-1.25.1/lib/mime/types.rb" />
-      <jump line="448" column="9" filename="$USER_HOME$/.rvm/gems/ruby-1.8.7-p374@concord/gems/mime-types-1.25.1/lib/mime/types.rb" />
-      <jump line="451" column="17" filename="$USER_HOME$/.rvm/gems/ruby-1.8.7-p374@concord/gems/mime-types-1.25.1/lib/mime/types.rb" />
-      <jump line="504" column="14" filename="$USER_HOME$/.rvm/gems/ruby-1.8.7-p374@concord/gems/mime-types-1.25.1/lib/mime/types.rb" />
-      <jump line="517" column="39" filename="$USER_HOME$/.rvm/gems/ruby-1.8.7-p374@concord/gems/mime-types-1.25.1/lib/mime/types.rb" />
-      <jump line="551" column="20" filename="$USER_HOME$/.rvm/gems/ruby-1.8.7-p374@concord/gems/mime-types-1.25.1/lib/mime/types.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/.rvm/gems/ruby-1.8.7-p374@concord/gems/mime-types-1.25.1/lib/mime/types.rb" />
-      <jump line="444" column="4" filename="$USER_HOME$/.rvm/gems/ruby-1.8.7-p374@concord/gems/mime-types-1.25.1/lib/mime/types.rb" />
-      <jump line="39" column="11" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
-      <jump line="10" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
-      <jump line="2" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
       <jump line="50" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
       <jump line="27" column="10" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
       <jump line="20" column="12" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
@@ -1075,58 +1109,74 @@
       <jump line="11" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="17" column="17" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="31" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
-      <jump line="5" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="18" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="36" column="39" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="10" column="16" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="26" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
-      <jump line="45" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="2" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="35" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="37" column="4" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
-      <jump line="41" column="6" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
-      <jump line="6" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
+      <jump line="50" column="43" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
+      <jump line="42" column="5" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
+      <jump line="56" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
+      <jump line="14" column="16" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
+      <jump line="63" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
+      <jump line="15" column="18" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
+      <jump line="62" column="6" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
+      <jump line="16" column="6" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
+      <jump line="60" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
+      <jump line="45" column="4" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
+      <jump line="48" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
+      <jump line="77" column="52" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
+      <jump line="41" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
+      <jump line="5" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
+      <jump line="2" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/fixtures/domain_registration_prices.yml" />
+      <jump line="2199" column="2" filename="$USER_HOME$/projects/clara/concord/webapp/test/fixtures/domain_registration_prices.yml" />
+      <jump line="9" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/domain_extension_groups_controller_test.rb" />
+      <jump line="81" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
+      <jump line="6" column="16" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
+      <jump line="94" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICByZWxhdGlvbnNoaXBzIHsKICAgIGF1dGhvcnM6IAogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>or</text>
+        <text>, :title</text>
       </register>
       <register name="/" type="4">
         <text>hirb</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICBkZWYgdGVtcGxhdGUoX2l0ZW0pCiAgICB7CiAgICAgICAgOnR5cGUgPT4gJ2RvbWFpbmV4dGVuc2lvbmdyb3VwJywKICAgICAgICA6aWQgPT4gX2l0ZW0uaWQsCiAgICAgICAgOmF0dHJpYnV0ZXMgPT4gewogICAgICAgICAgICA6bmFtZSA9PiBfaXRlbS5uYW1lCiAgICAgICAgfQogICAgfQogIGVuZAog</text>
+        <text encoding="base64">ICAgIGl0ZW0uZG9tYWluX2V4dGVuc2lvbl9ncm91cF9tZW1iZXJzLm1hcCBkbyB8X2l0ZW18CiAgICAgIHJlc291cmNlX2lkZW50aWZpZXIgPSB7CiAgICAgICAgICA6dHlwZSA9PiAnZG9tYWluZXh0ZW5zaW9uZ3JvdXBtZW1iZXInLAogICAgICAgICAgOmlkICAgPT4gX2l0ZW0uaWQKICAgICAgfQoKICAgICAgQGluY2x1ZGVkIDw8IHJlc291cmNlX2lkZW50aWZpZXIubWVyZ2UoCiAgICAgICAgICA6YXR0cmlidXRlcyA9PiB7CiAgICAgICAgICAgICAgOmV4dGVuc2lvbiA9PiBfaXRlbS5leHRlbnNpb24sCiAgICAgICAgICAgICAgOmN1c3RvbWVyX2Nhbl9yZWdpc3RlciA9PiBfaXRlbS5jdXN0b21lcl9jYW5fcmVnaXN0ZXIsCiAgICAgICAgICAgICAgOmN1c3RvbWVyX2Nhbl90cmFuc2ZlciA9PiBfaXRlbS5jdXN0b21lcl9jYW5fdHJhbnNmZXIsCiAgICAgICAgICAgICAgOmV4b3RpY19kb21haW4gPT4gX2l0ZW0uZXhvdGljX2RvbWFpbgogICAgICAgICAgfQogICAgICApCiAgICAgIHJlc291cmNlX2lkZW50aWZpZXIKICAgIGVuZA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICByZWxhdGlvbnNoaXBzIHsKICAgIGF1dGhvcnM6IAogIH0K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>, :title</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>, :id</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>or</text>
-      </register>
-      <register name="6" type="4">
-        <text>ori</text>
-      </register>
-      <register name="7" type="4">
-        <text>base</text>
-      </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="4">
+        <text>,</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA6ZXhvdGljX2RvbWFpbiA9PiBfaXRlbS5leG90aWNfZG9tYWluCg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>customer_can_transfer</text>
+      </register>
       <register name="9" type="4">
-        <text>inject({:})</text>
+        <text>customer_can_transfer</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1175,7 +1225,6 @@
         <entry>actionlist pinned</entry>
         <entry encoding="base64">dyA=</entry>
         <entry>rnu</entry>
-        <entry>sp</entry>
         <entry>clo</entry>
         <entry>wq</entry>
         <entry>.w</entry>
@@ -1184,6 +1233,7 @@
         <entry>set rnu</entry>
         <entry>ew</entry>
         <entry>split</entry>
+        <entry>sp</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
