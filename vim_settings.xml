@@ -42,12 +42,12 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" timestamp="1464098884378">
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" timestamp="1464099024710">
         <mark key="a" line="47" column="40" />
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
         <mark key="^" line="7" column="29" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/domain_controller.rb" timestamp="1463581671216">
@@ -141,6 +141,12 @@
         <mark key="^" line="18" column="42" />
         <mark key="." line="18" column="42" />
       </file>
+      <file name="$USER_HOME$/projects/jsonapi_simple/lib/jsonapi_simple.rb" timestamp="1464099989179">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="1" column="33" />
+      </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/test/fixtures/api/visp_configuration_values.yml" timestamp="1463092812907">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="0" column="0" />
@@ -218,6 +224,12 @@
         <mark key="." line="37" column="55" />
         <mark key="^" line="37" column="55" />
       </file>
+      <file name="$USER_HOME$/projects/jsonapi_simple/test/test_helper.rb" timestamp="1464100045142">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+      </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/routing.rb" timestamp="1464002366727">
         <mark key="'" line="1249" column="8" />
       </file>
@@ -284,6 +296,12 @@
         <mark key="]" line="16" column="10" />
         <mark key="." line="16" column="10" />
         <mark key="^" line="16" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/jsonapi_simple/test/jsonapi_simple/serializer_test.rb" timestamp="1464100265510">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+        <mark key="^" line="0" column="24" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/newsletter.component.html" timestamp="1461501742976">
         <mark key="'" line="7" column="25" />
@@ -511,6 +529,12 @@
       <file name="/a.regexp" timestamp="1463607844330">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7c3bb229-68ff-448a-b615-1cda8815f696/console.sql" timestamp="1463578010219">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/newslettervalidations.ts" timestamp="1461576858964">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="34" column="5" />
@@ -573,6 +597,11 @@
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/business_api/session.rb" timestamp="1463583656574">
         <mark key="'" line="70" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/jsonapi_simple/test/jsonapi_simple/serializer.rb" timestamp="1464099752044">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/base.rb" timestamp="1461753519114">
         <mark key="'" line="191" column="8" />
       </file>
@@ -596,8 +625,20 @@
         <mark key="^" line="3" column="85" />
         <mark key="." line="3" column="78" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/58664fa1-8296-4105-bc1d-8872f0ba9b16/console_1.sql" timestamp="1463578229857">
+        <mark key="[" line="0" column="80" />
+        <mark key="]" line="0" column="79" />
+        <mark key="^" line="0" column="79" />
+        <mark key="." line="0" column="79" />
+      </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/activesupport/lib/active_support/dependencies.rb" timestamp="1462902983536">
         <mark key="'" line="241" column="58" />
+      </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/config/environments/mime_types.rb" timestamp="1464010941994">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="32" />
+        <mark key="^" line="0" column="32" />
+        <mark key="." line="0" column="32" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroup-rowview.component.ts" timestamp="1462785692500">
         <mark key="'" line="12" column="0" />
@@ -725,12 +766,6 @@
       <file name="$USER_HOME$/projects/learning/js/directive-kata/node_modules/@angular/core/src/metadata.d.ts" timestamp="1462653902972">
         <mark key="'" line="1107" column="14" />
       </file>
-      <file name="/fragment.rb" timestamp="1464018839119">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
-        <mark key="^" line="0" column="37" />
-      </file>
       <file name="$USER_HOME$/.rvm/gems/ruby-1.8.7-p374@concord/gems/ruby-cracklib-1.0.0/lib/cracklib.rb" timestamp="1462986347530">
         <mark key="'" line="3" column="0" />
       </file>
@@ -782,6 +817,12 @@
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/assertions/dom_assertions.rb" timestamp="1463067337853">
         <mark key="'" line="8" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/58664fa1-8296-4105-bc1d-8872f0ba9b16/console.sql" timestamp="1463749822662">
+        <mark key="[" line="1" column="55" />
+        <mark key="]" line="1" column="89" />
+        <mark key="^" line="1" column="89" />
+        <mark key="." line="1" column="89" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-list.component.html" timestamp="1462877205258">
         <mark key="'" line="20" column="36" />
@@ -1040,7 +1081,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
       <jump line="42" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
       <jump line="43" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
@@ -1115,7 +1155,6 @@
       <jump line="63" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="62" column="6" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="60" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
-      <jump line="45" column="4" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="48" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="77" column="52" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="41" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
@@ -1138,50 +1177,50 @@
       <jump line="29" column="4" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="12" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="32" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
-      <jump line="8" column="12" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="11" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
+      <jump line="8" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
+      <jump line="20" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
+      <jump line="45" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(File.dirname(__FILE__), '../../test_helpererasdf')</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>(File.dirname(__FILE__), '../../test_helpererasdf')</text>
       </register>
       <register name="/" type="4">
         <text>hirb</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICBwcm9wZXJ0eSA6aWQKICBwcm9wZXJ0eSA6dGl0bGUK</text>
+      <register name="0" type="2">
+        <text encoding="base64">cmVxdWlyZSAianNvbmFwaV9zaW1wbGUvdmVyc2lvbiIK</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>(File.dirname(__FILE__), '../../test_helpererasdf')</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="4">
-        <text>`</text>
-      </register>
-      <register name="4" type="4">
-        <text>`</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAjIFlvdXIgY29kZSBnb2VzIGhlcmUuLi4K</text>
       </register>
       <register name="5" type="4">
-        <text>{
-        
-    }</text>
+        <text>version</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ewoKfQogICAgCn0K</text>
+        <text>serializer_test</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIGRhdGE6IHsKfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">QXV0aG9yc1NlcmlhbGl6ZXIud2l0aF9jb25maWcgZG8gfHNlcmlhbGl6ZXJ8CmVuZAo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>subject.authors</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
