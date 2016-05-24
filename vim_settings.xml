@@ -42,6 +42,12 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" timestamp="1464082545783">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/domain_controller.rb" timestamp="1463581671216">
         <mark key="'" line="0" column="45" />
       </file>
@@ -198,6 +204,13 @@
         <mark key="^" line="32" column="7" />
         <mark key="." line="32" column="7" />
       </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/config/environment.rb" timestamp="1464082454056">
+        <mark key="'" line="457" column="0" />
+        <mark key="[" line="37" column="45" />
+        <mark key="]" line="37" column="55" />
+        <mark key="." line="37" column="55" />
+        <mark key="^" line="37" column="55" />
+      </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/routing.rb" timestamp="1464002366727">
         <mark key="'" line="1249" column="8" />
       </file>
@@ -318,8 +331,8 @@
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/chapi_wrapper/cmmailbox.rb" timestamp="1463408487815">
         <mark key="'" line="184" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/domain_extension_group.rb" timestamp="1461141813014">
-        <mark key="'" line="141" column="1" />
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/domain_extension_group.rb" timestamp="1464082189830">
+        <mark key="'" line="40" column="6" />
         <mark key="[" line="68" column="10" />
         <mark key="]" line="68" column="9" />
         <mark key="^" line="68" column="9" />
@@ -482,6 +495,12 @@
       <file name="/a.regexp" timestamp="1463607844330">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7c3bb229-68ff-448a-b615-1cda8815f696/console.sql" timestamp="1463578010219">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/newslettervalidations.ts" timestamp="1461576858964">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="34" column="5" />
@@ -552,11 +571,6 @@
         <mark key="." line="0" column="42" />
         <mark key="^" line="0" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/http_authentication.rb" timestamp="1464004211430">
-        <mark key="'" line="82" column="0" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="66" column="33" />
-      </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller.rb" timestamp="1463214620386">
         <mark key="'" line="0" column="0" />
       </file>
@@ -567,8 +581,20 @@
         <mark key="^" line="3" column="85" />
         <mark key="." line="3" column="78" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/58664fa1-8296-4105-bc1d-8872f0ba9b16/console_1.sql" timestamp="1463578229857">
+        <mark key="[" line="0" column="80" />
+        <mark key="]" line="0" column="79" />
+        <mark key="^" line="0" column="79" />
+        <mark key="." line="0" column="79" />
+      </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/activesupport/lib/active_support/dependencies.rb" timestamp="1462902983536">
         <mark key="'" line="241" column="58" />
+      </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/config/environments/mime_types.rb" timestamp="1464010941994">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="32" />
+        <mark key="^" line="0" column="32" />
+        <mark key="." line="0" column="32" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroup-rowview.component.ts" timestamp="1462785692500">
         <mark key="'" line="12" column="0" />
@@ -730,10 +756,11 @@
       <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/assertions/dom_assertions.rb" timestamp="1463067337853">
         <mark key="'" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/assertions/response_assertions.rb" timestamp="1464014017586">
-        <mark key="'" line="169" column="0" />
-        <mark key="[" line="16" column="13" />
-        <mark key="]" line="16" column="41" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/58664fa1-8296-4105-bc1d-8872f0ba9b16/console.sql" timestamp="1463749822662">
+        <mark key="[" line="1" column="55" />
+        <mark key="]" line="1" column="89" />
+        <mark key="^" line="1" column="89" />
+        <mark key="." line="1" column="89" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-list.component.html" timestamp="1462877205258">
         <mark key="'" line="20" column="36" />
@@ -921,12 +948,12 @@
         <mark key="." line="21" column="38" />
         <mark key="^" line="21" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/Gemfile" timestamp="1463575298329">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="16" column="21" />
-        <mark key="]" line="17" column="17" />
-        <mark key="." line="17" column="17" />
-        <mark key="^" line="17" column="17" />
+      <file name="$USER_HOME$/projects/clara/concord/webapp/Gemfile" timestamp="1464081568839">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="75" column="10" />
+        <mark key="]" line="76" column="7" />
+        <mark key="." line="76" column="7" />
+        <mark key="^" line="76" column="7" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/directive-kata/app/app.component.ts" timestamp="1462649875046">
         <mark key="'" line="8" column="11" />
@@ -983,8 +1010,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/http_authenticated_controller_test.rb" />
-      <jump line="0" column="14" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/http_authenticated_controller_test.rb" />
       <jump line="12" column="3" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/http_authenticated_controller_test.rb" />
       <jump line="37" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/http_authenticated_controller_test.rb" />
       <jump line="2" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/http_authenticated_controller_test.rb" />
@@ -1083,55 +1108,57 @@
       <jump line="10" column="20" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/domain_extension_groups_controller.rb" />
       <jump line="4" column="9" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/domain_extension_groups_controller.rb" />
       <jump line="9" column="14" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/domain_extension_groups_controller.rb" />
+      <jump line="64" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/Gemfile" />
+      <jump line="40" column="6" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/domain_extension_group.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>apis</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>apis</text>
       </register>
       <register name="/" type="4">
-        <text>path_prefix</text>
+        <text>hirb</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICAgIDp0eXBlID0+IERvbWFpbkV4dGVuc2lvbkdyb3VwLAogICAgICAgICAgICAgIDphdHRyaWJ1dGVzID0+IHt9LAogICAgICAgICAgICAgIDpyZWxhdGlvbnNoaXBzID0+IHt9CiAgICAgICAgICB9</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjb25maWcubG9hZF9wYXRocyArPSAlVyggI3tSQUlMU19ST09UfS9hcHAvYXBpcyApCg==</text>
       </register>
       <register name="1" type="4">
+        <text>apis</text>
+      </register>
+      <register name="2" type="4">
         <text>r</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="3" type="4">
-        <text>groups</text>
-      </register>
-      <register name="4" type="4">
-        <text>oups</text>
-      </register>
-      <register name="5" type="4">
-        <text>group</text>
-      </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>r</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="4">
-        <text>}</text>
+        <text>groups</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+      <register name="9" type="4">
+        <text>oups</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>path_prefix</last-search>
+      <last-search>hirb</last-search>
       <last-offset />
-      <last-pattern>path_prefix</last-pattern>
+      <last-pattern>hirb</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sub</last-substitute>
       <last-dir>1</last-dir>
@@ -1139,7 +1166,6 @@
     </search>
     <history>
       <history-search>
-        <entry>attr_</entry>
         <entry>authenticate</entry>
         <entry>restcontrol</entry>
         <entry>rest_con</entry>
@@ -1159,6 +1185,7 @@
         <entry>namespaces</entry>
         <entry>namespace</entry>
         <entry>path_prefix</entry>
+        <entry>hirb</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
