@@ -148,6 +148,12 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
+      <file name="$USER_HOME$/projects/jsonapi_simple/jsonapi_simple.gemspec" timestamp="1464101234380">
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="20" column="26" />
+        <mark key="^" line="20" column="26" />
+        <mark key="." line="20" column="26" />
+      </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/signup.component.html" timestamp="1461576657277">
         <mark key="'" line="16" column="80" />
         <mark key="[" line="16" column="86" />
@@ -291,12 +297,9 @@
         <mark key="." line="16" column="10" />
         <mark key="^" line="16" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/jsonapi_simple/test/jsonapi_simple/serializer_test.rb" timestamp="1464101093287">
-        <mark key="'" line="20" column="3" />
-        <mark key="[" line="16" column="34" />
-        <mark key="]" line="16" column="42" />
-        <mark key="^" line="16" column="42" />
-        <mark key="." line="16" column="42" />
+      <file name="$USER_HOME$/projects/jsonapi_simple/test/jsonapi_simple/serializer_test.rb" timestamp="1464102256489">
+        <mark key="'" line="32" column="5" />
+        <mark key="[" line="32" column="7" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/newsletter.component.html" timestamp="1461501742976">
         <mark key="'" line="7" column="25" />
@@ -414,12 +417,12 @@
         <mark key="." line="13" column="29" />
         <mark key="^" line="13" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/jsonapi_simple/lib/jsonapi_simple/serializer.rb" timestamp="1464100729614">
-        <mark key="'" line="4" column="6" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="3" column="22" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/projects/jsonapi_simple/lib/jsonapi_simple/serializer.rb" timestamp="1464102218232">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="17" column="6" />
+        <mark key="]" line="17" column="11" />
+        <mark key="." line="17" column="11" />
+        <mark key="^" line="17" column="11" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/package.json" timestamp="1461599039856">
         <mark key="'" line="8" column="44" />
@@ -1089,22 +1092,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="29" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
-      <jump line="11" column="6" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/V2/base_controller.rb" />
-      <jump line="4" column="44" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/V2/base_controller.rb" />
-      <jump line="10" column="21" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/V2/json_api_controller.rb" />
-      <jump line="3" column="37" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/V2/json_api_controller.rb" />
-      <jump line="44" column="12" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/json_api_controller_test.rb" />
-      <jump line="17" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/json_api_controller_test.rb" />
-      <jump line="57" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/json_api_controller_test.rb" />
-      <jump line="6" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/V2/json_api_controller.rb" />
-      <jump line="20" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/json_api_controller_test.rb" />
-      <jump line="1" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/json_api_controller.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/json_api_controller.rb" />
-      <jump line="13" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/json_api_controller.rb" />
-      <jump line="5" column="22" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/json_api_controller_test.rb" />
-      <jump line="13" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/json_api_controller_test.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/json_api_controller_test.rb" />
       <jump line="4" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/json_api_controller_test.rb" />
       <jump line="55" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/json_api_controller_test.rb" />
       <jump line="22" column="27" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/json_api_controller_test.rb" />
@@ -1185,50 +1172,66 @@
       <jump line="8" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="20" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="45" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
-      <jump line="5" column="34" filename="$USER_HOME$/projects/jsonapi_simple/test/jsonapi_simple/serializer_test.rb" />
-      <jump line="4" column="6" filename="$USER_HOME$/projects/jsonapi_simple/lib/jsonapi_simple/serializer.rb" />
       <jump line="9" column="32" filename="$USER_HOME$/projects/jsonapi_simple/test/jsonapi_simple/serializer_test.rb" />
       <jump line="15" column="3" filename="$USER_HOME$/projects/jsonapi_simple/test/jsonapi_simple/serializer_test.rb" />
+      <jump line="11" column="0" filename="$USER_HOME$/projects/jsonapi_simple/lib/jsonapi_simple/serializer.rb" />
+      <jump line="15" column="28" filename="$USER_HOME$/projects/jsonapi_simple/lib/jsonapi_simple/serializer.rb" />
+      <jump line="20" column="0" filename="$USER_HOME$/projects/jsonapi_simple/test/jsonapi_simple/serializer_test.rb" />
+      <jump line="22" column="0" filename="$USER_HOME$/projects/jsonapi_simple/test/jsonapi_simple/serializer_test.rb" />
+      <jump line="23" column="0" filename="$USER_HOME$/projects/jsonapi_simple/test/jsonapi_simple/serializer_test.rb" />
+      <jump line="16" column="2" filename="$USER_HOME$/projects/jsonapi_simple/test/jsonapi_simple/serializer_test.rb" />
+      <jump line="24" column="31" filename="$USER_HOME$/projects/jsonapi_simple/lib/jsonapi_simple/serializer.rb" />
+      <jump line="4" column="0" filename="$USER_HOME$/projects/jsonapi_simple/lib/jsonapi_simple/serializer.rb" />
+      <jump line="23" column="28" filename="$USER_HOME$/projects/jsonapi_simple/lib/jsonapi_simple/serializer.rb" />
+      <jump line="26" column="41" filename="$USER_HOME$/projects/jsonapi_simple/test/jsonapi_simple/serializer_test.rb" />
+      <jump line="21" column="0" filename="$USER_HOME$/projects/jsonapi_simple/test/jsonapi_simple/serializer_test.rb" />
+      <jump line="27" column="0" filename="$USER_HOME$/projects/jsonapi_simple/test/jsonapi_simple/serializer_test.rb" />
+      <jump line="10" column="0" filename="$USER_HOME$/projects/jsonapi_simple/test/jsonapi_simple/serializer_test.rb" />
+      <jump line="17" column="0" filename="$USER_HOME$/projects/jsonapi_simple/lib/jsonapi_simple/serializer.rb" />
+      <jump line="30" column="0" filename="$USER_HOME$/projects/jsonapi_simple/test/jsonapi_simple/serializer_test.rb" />
+      <jump line="22" column="0" filename="$USER_HOME$/projects/jsonapi_simple/lib/jsonapi_simple/serializer.rb" />
+      <jump line="5" column="0" filename="$USER_HOME$/projects/jsonapi_simple/test/jsonapi_simple/serializer_test.rb" />
+      <jump line="32" column="5" filename="$USER_HOME$/projects/jsonapi_simple/test/jsonapi_simple/serializer_test.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Sample</text>
+        <text>self</text>
       </register>
       <register name="-" type="4">
-        <text>Sample</text>
+        <text>self</text>
       </register>
       <register name="/" type="4">
         <text>of</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cmVxdWlyZSAianNvbmFwaV9zaW1wbGUvdmVyc2lvbiIK</text>
+        <text encoding="base64">ICAgICAgcGFyc2VkID0gSlNPTi5wYXJzZShzdWJqZWN0LnRvX2pzb24pCg==</text>
       </register>
       <register name="1" type="4">
-        <text>Sample</text>
+        <text>self</text>
       </register>
       <register name="2" type="4">
-        <text>e</text>
+        <text>self.class.</text>
       </register>
-      <register name="3" type="4">
-        <text>Sample</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="4">
-        <text>Sample</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgYXR0cl8K</text>
       </register>
-      <register name="5" type="4">
-        <text>Struct.new</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIGRlZiBmaXh0dXJlCgogICAgZW5kCg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbyA9IFN0cnVjdC5uZXcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>_</text>
+        <text>to_lower</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>'author'</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
