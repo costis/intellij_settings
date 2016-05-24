@@ -42,12 +42,12 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" timestamp="1464085020735">
-        <mark key="'" line="11" column="17" />
-        <mark key="[" line="7" column="13" />
-        <mark key="]" line="15" column="18" />
-        <mark key="." line="15" column="18" />
-        <mark key="^" line="15" column="18" />
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" timestamp="1464085884216">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="3" column="35" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/domain_controller.rb" timestamp="1463581671216">
         <mark key="'" line="0" column="45" />
@@ -983,11 +983,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="8" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
-      <jump line="17" column="15" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
-      <jump line="21" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
-      <jump line="10" column="4" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/V2/base_controller.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/V2/base_controller.rb" />
       <jump line="19" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/base_controller_test.rb" />
       <jump line="713" column="35" filename="$USER_HOME$/.rvm/gems/ruby-1.8.7-p374@concord/gems/mime-types-1.25.1/lib/mime/types.rb" />
@@ -1083,13 +1078,18 @@
       <jump line="2" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="25" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="10" column="17" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
+      <jump line="11" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
+      <jump line="17" column="17" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
+      <jump line="31" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
+      <jump line="5" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
+      <jump line="18" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>template</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text>hirb</text>
@@ -1098,28 +1098,28 @@
         <text encoding="base64">ICBjb25maWcubG9hZF9wYXRocyArPSAlVyggI3tSQUlMU19ST09UfS9hcHAvYXBpcyApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBjb250ZXh0ID0gY29udGV4dAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>`</text>
       </register>
       <register name="4" type="4">
-        <text>template</text>
+        <text>`</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlOiAnJwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICBkZWYgdG9fanNvbgoKICBlbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
