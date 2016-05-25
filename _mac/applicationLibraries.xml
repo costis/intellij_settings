@@ -6278,6 +6278,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/bundler/gems/queue_classic-d144db29f143/sql" />
       </SOURCES>
     </library>
+    <library name="rabl (v0.2.8, RVM: ruby-1.8.7-p374 [concord]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.8.7-p374@concord/gems/rabl-0.2.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.8.7-p374@concord/gems/rabl-0.2.8/lib" />
+      </SOURCES>
+    </library>
     <library name="racc (v1.4.14, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/racc/1.4.14" />
