@@ -36,13 +36,12 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" timestamp="1464099024710">
-        <mark key="a" line="47" column="40" />
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="7" column="29" />
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" timestamp="1464339917266">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="11" />
+        <mark key="." line="9" column="11" />
+        <mark key="^" line="9" column="11" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/domain_controller.rb" timestamp="1463581671216">
         <mark key="'" line="0" column="45" />
@@ -503,7 +502,6 @@
         <mark key="." line="29" column="16" />
         <mark key="^" line="29" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/views/rest_api/domain_extension_groups/index.html.erb" timestamp="1464125609197" />
       <file name="$USER_HOME$/projects/learning/js/directive-kata/app/domainextension-list.component.ts" timestamp="1462635847719">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="0" column="0" />
@@ -772,6 +770,7 @@
         <mark key="^" line="3" column="44" />
         <mark key="." line="3" column="44" />
       </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/secure_payment/pay_and_postprocess/pay_for_order.rb" timestamp="1464339002408" />
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/views/rest_api/domain_extension_groups/index.jsonapi.rabl" timestamp="1464127202203">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -1044,11 +1043,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/domain_extensions_controller.rb" />
-      <jump line="8" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/http_authenticated_controller_test.rb" />
-      <jump line="6" column="22" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/domain_extensions_controller_test.rb" />
-      <jump line="5" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/domain_extensions_controller_test.rb" />
-      <jump line="12" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/json_api_controller_test.rb" />
       <jump line="47" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/json_api_controller_test.rb" />
       <jump line="16" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/json_api_controller_test.rb" />
       <jump line="4" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/domain_extensions_controller_test.rb" />
@@ -1082,7 +1076,6 @@
       <jump line="31" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="18" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="36" column="39" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
-      <jump line="2" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="35" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="37" column="4" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
@@ -1096,12 +1089,10 @@
       <jump line="48" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="77" column="52" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="41" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
-      <jump line="5" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="2" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/fixtures/domain_registration_prices.yml" />
       <jump line="2199" column="2" filename="$USER_HOME$/projects/clara/concord/webapp/test/fixtures/domain_registration_prices.yml" />
       <jump line="9" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/domain_extension_groups_controller_test.rb" />
       <jump line="81" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
-      <jump line="6" column="16" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="94" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="7" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="10" column="3" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
@@ -1144,13 +1135,21 @@
       <jump line="8" column="2" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/domain_extension_groups_controller.rb" />
       <jump line="9" column="6" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/domain_extension_groups_controller.rb" />
       <jump line="17" column="56" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/domain_extension_groups_controller_test.rb" />
+      <jump line="6" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
+      <jump line="39" column="10" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
+      <jump line="5" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
+      <jump line="76" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
+      <jump line="55" column="7" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
+      <jump line="80" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
+      <jump line="3" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
+      <jump line="2" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>api</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>api</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>oat</text>
@@ -1159,31 +1158,31 @@
         <text encoding="base64">ICAgICAgcGFyc2VkID0gSlNPTi5wYXJzZShzdWJqZWN0LnRvX2pzb24pCg==</text>
       </register>
       <register name="1" type="4">
-        <text>api</text>
-      </register>
-      <register name="2" type="4">
-        <text>vnd.api+</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">cmFpc2UgJ2hlbGxvJwo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>, :name</text>
-      </register>
-      <register name="7" type="4">
         <text>s</text>
       </register>
-      <register name="8" type="4">
-        <text>a</text>
+      <register name="2" type="4">
+        <text>e</text>
+      </register>
+      <register name="3" type="4">
+        <text>r</text>
+      </register>
+      <register name="4" type="4">
+        <text>u</text>
+      </register>
+      <register name="5" type="4">
+        <text>o</text>
+      </register>
+      <register name="6" type="4">
+        <text>s</text>
+      </register>
+      <register name="7" type="4">
+        <text>e</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgcmVzb3VyY2VfaWRlbnRpZmllciA9IHsKICAgICAgICAgIDp0eXBlID0+ICdkb21haW5yZWdpc3RyYXRpb25wcmljZScsCg==</text>
       </register>
       <register name="9" type="4">
-        <text>payload.inspect</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
