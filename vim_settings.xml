@@ -43,6 +43,9 @@
         <mark key="." line="9" column="11" />
         <mark key="^" line="9" column="11" />
       </file>
+      <file name="/a.dummy" timestamp="1464687902447">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/domain_controller.rb" timestamp="1463581671216">
         <mark key="'" line="0" column="45" />
       </file>
