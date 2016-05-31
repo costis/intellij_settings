@@ -43,9 +43,6 @@
         <mark key="." line="9" column="11" />
         <mark key="^" line="9" column="11" />
       </file>
-      <file name="/a.dummy" timestamp="1464692100994">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/domain_controller.rb" timestamp="1463581671216">
         <mark key="'" line="0" column="45" />
       </file>
@@ -177,7 +174,7 @@
         <mark key="." line="23" column="34" />
         <mark key="^" line="23" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/billing/chargeable_item.rb" timestamp="1461927511155">
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/billing/chargeable_item.rb" timestamp="1464694316242">
         <mark key="'" line="1572" column="0" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/basket_proxy.rb" timestamp="1463057851337">
