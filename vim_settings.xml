@@ -26,9 +26,6 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/lib/tasks/jenkins.rake" timestamp="1463126459582">
-        <mark key="'" line="44" column="6" />
-      </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/test/fixtures/api/globalize_languages.yml" timestamp="1463089370046">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="1" column="0" />
@@ -42,9 +39,6 @@
         <mark key="]" line="9" column="11" />
         <mark key="." line="9" column="11" />
         <mark key="^" line="9" column="11" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/domain_controller.rb" timestamp="1463581671216">
-        <mark key="'" line="0" column="45" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/simpleform.component.html" timestamp="1461496769678">
         <mark key="'" line="2" column="15" />
@@ -66,12 +60,6 @@
         <mark key="]" line="7" column="63" />
         <mark key="^" line="7" column="19" />
         <mark key="." line="7" column="63" />
-      </file>
-      <file name="$USER_HOME$/projects/learning/js/directive-kata/node_modules/browser-sync/node_modules/lodash/_baseIntersection.js" timestamp="1462366767592">
-        <mark key="'" line="68" column="2" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/status_codes.rb" timestamp="1463062558369">
-        <mark key="'" line="82" column="0" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/views/rest_api/domain_extension_groups/index.rabl" timestamp="1464126920026">
         <mark key="[" line="2" column="13" />
@@ -161,12 +149,6 @@
         <mark key="^" line="16" column="89" />
         <mark key="." line="16" column="89" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/test/matcher.rb" timestamp="1463086813236">
-        <mark key="'" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/learning/js/ag2-directives-tutorial/node_modules/angular2/es6/dev/src/facade/async.js" timestamp="1461852267392">
-        <mark key="'" line="81" column="13" />
-      </file>
       <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroup-list.component.ts" timestamp="1462877766469">
         <mark key="'" line="23" column="7" />
         <mark key="[" line="23" column="28" />
@@ -177,21 +159,12 @@
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/billing/chargeable_item.rb" timestamp="1464696365759">
         <mark key="'" line="1572" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/basket_proxy.rb" timestamp="1463057851337">
-        <mark key="'" line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/abstract_class.rb" timestamp="1463403541025">
-        <mark key="'" line="76" column="23" />
-      </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/http_authenticated_controller_test.rb" timestamp="1464006378473">
         <mark key="'" line="54" column="2" />
         <mark key="[" line="0" column="43" />
         <mark key="]" line="0" column="45" />
         <mark key="." line="0" column="45" />
         <mark key="^" line="0" column="45" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/user_action_logger/log_types/deprovision_service_from_backoffice.rb" timestamp="1463737370655">
-        <mark key="'" line="71" column="0" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup-list.component.ts" timestamp="1462784165265">
         <mark key="'" line="13" column="36" />
@@ -206,9 +179,6 @@
         <mark key="]" line="31" column="0" />
         <mark key="^" line="377" column="34" />
         <mark key="." line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/assertions/routing_assertions.rb" timestamp="1463141957680">
-        <mark key="'" line="117" column="8" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/app.component.spec.ts" timestamp="1461575097298">
         <mark key="'" line="29" column="0" />
@@ -230,15 +200,6 @@
         <mark key="." line="1" column="31" />
         <mark key="^" line="1" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/routing.rb" timestamp="1464002366727">
-        <mark key="'" line="1249" column="8" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/billing/journal_entry.rb" timestamp="1461927853946">
-        <mark key="'" line="296" column="26" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/customer_mail_content.rb" timestamp="1462349155701">
-        <mark key="'" line="227" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/test/test_helper.rb" timestamp="1463998071885">
         <mark key="'" line="7" column="2" />
         <mark key="[" line="87" column="36" />
@@ -253,21 +214,12 @@
         <mark key="." line="18" column="47" />
         <mark key="^" line="18" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/learning/js/directive-kata/node_modules/@angular/common/src/directives.d.ts" timestamp="1462446934957">
-        <mark key="'" line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/changepassword.component.ts" timestamp="1461581420339">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="39" column="38" />
         <mark key="]" line="39" column="72" />
         <mark key="." line="39" column="72" />
         <mark key="^" line="39" column="72" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/cmmailspace.rb" timestamp="1463415874105">
-        <mark key="'" line="68" column="35" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/automation/billd_money_maker.rb" timestamp="1461761090965">
-        <mark key="'" line="3" column="8" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/domain_extensions_controller.rb" timestamp="1464020793801">
         <mark key="'" line="0" column="0" />
@@ -279,9 +231,6 @@
         <mark key="]" line="5" column="29" />
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/domain.rb" timestamp="1461839249944">
-        <mark key="'" line="89" column="6" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/signup.component.ts" timestamp="1461577138345">
         <mark key="'" line="16" column="0" />
@@ -329,9 +278,6 @@
         <mark key="^" line="15" column="70" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/mailhosting.rb" timestamp="1463409027533">
-        <mark key="'" line="105" column="22" />
-      </file>
       <file name="$USER_HOME$/projects/learning/js/angular2-tour-of-heroes/app/my-uppercase.pipe.spec.ts" timestamp="1461951237542">
         <mark key="'" line="15" column="36" />
         <mark key="[" line="19" column="52" />
@@ -339,30 +285,12 @@
         <mark key="." line="19" column="52" />
         <mark key="^" line="19" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/test/fixtures/visp_configurations.yml" timestamp="1462965484899">
-        <mark key="'" line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/filters.rb" timestamp="1463082201137">
-        <mark key="'" line="658" column="4" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/migration/claranet_uk/modify_runtime.rb" timestamp="1463584185596">
-        <mark key="'" line="95" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/learning/js/ag2-unit-testing/src/index.html" timestamp="1461943996672">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/chapi_wrapper/cmmailbox.rb" timestamp="1463408487815">
-        <mark key="'" line="184" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/domain_extension_group.rb" timestamp="1464082189830">
         <mark key="'" line="40" column="6" />
         <mark key="[" line="68" column="10" />
         <mark key="]" line="68" column="9" />
         <mark key="^" line="68" column="9" />
         <mark key="." line="68" column="9" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/test/functional/pacman_controller_test.rb" timestamp="1462964306288">
-        <mark key="'" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/base.rb" timestamp="1464024589044">
         <mark key="'" line="875" column="40" />
@@ -378,15 +306,6 @@
         <mark key="." line="4" column="58" />
         <mark key="^" line="4" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/learning/js/directive-kata/node_modules/@angular/common/src/forms/directives/ng_control.d.ts" timestamp="1462366862152">
-        <mark key="'" line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/sessions_controller.rb" timestamp="1463994924099">
-        <mark key="'" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/shop/visp_controller.rb" timestamp="1462892404642">
-        <mark key="'" line="4" column="20" />
-      </file>
       <file name="$USER_HOME$/projects/learning/js/ag2-directives-tutorial/app/myhighlight.directive.ts" timestamp="1461848965790">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="5" column="31" />
@@ -400,9 +319,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="^" line="12" column="29" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/json_api_controller_test.rb" timestamp="1464018188488">
-        <mark key="'" line="57" column="0" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/directive-kata/app/domaingroups.service.ts" timestamp="1462619537772">
         <mark key="'" line="17" column="31" />
@@ -418,18 +334,12 @@
         <mark key="." line="17" column="11" />
         <mark key="^" line="17" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/package.json" timestamp="1461599039856">
-        <mark key="'" line="8" column="44" />
-      </file>
       <file name="$USER_HOME$/projects/learning/js/concord-domains/index.html" timestamp="1462814292375">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="27" column="28" />
         <mark key="]" line="27" column="52" />
         <mark key="." line="27" column="52" />
         <mark key="^" line="27" column="52" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/health2_controller.rb" timestamp="1462902579316">
-        <mark key="'" line="57" column="0" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/directive-kata/app/domaingroup-rowview.component.ts" timestamp="1462655358113">
         <mark key="'" line="4" column="0" />
@@ -451,9 +361,6 @@
         <mark key="]" line="38" column="25" />
         <mark key="^" line="38" column="25" />
         <mark key="." line="38" column="25" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/base.rb" timestamp="1463406718829">
-        <mark key="'" line="407" column="58" />
       </file>
       <file name="/Ruby Console" timestamp="1464018805759">
         <mark key="[" line="0" column="0" />
@@ -486,15 +393,6 @@
         <mark key="." line="15" column="57" />
         <mark key="^" line="15" column="57" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/service.rb" timestamp="1463737368347">
-        <mark key="'" line="525" column="36" />
-      </file>
-      <file name="$USER_HOME$/projects/learning/js/ag2-unit-testing/package.json" timestamp="1461944604481">
-        <mark key="'" line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/learning/js/directive-kata/package.json" timestamp="1462612027666">
-        <mark key="'" line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/config/database.yml" timestamp="1463058108890">
         <mark key="'" line="29" column="19" />
         <mark key="[" line="29" column="8" />
@@ -511,12 +409,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1464094327804">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/mailbox.rb" timestamp="1463403615922">
-        <mark key="'" line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/.rvm/gems/ruby-1.8.7-p374@concord/gems/mime-types-1.25.1/lib/mime/types.rb" timestamp="1464011442499">
-        <mark key="'" line="444" column="4" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/concord-domains/app/app.component.ts" timestamp="1462880221893">
         <mark key="'" line="4" column="0" />
@@ -548,9 +440,6 @@
         <mark key="^" line="3" column="80" />
         <mark key="." line="18" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/pacman/accounts/service_reallocator_controller.rb" timestamp="1463412571980">
-        <mark key="'" line="308" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/domain_registry/base.rb" timestamp="1464692097122" />
       <file name="$USER_HOME$/projects/learning/js/directive-kata/app/domaingroup-rowview.component.html" timestamp="1462650950694">
         <mark key="'" line="1" column="12" />
@@ -558,12 +447,6 @@
         <mark key="]" line="1" column="12" />
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/activerecord/lib/active_record/associations/association_proxy.rb" timestamp="1463057799892">
-        <mark key="'" line="47" column="6" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/test/fixtures/domain_extension_group_members.yml" timestamp="1463138413188">
-        <mark key="'" line="1060" column="2" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/directive-kata/tslint.json" timestamp="1462272582847">
         <mark key="'" line="0" column="0" />
@@ -585,23 +468,11 @@
         <mark key="." line="8" column="21" />
         <mark key="^" line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/melbourne_it/domain_registrar.rb" timestamp="1464691872228" />
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/account.rb" timestamp="1463412795757">
-        <mark key="'" line="198" column="27" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/business_api/session.rb" timestamp="1463583656574">
-        <mark key="'" line="70" column="0" />
-      </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/melbourne_it/domain_registrar.rb" timestamp="1464696944552" />
       <file name="$USER_HOME$/projects/jsonapi_simple/test/jsonapi_simple/serializer.rb" timestamp="1464099752044">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/base.rb" timestamp="1461753519114">
-        <mark key="'" line="191" column="8" />
-      </file>
-      <file name="$USER_HOME$/projects/learning/js/directive-kata/node_modules/@angular/core/src/linker/dynamic_component_loader.d.ts" timestamp="1462648797110">
-        <mark key="'" line="33" column="25" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/api_controller.rb" timestamp="1463088792031">
         <mark key="'" line="4" column="4" />
@@ -609,9 +480,6 @@
         <mark key="]" line="0" column="42" />
         <mark key="." line="0" column="42" />
         <mark key="^" line="0" column="42" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller.rb" timestamp="1463214620386">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/V2/json_api_controller.rb" timestamp="1464018235865">
         <mark key="'" line="6" column="0" />
@@ -625,9 +493,6 @@
         <mark key="]" line="0" column="79" />
         <mark key="^" line="0" column="79" />
         <mark key="." line="0" column="79" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/activesupport/lib/active_support/dependencies.rb" timestamp="1462902983536">
-        <mark key="'" line="241" column="58" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/config/environments/mime_types.rb" timestamp="1464010941994">
         <mark key="[" line="0" column="21" />
@@ -656,18 +521,12 @@
         <mark key="." line="20" column="112" />
         <mark key="^" line="20" column="112" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/visp_controller.rb" timestamp="1463583942743">
-        <mark key="'" line="52" column="2" />
-      </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/tweet.component.ts" timestamp="1461444423008">
         <mark key="'" line="16" column="19" />
         <mark key="[" line="27" column="44" />
         <mark key="]" line="27" column="49" />
         <mark key="." line="27" column="49" />
         <mark key="^" line="27" column="49" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/test_process.rb" timestamp="1463998149574">
-        <mark key="'" line="186" column="4" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/star.component.ts" timestamp="1461443601932">
         <mark key="'" line="30" column="0" />
@@ -682,9 +541,6 @@
         <mark key="]" line="24" column="5" />
         <mark key="." line="24" column="5" />
         <mark key="^" line="24" column="5" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/asset.rb" timestamp="1462348806307">
-        <mark key="'" line="25" column="16" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/directive-kata/app/domaingroup-form.html" timestamp="1462603695157">
         <mark key="'" line="9" column="0" />
@@ -707,12 +563,7 @@
         <mark key="^" line="28" column="18" />
         <mark key="." line="28" column="18" />
       </file>
-      <file name="$USER_HOME$/.rvm/gems/ruby-1.8.7-p374@concord/gems/test-unit-2.1.2/lib/test/unit/testcase.rb" timestamp="1462895972225">
-        <mark key="'" line="109" column="51" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/plugins/classic_pagination/test/helper.rb" timestamp="1462895623183">
-        <mark key="'" line="98" column="0" />
-      </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/domain_registrar_service.rb" timestamp="1464696969082" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1" timestamp="1463081463039">
         <mark key="'" line="0" column="40" />
         <mark key="[" line="0" column="40" />
@@ -727,26 +578,11 @@
         <mark key="^" line="139" column="13" />
         <mark key="." line="130" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/pacman/accounts/invoice_controller.rb" timestamp="1461918926728">
-        <mark key="'" line="99" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/user_profile.rb" timestamp="1463754694750">
-        <mark key="'" line="32" column="25" />
-      </file>
-      <file name="$USER_HOME$/projects/learning/js/directive-kata/node_modules/@angular/core/src/metadata.d.ts" timestamp="1462653902972">
-        <mark key="'" line="1107" column="14" />
-      </file>
       <file name="/fragment.rb" timestamp="1464018839119">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
         <mark key="^" line="0" column="37" />
-      </file>
-      <file name="$USER_HOME$/.rvm/gems/ruby-1.8.7-p374@concord/gems/ruby-cracklib-1.0.0/lib/cracklib.rb" timestamp="1462986347530">
-        <mark key="'" line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/pacman/account_search_controller.rb" timestamp="1463581634996">
-        <mark key="'" line="296" column="6" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/base.rb" timestamp="1463405861739">
         <mark key="'" line="863" column="0" />
@@ -754,9 +590,6 @@
         <mark key="]" line="449" column="28" />
         <mark key="^" line="449" column="28" />
         <mark key="." line="449" column="28" />
-      </file>
-      <file name="$USER_HOME$/projects/learning/js/directive-kata/node_modules/@angular/common/src/forms/directives/ng_form_control.d.ts" timestamp="1462453047963">
-        <mark key="'" line="40" column="57" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/helpers/password_helper.rb" timestamp="1462977736325">
         <mark key="'" line="10" column="25" />
@@ -785,9 +618,6 @@
         <mark key="^" line="8" column="39" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/assertions/dom_assertions.rb" timestamp="1463067337853">
-        <mark key="'" line="8" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/58664fa1-8296-4105-bc1d-8872f0ba9b16/console.sql" timestamp="1463749822662">
         <mark key="[" line="1" column="55" />
         <mark key="]" line="1" column="89" />
@@ -808,27 +638,12 @@
         <mark key="^" line="11" column="58" />
         <mark key="." line="11" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/wallaby.js" timestamp="1461599203899">
-        <mark key="'" line="78" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/learning/js/directive-kata/node_modules/@angular/common/src/forms.d.ts" timestamp="1462446891598">
-        <mark key="'" line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/billing/journal_entry_types/charges/positive.rb" timestamp="1461929261600">
-        <mark key="'" line="246" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/learning/js/angular.git/modules/@angular/core/src/profile/profile.ts" timestamp="1462664179118">
-        <mark key="'" line="26" column="1" />
-      </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/courses.component.ts" timestamp="1461329437485">
         <mark key="'" line="9" column="12" />
         <mark key="[" line="11" column="27" />
         <mark key="]" line="11" column="27" />
         <mark key="^" line="11" column="27" />
         <mark key="." line="11" column="27" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/billing/charge_group.rb" timestamp="1461921583143">
-        <mark key="'" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/PasswordChecker.rb" timestamp="1462977096326">
         <mark key="'" line="7" column="32" />
@@ -844,21 +659,12 @@
         <mark key="^" line="14" column="16" />
         <mark key="." line="14" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/package_summary_controller.rb" timestamp="1463995096747">
-        <mark key="'" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/test/integration/dedicated_server_update_test.rb" timestamp="1463126963055">
-        <mark key="'" line="67" column="28" />
-      </file>
       <file name="$USER_HOME$/projects/learning/js/directive-kata/index.html" timestamp="1462612748084">
         <mark key="'" line="28" column="6" />
         <mark key="[" line="25" column="29" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/activerecord/lib/active_record/connection_adapters/abstract/connection_specification.rb" timestamp="1462898844517">
-        <mark key="'" line="203" column="4" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/directive-kata/app/contact-form.component.html" timestamp="1462458737907">
         <mark key="'" line="7" column="4" />
@@ -867,9 +673,6 @@
         <mark key="." line="14" column="66" />
         <mark key="^" line="14" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/learning/js/angular/package.json" timestamp="1462455331909">
-        <mark key="'" line="107" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/learning/js/angular2-seed/package.json" timestamp="1461607168808">
         <mark key="'" line="20" column="21" />
         <mark key="[" line="20" column="21" />
@@ -877,18 +680,12 @@
         <mark key="." line="20" column="22" />
         <mark key="^" line="16" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/runner_scripts/place_an_order.rb" timestamp="1463584054306">
-        <mark key="'" line="59" column="26" />
-      </file>
       <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-list.component.ts" timestamp="1462813065728">
         <mark key="'" line="18" column="38" />
         <mark key="[" line="10" column="2" />
         <mark key="]" line="10" column="2" />
         <mark key="." line="10" column="2" />
         <mark key="^" line="17" column="22" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/shop/package_controller.rb" timestamp="1462890385058">
-        <mark key="'" line="105" column="0" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/changepassword.component.html" timestamp="1461581701690">
         <mark key="'" line="25" column="0" />
@@ -904,18 +701,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/migration/claranet_uk/migrate.rb" timestamp="1463584131496">
-        <mark key="'" line="116" column="6" />
-      </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/course.service.ts" timestamp="1461245852068">
         <mark key="'" line="3" column="46" />
         <mark key="[" line="3" column="47" />
         <mark key="]" line="3" column="47" />
         <mark key="." line="3" column="47" />
         <mark key="^" line="3" column="26" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/test/api_test_helper.rb" timestamp="1463061407168">
-        <mark key="'" line="4" column="16" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/ag2-unit-testing/src/unit-tests.html" timestamp="1461944506557">
         <mark key="'" line="8" column="2" />
@@ -931,30 +722,12 @@
         <mark key="^" line="57" column="42" />
         <mark key="." line="57" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/internal_only_controller.rb" timestamp="1463135530259">
-        <mark key="'" line="4" column="8" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/account_info_controller_test.rb" timestamp="1463123060721">
-        <mark key="'" line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/runner_scripts/ciot_upload.rb" timestamp="1463584389080">
-        <mark key="'" line="2" column="9" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/account_info_controller.rb" timestamp="1463580214592">
-        <mark key="'" line="11" column="28" />
-      </file>
-      <file name="$USER_HOME$/projects/learning/js/directive-kata/node_modules/@angular/common/src/forms/directives.d.ts" timestamp="1462453623781">
-        <mark key="'" line="32" column="21" />
-      </file>
       <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-form.component.ts" timestamp="1462807711530">
         <mark key="'" line="15" column="2" />
         <mark key="[" line="42" column="33" />
         <mark key="]" line="42" column="34" />
         <mark key="." line="42" column="34" />
         <mark key="^" line="42" column="27" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/shop/basket_controller.rb" timestamp="1463580841230">
-        <mark key="'" line="165" column="0" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/directive-kata/app/domaingroup-form.component.ts" timestamp="1462605798726">
         <mark key="'" line="7" column="0" />
@@ -969,9 +742,6 @@
         <mark key="]" line="139" column="23" />
         <mark key="^" line="139" column="23" />
         <mark key="." line="139" column="23" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/activerecord/lib/active_record/associations/belongs_to_association.rb" timestamp="1463057610178">
-        <mark key="'" line="54" column="0" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/heart.component.ts" timestamp="1461444468611">
         <mark key="'" line="7" column="0" />
@@ -994,12 +764,6 @@
         <mark key="." line="6" column="65" />
         <mark key="^" line="6" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application_controller.rb" timestamp="1463088049301">
-        <mark key="'" line="440" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/test/integration/single_item_basket_test.rb" timestamp="1462973492467">
-        <mark key="'" line="29" column="45" />
-      </file>
       <file name="$USER_HOME$/projects/learning/js/ag2-unit-testing/src/1st.spec.ts" timestamp="1461945730636">
         <mark key="'" line="7" column="40" />
         <mark key="[" line="7" column="61" />
@@ -1021,27 +785,12 @@
         <mark key="^" line="2" column="9" />
         <mark key="." line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/integration.rb" timestamp="1464022687119">
-        <mark key="'" line="275" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/test/fixtures/domain_registration_prices.yml" timestamp="1464093859381">
-        <mark key="'" line="2199" column="2" />
-      </file>
-      <file name="$USER_HOME$/.rvm/gems/ruby-1.8.7-p374@concord/gems/test-unit-2.1.2/lib/test/unit/fixture.rb" timestamp="1462896013077">
-        <mark key="'" line="28" column="8" />
-      </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/posts.service.ts" timestamp="1461593346346">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="11" column="90" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/db/migrate/225_add_extra_fields_to_visp_configuration.rb" timestamp="1462892396917">
-        <mark key="'" line="64" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/docker-compose.yml" timestamp="1461757996646">
-        <mark key="'" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
