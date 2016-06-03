@@ -96,6 +96,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/test/fixtures/domain_registrar_configurations.yml" timestamp="1464959667553">
+        <mark key="[" line="316" column="13" />
+        <mark key="]" line="316" column="74" />
+        <mark key="." line="316" column="74" />
+        <mark key="^" line="316" column="74" />
+      </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/api_controller.rb" timestamp="1463088792031">
         <mark key="'" line="4" column="4" />
         <mark key="[" line="0" column="22" />
@@ -371,12 +377,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/test/test_helper.rb" timestamp="1463998071885">
+      <file name="$USER_HOME$/projects/clara/concord/webapp/test/test_helper.rb" timestamp="1464959709235">
         <mark key="'" line="7" column="2" />
-        <mark key="[" line="87" column="36" />
-        <mark key="]" line="87" column="39" />
-        <mark key="." line="87" column="39" />
-        <mark key="^" line="87" column="39" />
+        <mark key="[" line="150" column="194" />
+        <mark key="]" line="150" column="258" />
+        <mark key="." line="150" column="258" />
+        <mark key="^" line="150" column="258" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/ag2-directives-tutorial/app/app.component.html" timestamp="1461857101620">
         <mark key="'" line="0" column="0" />
@@ -478,6 +484,9 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="15" column="70" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/config/clara_catchall_database.yml" timestamp="1464959261389">
+        <mark key="'" line="19" column="2" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/courses.component.ts" timestamp="1461329437485">
         <mark key="'" line="9" column="12" />
@@ -783,7 +792,6 @@
         <mark key="^" line="11" column="90" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/views/pacman/accounts/journal_entries/index.rhtml" timestamp="1464770673872" />
       <file name="$USER_HOME$/projects/clara/concord/webapp/test/functional/api_controller_test.rb" timestamp="1463996921939">
         <mark key="'" line="3" column="34" />
         <mark key="[" line="6" column="0" />
@@ -793,8 +801,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
-      <jump line="11" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
       <jump line="594" column="81" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
       <jump line="485" column="28" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
@@ -893,13 +899,15 @@
       <jump line="413" column="16" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account.rb" />
       <jump line="419" column="14" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account.rb" />
       <jump line="32" column="44" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/billing/journal_entry_types/charges/positive.rb" />
+      <jump line="3" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/config/clara_catchall_database.yml" />
+      <jump line="19" column="2" filename="$USER_HOME$/projects/clara/concord/webapp/config/clara_catchall_database.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Billing::DomainChargeableItem.active_with_closed_services</text>
+        <text>https://cptest.internetnamesww.com/servlet/icann.servlets.PostServlet</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>https://cptest.internetnamesww.com/servlet/icann.servlets.PostServlet</text>
       </register>
       <register name="/" type="4">
         <text>before_save</text>
@@ -908,31 +916,31 @@
         <text>Billing::DomainChargeableItem.active_with_closed_services</text>
       </register>
       <register name="1" type="4">
-        <text>s</text>
+        <text>https://cptest.internetnamesww.com/servlet/icann.servlets.PostServlet</text>
       </register>
       <register name="2" type="4">
-        <text>e</text>
+        <text>https://cp.internetnamesww.com/servlet/icann.servlets.PostServlet</text>
       </register>
       <register name="3" type="4">
-        <text>r</text>
+        <text>https://cp.internetnamesww.com/servlet/icann.servlets.PostServlet</text>
       </register>
       <register name="4" type="4">
-        <text>u</text>
+        <text>https://cptest.internetnamesww.com/servlet/icann.servlets.PostServlet</text>
       </register>
       <register name="5" type="4">
-        <text>o</text>
+        <text>https://cptest.internetnamesww.com/servlet/icann.servlets.PostServlet</text>
       </register>
       <register name="6" type="4">
-        <text>s</text>
+        <text>https://cp.internetnamesww.com/servlet/icann.servlets.PostServlet</text>
       </register>
       <register name="7" type="4">
-        <text>e</text>
+        <text>https://cptest.internetnamesww.com/servlet/icann.servlets.PostServlet</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmVzb3VyY2VfaWRlbnRpZmllciA9IHsKICAgICAgICAgIDp0eXBlID0+ICdkb21haW5yZWdpc3RyYXRpb25wcmljZScsCg==</text>
+      <register name="8" type="4">
+        <text>s</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
