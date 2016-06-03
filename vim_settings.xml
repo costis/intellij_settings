@@ -411,6 +411,9 @@
         <mark key="^" line="1" column="89" />
         <mark key="." line="1" column="89" />
       </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/views/shop/internal_only_choose_account.rhtml" timestamp="1464965465332">
+        <mark key="'" line="80" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/domain_extensions_controller.rb" timestamp="1464020793801">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="1" column="54" />
@@ -801,9 +804,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="594" column="81" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
-      <jump line="485" column="28" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
       <jump line="608" column="40" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
       <jump line="493" column="35" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
       <jump line="3" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/fixtures/domain_extension_groups.yml" />
@@ -901,6 +901,9 @@
       <jump line="32" column="44" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/billing/journal_entry_types/charges/positive.rb" />
       <jump line="3" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/config/clara_catchall_database.yml" />
       <jump line="19" column="2" filename="$USER_HOME$/projects/clara/concord/webapp/config/clara_catchall_database.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/views/shop/internal_only_choose_account.rhtml" />
+      <jump line="91" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/views/shop/internal_only_choose_account.rhtml" />
+      <jump line="80" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/views/shop/internal_only_choose_account.rhtml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -910,7 +913,7 @@
         <text>https://cptest.internetnamesww.com/servlet/icann.servlets.PostServlet</text>
       </register>
       <register name="/" type="4">
-        <text>before_save</text>
+        <text>countries</text>
       </register>
       <register name="0" type="4">
         <text>Billing::DomainChargeableItem.active_with_closed_services</text>
@@ -947,9 +950,9 @@
       </register>
     </registers>
     <search>
-      <last-search>before_save</last-search>
+      <last-search>countries</last-search>
       <last-offset />
-      <last-pattern>before_save</last-pattern>
+      <last-pattern>countries</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sub</last-substitute>
       <last-dir>1</last-dir>
@@ -957,7 +960,6 @@
     </search>
     <history>
       <history-search>
-        <entry>connect</entry>
         <entry>all</entry>
         <entry>..</entry>
         <entry>are</entry>
@@ -977,6 +979,7 @@
         <entry>oat</entry>
         <entry>unallocated_credit</entry>
         <entry>before_save</entry>
+        <entry>countries</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
