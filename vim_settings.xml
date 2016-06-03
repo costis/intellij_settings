@@ -455,6 +455,9 @@
         <mark key="^" line="16" column="80" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/billing/journal_entry_types/charges/positive.rb" timestamp="1464950549828">
+        <mark key="'" line="32" column="44" />
+      </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/index.html" timestamp="1461599436736">
         <mark key="'" line="31" column="28" />
         <mark key="[" line="29" column="29" />
@@ -790,7 +793,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="1" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/domain_extensions_controller_test.rb" />
       <jump line="6" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
       <jump line="11" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
       <jump line="594" column="81" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
@@ -890,6 +892,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account.rb" />
       <jump line="413" column="16" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account.rb" />
       <jump line="419" column="14" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account.rb" />
+      <jump line="32" column="44" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/billing/journal_entry_types/charges/positive.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -899,7 +902,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>unallocated_credit</text>
+        <text>before_save</text>
       </register>
       <register name="0" type="4">
         <text>Billing::DomainChargeableItem.active_with_closed_services</text>
@@ -936,9 +939,9 @@
       </register>
     </registers>
     <search>
-      <last-search>unallocated_credit</last-search>
+      <last-search>before_save</last-search>
       <last-offset />
-      <last-pattern>unallocated_credit</last-pattern>
+      <last-pattern>before_save</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sub</last-substitute>
       <last-dir>1</last-dir>
@@ -946,7 +949,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rest</entry>
         <entry>connect</entry>
         <entry>all</entry>
         <entry>..</entry>
@@ -966,6 +968,7 @@
         <entry>of</entry>
         <entry>oat</entry>
         <entry>unallocated_credit</entry>
+        <entry>before_save</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
