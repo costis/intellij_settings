@@ -742,6 +742,10 @@
         <mark key="." line="7" column="61" />
         <mark key="^" line="7" column="64" />
       </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/runner_scripts/maintenance/data_health_report.rb" timestamp="1464945975906">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="4" column="77" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7c3bb229-68ff-448a-b615-1cda8815f696/console.sql" timestamp="1463578010219">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -889,7 +893,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>Billing::DomainChargeableItem.active_with_closed_services</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -897,8 +901,8 @@
       <register name="/" type="4">
         <text>unallocated_credit</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcGFyc2VkID0gSlNPTi5wYXJzZShzdWJqZWN0LnRvX2pzb24pCg==</text>
+      <register name="0" type="4">
+        <text>Billing::DomainChargeableItem.active_with_closed_services</text>
       </register>
       <register name="1" type="4">
         <text>s</text>
