@@ -204,6 +204,11 @@
         <mark key="^" line="0" column="41" />
         <mark key="." line="0" column="41" />
       </file>
+      <file name="$USER_HOME$/projects/learning/js/ngBook2/angular2-reddit-base/index.html" timestamp="1465814578017">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/star.component.ts" timestamp="1461443601932">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="9" column="0" />
@@ -288,6 +293,12 @@
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/billing/chargeable_item.rb" timestamp="1464696365759">
         <mark key="'" line="1572" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/learning/js/ngBook2/angular2-reddit-base/app.ts" timestamp="1465814729856">
+        <mark key="[" line="1" column="42" />
+        <mark key="]" line="1" column="42" />
+        <mark key="^" line="1" column="42" />
+        <mark key="." line="1" column="42" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1" timestamp="1463081463039">
         <mark key="'" line="0" column="40" />
@@ -906,11 +917,11 @@
       <jump line="80" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/views/shop/internal_only_choose_account.rhtml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>https://cptest.internetnamesww.com/servlet/icann.servlets.PostServlet</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8geW91ciBjb2RlIGdvZXMgaGVyZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>https://cptest.internetnamesww.com/servlet/icann.servlets.PostServlet</text>
+        <text>min.</text>
       </register>
       <register name="/" type="4">
         <text>countries</text>
@@ -918,32 +929,32 @@
       <register name="0" type="4">
         <text>Billing::DomainChargeableItem.active_with_closed_services</text>
       </register>
-      <register name="1" type="4">
-        <text>https://cptest.internetnamesww.com/servlet/icann.servlets.PostServlet</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8geW91ciBjb2RlIGdvZXMgaGVyZQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>https://cp.internetnamesww.com/servlet/icann.servlets.PostServlet</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>https://cp.internetnamesww.com/servlet/icann.servlets.PostServlet</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>https://cptest.internetnamesww.com/servlet/icann.servlets.PostServlet</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>https://cptest.internetnamesww.com/servlet/icann.servlets.PostServlet</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcCBzcmM9Im5vZGVfbW8iPjwvc2NyaXA+Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>https://cp.internetnamesww.com/servlet/icann.servlets.PostServlet</text>
+        <text>min.</text>
       </register>
       <register name="7" type="4">
-        <text>https://cptest.internetnamesww.com/servlet/icann.servlets.PostServlet</text>
+        <text>@angular</text>
       </register>
-      <register name="8" type="4">
-        <text>s</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjID48L3NjcmlwdD4K</text>
       </register>
-      <register name="9" type="4">
-        <text>e</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcD48L3NjcmlwPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -990,7 +1001,6 @@
         <entry>actionlist anno</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>actionlist pinned</entry>
-        <entry encoding="base64">dyA=</entry>
         <entry>rnu</entry>
         <entry>clo</entry>
         <entry>wq</entry>
@@ -1001,6 +1011,7 @@
         <entry>ew</entry>
         <entry>split</entry>
         <entry>sp</entry>
+        <entry encoding="base64">dyA=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
