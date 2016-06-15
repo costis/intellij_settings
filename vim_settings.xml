@@ -47,13 +47,13 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/control_panel/service_groups_controller.rb" timestamp="1466001756661">
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/control_panel/service_groups_controller.rb" timestamp="1466003609868">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="100" column="12" />
+        <mark key="[" line="102" column="59" />
         <mark key="m" line="97" column="58" />
-        <mark key="]" line="101" column="3" />
-        <mark key="^" line="101" column="3" />
-        <mark key="." line="101" column="3" />
+        <mark key="]" line="102" column="59" />
+        <mark key="^" line="102" column="52" />
+        <mark key="." line="102" column="59" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/directive-kata/app/domaingroup-rowview.component.html" timestamp="1462650950694">
         <mark key="'" line="1" column="12" />
@@ -363,8 +363,8 @@
         <mark key="^" line="32" column="7" />
         <mark key="." line="32" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/cmmailbox.rb" timestamp="1466000575450">
-        <mark key="'" line="2" column="0" />
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/cmmailbox.rb" timestamp="1466002772830">
+        <mark key="'" line="85" column="12" />
         <mark key="[" line="96" column="0" />
         <mark key="m" line="93" column="6" />
         <mark key="]" line="96" column="39" />
@@ -441,6 +441,10 @@
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/views/shop/internal_only_choose_account.rhtml" timestamp="1464965465332">
         <mark key="'" line="80" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/domain_extensions_controller.rb" timestamp="1464020793801">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1" column="54" />
+      </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/authors.component.ts" timestamp="1461247270264">
         <mark key="'" line="14" column="2" />
         <mark key="[" line="5" column="29" />
@@ -478,6 +482,10 @@
         <mark key="]" line="11" column="58" />
         <mark key="^" line="11" column="58" />
         <mark key="." line="11" column="58" />
+      </file>
+      <file name="$USER_HOME$/projects/jsonapi_simple/test/jsonapi_simple/serializer_test.rb" timestamp="1464102256489">
+        <mark key="'" line="32" column="5" />
+        <mark key="[" line="32" column="7" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/newsletter.component.html" timestamp="1461501742976">
         <mark key="'" line="7" column="25" />
@@ -759,11 +767,8 @@
         <mark key="^" line="4" column="44" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/Gemfile" timestamp="1466001569878">
-        <mark key="'" line="96" column="0" />
+        <mark key="'" line="95" column="0" />
         <mark key="[" line="84" column="22" />
-        <mark key="]" line="85" column="16" />
-        <mark key="." line="85" column="16" />
-        <mark key="^" line="85" column="16" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/directive-kata/app/app.component.ts" timestamp="1462649875046">
         <mark key="'" line="8" column="11" />
@@ -843,7 +848,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="2" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/fixtures/domain_registration_prices.yml" />
       <jump line="2199" column="2" filename="$USER_HOME$/projects/clara/concord/webapp/test/fixtures/domain_registration_prices.yml" />
       <jump line="9" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/domain_extension_groups_controller_test.rb" />
@@ -943,13 +947,14 @@
       <jump line="37" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/cmmailbox.rb" />
       <jump line="95" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/cmmailbox.rb" />
       <jump line="2" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/cmmailbox.rb" />
+      <jump line="85" column="12" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/cmmailbox.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">d2l0aCA=</text>
+        <text encoding="base64">IG1haWw=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">d2l0aCA=</text>
+        <text encoding="base64">IG1haWw=</text>
       </register>
       <register name="/" type="4">
         <text>ruby-debug</text>
@@ -958,31 +963,31 @@
         <text encoding="base64">ICAgICAgZXJyb3JzLmFkZCg6cGFzc3dvcmQsIGV4Lm1lc3NhZ2UpCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">d2l0aCA=</text>
+        <text encoding="base64">IG1haWw=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">VmVyaWZ5IHRoYXQgd2UgY2FuIGNyZWF0ZSBhIHZhbGlkIA==</text>
+        <text>for</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgIGlmIEFjY291bnRTZXJ2aWNlOjpNYWlsaG9zdGluZ1R5cGVzOjpTaGFyZWREb21haW4ubWFpbGJveF9leGlzdHNfaW5fY2hhcGkoc2hhcmVkX21haWxfZG9tYWluLm5lZ2F0aXZlX2NoYXBpX2lkLCBuYW1lLCAiaWFlLm5sIikKICAgICAgZmxhc2hbOmVycm9yXSA9IFRTUygnVXNlcm5hbWUgYWxyZWFkeSBpbiB1c2UuJykKICAgICAgcmVkaXJlY3RfdG8gbmV3X3NoYXJlZF9tYWlsX2NwX3NlcnZpY2VfZ3JvdXBzX3BhdGgKICAgICAgcmV0dXJuCiAgICBlbHNpZiAhbmFtZS5zaXplLmJldHdlZW4/KDEsMzApIHx8IChuYW1lID1+IC9cQVthLXowLTkuXy1dKlxaL2kpLm5pbD8KICAgICAgZmxhc2hbOmVycm9yXSA9IFRTUygiVXNlcm5hbWUgaXMgbm90IHZhbGlkLiBBIHVzZXJuYW1lIGNhbiBvbmx5IGNvbnRhaW4gdGhlIGZvbGxvd2luZyAoYS16IDAtOSAuIF8gLSkuIFBsZWFzZSB0cnkgYWdhaW4uIikKICAgICAgcmVkaXJlY3RfdG8gbmV3X3NoYXJlZF9tYWlsX2NwX3NlcnZpY2VfZ3JvdXBzX3BhdGgKICAgICAgcmV0dXJuCiAgICBlbmQK</text>
+        <text encoding="base64">ICAgIHJlcXVpcmUgJ3J1YnktZGVidWcnCiAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">V2UgaGF2ZSB0byB2YWxpZGF0ZSBpbnB1dHMgYXQgdGhpcyBwb2ludC4gVGhlIGJlc3Qgd2F5IGlzIHRvIA==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">dGhlIA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>Validate email</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
