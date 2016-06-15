@@ -177,6 +177,13 @@
         <mark key="." line="20" column="112" />
         <mark key="^" line="20" column="112" />
       </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/control_panel/mail_controller.rb" timestamp="1466006150229">
+        <mark key="'" line="128" column="2" />
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="5" column="2" />
+        <mark key="^" line="5" column="2" />
+        <mark key="." line="5" column="2" />
+      </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/newsletter.component.ts" timestamp="1461501967448">
         <mark key="'" line="8" column="25" />
         <mark key="[" line="13" column="83" />
@@ -230,6 +237,9 @@
         <mark key="]" line="4" column="26" />
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/mailbox_control_panel/quarantined_emails_controller.rb" timestamp="1466006745508">
+        <mark key="'" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroup-form.component.ts" timestamp="1462799588963">
         <mark key="'" line="22" column="0" />
@@ -398,7 +408,6 @@
         <mark key="^" line="3" column="44" />
         <mark key="." line="3" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/secure_payment/pay_and_postprocess/pay_for_order.rb" timestamp="1464339002408" />
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/views/rest_api/domain_extension_groups/index.jsonapi.rabl" timestamp="1464127202203">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -590,6 +599,9 @@
         <mark key="]" line="4" column="58" />
         <mark key="." line="4" column="58" />
         <mark key="^" line="4" column="58" />
+      </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/control_panel/mail/addresses_controller.rb" timestamp="1466007107678">
+        <mark key="'" line="52" column="61" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-list.component.ts" timestamp="1462813065728">
         <mark key="'" line="18" column="38" />
@@ -798,8 +810,8 @@
         <mark key="." line="7" column="61" />
         <mark key="^" line="7" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/views/layouts/control_panel.rhtml" timestamp="1465998596340">
-        <mark key="'" line="53" column="24" />
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/views/layouts/control_panel.rhtml" timestamp="1466007204739">
+        <mark key="'" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/runner_scripts/maintenance/data_health_report.rb" timestamp="1464945975906">
         <mark key="[" line="4" column="21" />
@@ -848,12 +860,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/fixtures/domain_registration_prices.yml" />
-      <jump line="2199" column="2" filename="$USER_HOME$/projects/clara/concord/webapp/test/fixtures/domain_registration_prices.yml" />
-      <jump line="9" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/domain_extension_groups_controller_test.rb" />
-      <jump line="81" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
-      <jump line="94" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
-      <jump line="7" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="10" column="3" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="15" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="26" column="15" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
@@ -940,14 +946,20 @@
       <jump line="115" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/control_panel_controller.rb" />
       <jump line="31" column="4" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/control_panel/service_groups_controller.rb" />
       <jump line="6" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/control_panel/service_groups_controller.rb" />
-      <jump line="5" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/views/layouts/control_panel.rhtml" />
       <jump line="126" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/views/layouts/control_panel.rhtml" />
-      <jump line="4" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/views/layouts/control_panel.rhtml" />
       <jump line="53" column="24" filename="$USER_HOME$/projects/clara/concord/webapp/app/views/layouts/control_panel.rhtml" />
       <jump line="37" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/cmmailbox.rb" />
       <jump line="95" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/cmmailbox.rb" />
       <jump line="2" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/cmmailbox.rb" />
       <jump line="85" column="12" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/cmmailbox.rb" />
+      <jump line="33" column="4" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/control_panel/mail_controller.rb" />
+      <jump line="128" column="2" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/control_panel/mail_controller.rb" />
+      <jump line="3" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/mailbox_control_panel/quarantined_emails_controller.rb" />
+      <jump line="52" column="61" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/control_panel/mail/addresses_controller.rb" />
+      <jump line="56" column="24" filename="$USER_HOME$/projects/clara/concord/webapp/app/views/layouts/control_panel.rhtml" />
+      <jump line="4" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/views/layouts/control_panel.rhtml" />
+      <jump line="130" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/views/layouts/control_panel.rhtml" />
+      <jump line="5" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/views/layouts/control_panel.rhtml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -957,7 +969,7 @@
         <text encoding="base64">IG1haWw=</text>
       </register>
       <register name="/" type="4">
-        <text>ruby-debug</text>
+        <text>bod</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZXJyb3JzLmFkZCg6cGFzc3dvcmQsIGV4Lm1lc3NhZ2UpCg==</text>
@@ -994,9 +1006,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ruby-debug</last-search>
+      <last-search>bod</last-search>
       <last-offset />
-      <last-pattern>ruby-debug</last-pattern>
+      <last-pattern>bod</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sub</last-substitute>
       <last-dir>1</last-dir>
@@ -1004,8 +1016,6 @@
     </search>
     <history>
       <history-search>
-        <entry>visp</entry>
-        <entry>namespaces</entry>
         <entry>namespace</entry>
         <entry>path_prefix</entry>
         <entry>hirb</entry>
@@ -1024,9 +1034,10 @@
         <entry>redner</entry>
         <entry>validate</entry>
         <entry>ruby-debug</entry>
+        <entry>add</entry>
+        <entry>bod</entry>
       </history-search>
       <history-cmd>
-        <entry>vsp</entry>
         <entry>actionlist</entry>
         <entry>help actionlist</entry>
         <entry>actionlist pin</entry>
@@ -1046,6 +1057,7 @@
         <entry>sp</entry>
         <entry encoding="base64">dyA=</entry>
         <entry>w</entry>
+        <entry>BufOnly</entry>
       </history-cmd>
       <history-expr />
       <history-input />
