@@ -649,6 +649,10 @@
         <mark key="." line="17" column="46" />
         <mark key="^" line="17" column="46" />
       </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/mailhosting_types/shared_domain.rb" timestamp="1465992459096">
+        <mark key="'" line="61" column="28" />
+        <mark key="m" line="61" column="28" />
+      </file>
       <file name="$USER_HOME$/projects/learning/js/concord-domains/package.json" timestamp="1462814260346">
         <mark key="'" line="38" column="5" />
         <mark key="[" line="38" column="25" />
@@ -815,9 +819,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="608" column="40" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
-      <jump line="493" column="35" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
-      <jump line="3" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/fixtures/domain_extension_groups.yml" />
       <jump line="345" column="2" filename="$USER_HOME$/projects/clara/concord/webapp/test/fixtures/domain_extension_groups.yml" />
       <jump line="125" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/fixtures/domain_extension_groups.yml" />
       <jump line="195" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/test/fixtures/domain_extension_groups.yml" />
@@ -915,6 +916,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/views/shop/internal_only_choose_account.rhtml" />
       <jump line="91" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/views/shop/internal_only_choose_account.rhtml" />
       <jump line="80" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/views/shop/internal_only_choose_account.rhtml" />
+      <jump line="63" column="28" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/mailhosting_types/shared_domain.rb" />
+      <jump line="130" column="28" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/mailhosting_types/shared_domain.rb" />
+      <jump line="61" column="28" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/mailhosting_types/shared_domain.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
