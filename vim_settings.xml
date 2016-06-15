@@ -47,6 +47,12 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
       </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/control_panel/service_groups_controller.rb" timestamp="1465993471761">
+        <mark key="[" line="106" column="9" />
+        <mark key="]" line="107" column="43" />
+        <mark key="^" line="107" column="43" />
+        <mark key="." line="107" column="43" />
+      </file>
       <file name="$USER_HOME$/projects/learning/js/directive-kata/app/domaingroup-rowview.component.html" timestamp="1462650950694">
         <mark key="'" line="1" column="12" />
         <mark key="[" line="0" column="5" />
@@ -921,44 +927,44 @@
       <jump line="61" column="28" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/mailhosting_types/shared_domain.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8geW91ciBjb2RlIGdvZXMgaGVyZQo=</text>
+      <register name="&quot;" type="4">
+        <text>Username is not valid. A username can only contain the following (a-z 0-9 . _ -). Please try again.</text>
       </register>
       <register name="-" type="4">
-        <text>min.</text>
+        <text>Username is not valid. A username can only contain the following (a-z 0-9 . _ -). Please try again.</text>
       </register>
       <register name="/" type="4">
         <text>countries</text>
       </register>
       <register name="0" type="4">
-        <text>Billing::DomainChargeableItem.active_with_closed_services</text>
+        <text encoding="base64">ICAgICAgZmxhc2hbOmVycm9yXSA9IFRTUygiVXNlcm5hbWUgaXMgbm90IHZhbGlkLiBBIHVzZXJuYW1lIGNhbiBvbmx5IGNvbnRhaW4gdGhlIGZvbGxvd2luZyAoYS16IDAtOSAuIF8gLSkuIFBsZWFzZSB0cnkgYWdhaW4uIikKICAgICAgcmVkaXJlY3RfdG8gbmV3X3NoYXJlZF9tYWlsX2NwX3NlcnZpY2VfZ3JvdXBzX3BhdGg=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8geW91ciBjb2RlIGdvZXMgaGVyZQo=</text>
+      <register name="1" type="4">
+        <text>Username is not valid. A username can only contain the following (a-z 0-9 . _ -). Please try again.</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ID0+IGU=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8geW91ciBjb2RlIGdvZXMgaGVyZQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIDxzY3JpcCBzcmM9Im5vZGVfbW8iPjwvc2NyaXA+Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>min.</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>@angular</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjID48L3NjcmlwdD4K</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcD48L3NjcmlwPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
