@@ -586,8 +586,8 @@
       <file name="$USER_HOME$/projects/learning/js/concord-domains/node_modules/@angular/core/src/metadata.d.ts" timestamp="1466170987367">
         <mark key="'" line="1129" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/accounts_controller.rb" timestamp="1466175474379">
-        <mark key="'" line="87" column="0" />
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/accounts_controller.rb" timestamp="1466177986340">
+        <mark key="'" line="2" column="17" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/directive-kata/app/domaingroups.service.ts" timestamp="1462619537772">
         <mark key="'" line="17" column="31" />
@@ -882,7 +882,6 @@
       <jump line="5" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
       <jump line="2" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
       <jump line="17" column="2" filename="$USER_HOME$/projects/learning/js/concord-domains/bs-config.js" />
-      <jump line="2" column="40" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/accounts_controller.rb" />
       <jump line="337" column="6" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
       <jump line="2" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
       <jump line="347" column="4" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
@@ -901,6 +900,7 @@
       <jump line="20" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/api/domain_extension_groups_controller.rb" />
       <jump line="17" column="33" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/api/domain_extension_groups_controller.rb" />
       <jump line="13" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/api/domain_extension_groups_controller.rb" />
+      <jump line="2" column="17" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/accounts_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
