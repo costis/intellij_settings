@@ -40,6 +40,9 @@
         <mark key="." line="9" column="11" />
         <mark key="^" line="9" column="11" />
       </file>
+      <file name="/a.dummy" timestamp="1466176462868">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/simpleform.component.html" timestamp="1461496769678">
         <mark key="'" line="2" column="15" />
         <mark key="[" line="13" column="46" />
@@ -49,11 +52,6 @@
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/control_panel/service_groups_controller.rb" timestamp="1466003609868">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="102" column="59" />
-        <mark key="m" line="97" column="58" />
-        <mark key="]" line="102" column="59" />
-        <mark key="^" line="102" column="52" />
-        <mark key="." line="102" column="59" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/directive-kata/app/domaingroup-rowview.component.html" timestamp="1462650950694">
         <mark key="'" line="1" column="12" />
@@ -83,11 +81,11 @@
         <mark key="^" line="23" column="111" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/rest_api/domain_extension_groups_controller.rb" timestamp="1464127420697">
-        <mark key="[" line="8" column="19" />
-        <mark key="]" line="8" column="21" />
-        <mark key="." line="8" column="21" />
-        <mark key="^" line="8" column="21" />
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/API/domain_extension_groups_controller.rb" timestamp="1466176495600">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/ag2-directives-tutorial/app/app.component.ts" timestamp="1461914843035">
         <mark key="'" line="7" column="19" />
@@ -98,17 +96,6 @@
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/account.rb" timestamp="1464770689749">
         <mark key="'" line="419" column="14" />
-      </file>
-      <file name="$USER_HOME$/projects/jsonapi_simple/test/jsonapi_simple/serializer.rb" timestamp="1464099752044">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/test/fixtures/domain_registrar_configurations.yml" timestamp="1464959667553">
-        <mark key="[" line="316" column="13" />
-        <mark key="]" line="316" column="74" />
-        <mark key="." line="316" column="74" />
-        <mark key="^" line="316" column="74" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/api_controller.rb" timestamp="1463088792031">
         <mark key="'" line="4" column="4" />
@@ -124,24 +111,12 @@
         <mark key="^" line="3" column="85" />
         <mark key="." line="3" column="78" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/views/rest_api/domain_extension_groups/index.rabl" timestamp="1464126920026">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="4" column="11" />
-        <mark key="." line="4" column="11" />
-        <mark key="^" line="4" column="11" />
-      </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/password_strength_checker.rb" timestamp="1463052435309">
         <mark key="'" line="18" column="49" />
         <mark key="[" line="2" column="26" />
         <mark key="]" line="2" column="25" />
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/config/environments/mime_types.rb" timestamp="1464010941994">
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="0" column="32" />
-        <mark key="^" line="0" column="32" />
-        <mark key="." line="0" column="32" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/domain_extension_groups_controller_test.rb" timestamp="1464127272694">
         <mark key="'" line="17" column="56" />
@@ -213,10 +188,12 @@
         <mark key="^" line="0" column="41" />
         <mark key="." line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/learning/js/ngBook2/angular2-reddit-base/index.html" timestamp="1465814578017">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" timestamp="1466176498935">
+        <mark key="'" line="104" column="116" />
+        <mark key="[" line="555" column="58" />
+        <mark key="]" line="555" column="59" />
+        <mark key="^" line="555" column="60" />
+        <mark key="." line="555" column="59" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/star.component.ts" timestamp="1461443601932">
         <mark key="'" line="30" column="0" />
@@ -249,11 +226,11 @@
         <mark key="^" line="18" column="42" />
         <mark key="." line="18" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/jsonapi_simple/lib/jsonapi_simple.rb" timestamp="1464099989179">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="1" column="33" />
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/api/domain_extension_groups_controller.rb" timestamp="1466176562139">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/directive-kata/app/domaingroup-form.html" timestamp="1462603695157">
         <mark key="'" line="9" column="0" />
@@ -268,12 +245,6 @@
         <mark key="]" line="0" column="26" />
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
-      </file>
-      <file name="$USER_HOME$/projects/jsonapi_simple/jsonapi_simple.gemspec" timestamp="1464101234380">
-        <mark key="[" line="20" column="16" />
-        <mark key="]" line="20" column="26" />
-        <mark key="^" line="20" column="26" />
-        <mark key="." line="20" column="26" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/http_authenticated_controller_test.rb" timestamp="1464019624585">
         <mark key="'" line="8" column="0" />
@@ -306,18 +277,6 @@
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/billing/chargeable_item.rb" timestamp="1464696365759">
         <mark key="'" line="1572" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/learning/js/ngBook2/angular2-reddit-base/app.ts" timestamp="1465814729856">
-        <mark key="[" line="1" column="42" />
-        <mark key="]" line="1" column="42" />
-        <mark key="^" line="1" column="42" />
-        <mark key="." line="1" column="42" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/58664fa1-8296-4105-bc1d-8872f0ba9b16/console.sql" timestamp="1463749822662">
-        <mark key="[" line="1" column="55" />
-        <mark key="]" line="1" column="89" />
-        <mark key="^" line="1" column="89" />
-        <mark key="." line="1" column="89" />
-      </file>
       <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" timestamp="1466171038233">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="130" column="8" />
@@ -332,12 +291,6 @@
         <mark key="." line="0" column="45" />
         <mark key="^" line="0" column="45" />
       </file>
-      <file name="/fragment.rb" timestamp="1464018839119">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
-        <mark key="^" line="0" column="37" />
-      </file>
       <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup-list.component.ts" timestamp="1462784165265">
         <mark key="'" line="13" column="36" />
         <mark key="[" line="13" column="24" />
@@ -351,12 +304,6 @@
         <mark key="]" line="31" column="0" />
         <mark key="^" line="377" column="34" />
         <mark key="." line="31" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/58664fa1-8296-4105-bc1d-8872f0ba9b16/console_1.sql" timestamp="1463578229857">
-        <mark key="[" line="0" column="80" />
-        <mark key="]" line="0" column="79" />
-        <mark key="^" line="0" column="79" />
-        <mark key="." line="0" column="79" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/base.rb" timestamp="1463405861739">
         <mark key="'" line="863" column="0" />
@@ -387,12 +334,6 @@
         <mark key="." line="37" column="55" />
         <mark key="^" line="37" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/jsonapi_simple/test/test_helper.rb" timestamp="1464100458079">
-        <mark key="[" line="1" column="29" />
-        <mark key="]" line="1" column="31" />
-        <mark key="." line="1" column="31" />
-        <mark key="^" line="1" column="31" />
-      </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/helpers/password_helper.rb" timestamp="1462977736325">
         <mark key="'" line="10" column="25" />
         <mark key="[" line="10" column="10" />
@@ -408,13 +349,10 @@
         <mark key="." line="3" column="44" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/secure_payment/pay_and_postprocess/pay_for_order.rb" timestamp="1466170766041" />
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/views/rest_api/domain_extension_groups/index.jsonapi.rabl" timestamp="1464127202203">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" timestamp="1466174871476">
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" timestamp="1466175563373">
         <mark key="'" line="337" column="6" />
+        <mark key="[" line="337" column="0" />
+        <mark key="]" line="348" column="5" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/test/test_helper.rb" timestamp="1464959709235">
         <mark key="'" line="7" column="2" />
@@ -648,8 +586,8 @@
       <file name="$USER_HOME$/projects/learning/js/concord-domains/node_modules/@angular/core/src/metadata.d.ts" timestamp="1466170987367">
         <mark key="'" line="1129" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/accounts_controller.rb" timestamp="1466174655744">
-        <mark key="'" line="2" column="40" />
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/accounts_controller.rb" timestamp="1466175474379">
+        <mark key="'" line="87" column="0" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/directive-kata/app/domaingroups.service.ts" timestamp="1462619537772">
         <mark key="'" line="17" column="31" />
@@ -693,10 +631,6 @@
         <mark key="." line="17" column="46" />
         <mark key="^" line="17" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/account_service/mailhosting_types/shared_domain.rb" timestamp="1465997316960">
-        <mark key="'" line="139" column="17" />
-        <mark key="m" line="61" column="28" />
-      </file>
       <file name="$USER_HOME$/projects/learning/js/concord-domains/package.json" timestamp="1462814260346">
         <mark key="'" line="38" column="5" />
         <mark key="[" line="38" column="25" />
@@ -717,12 +651,6 @@
         <mark key="]" line="57" column="42" />
         <mark key="^" line="57" column="42" />
         <mark key="." line="57" column="42" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7c3bb229-68ff-448a-b615-1cda8815f696/console.sql" timestamp="1463578010219">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/pacman/accounts/pay_arbitrary_period_controller.rb" timestamp="1461927352681">
         <mark key="'" line="43" column="50" />
@@ -873,23 +801,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
-      <jump line="8" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
-      <jump line="20" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
-      <jump line="45" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
-      <jump line="9" column="32" filename="$USER_HOME$/projects/jsonapi_simple/test/jsonapi_simple/serializer_test.rb" />
-      <jump line="15" column="3" filename="$USER_HOME$/projects/jsonapi_simple/test/jsonapi_simple/serializer_test.rb" />
-      <jump line="11" column="0" filename="$USER_HOME$/projects/jsonapi_simple/lib/jsonapi_simple/serializer.rb" />
-      <jump line="15" column="28" filename="$USER_HOME$/projects/jsonapi_simple/lib/jsonapi_simple/serializer.rb" />
-      <jump line="20" column="0" filename="$USER_HOME$/projects/jsonapi_simple/test/jsonapi_simple/serializer_test.rb" />
-      <jump line="22" column="0" filename="$USER_HOME$/projects/jsonapi_simple/test/jsonapi_simple/serializer_test.rb" />
-      <jump line="23" column="0" filename="$USER_HOME$/projects/jsonapi_simple/test/jsonapi_simple/serializer_test.rb" />
-      <jump line="16" column="2" filename="$USER_HOME$/projects/jsonapi_simple/test/jsonapi_simple/serializer_test.rb" />
-      <jump line="24" column="31" filename="$USER_HOME$/projects/jsonapi_simple/lib/jsonapi_simple/serializer.rb" />
-      <jump line="4" column="0" filename="$USER_HOME$/projects/jsonapi_simple/lib/jsonapi_simple/serializer.rb" />
-      <jump line="23" column="28" filename="$USER_HOME$/projects/jsonapi_simple/lib/jsonapi_simple/serializer.rb" />
-      <jump line="26" column="41" filename="$USER_HOME$/projects/jsonapi_simple/test/jsonapi_simple/serializer_test.rb" />
-      <jump line="21" column="0" filename="$USER_HOME$/projects/jsonapi_simple/test/jsonapi_simple/serializer_test.rb" />
       <jump line="27" column="0" filename="$USER_HOME$/projects/jsonapi_simple/test/jsonapi_simple/serializer_test.rb" />
       <jump line="10" column="0" filename="$USER_HOME$/projects/jsonapi_simple/test/jsonapi_simple/serializer_test.rb" />
       <jump line="17" column="0" filename="$USER_HOME$/projects/jsonapi_simple/lib/jsonapi_simple/serializer.rb" />
@@ -973,55 +884,72 @@
       <jump line="17" column="2" filename="$USER_HOME$/projects/learning/js/concord-domains/bs-config.js" />
       <jump line="2" column="40" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/accounts_controller.rb" />
       <jump line="337" column="6" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
+      <jump line="2" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
+      <jump line="347" column="4" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
+      <jump line="88" column="108" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
+      <jump line="89" column="116" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
+      <jump line="100" column="128" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
+      <jump line="102" column="112" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
+      <jump line="103" column="114" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
+      <jump line="104" column="116" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
+      <jump line="84" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/accounts_controller.rb" />
+      <jump line="3" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/accounts_controller.rb" />
+      <jump line="87" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/accounts_controller.rb" />
+      <jump line="5" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/api/domain_extension_groups_controller.rb" />
+      <jump line="14" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/api/domain_extension_groups_controller.rb" />
+      <jump line="20" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/api/domain_extension_groups_controller.rb" />
+      <jump line="17" column="33" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/api/domain_extension_groups_controller.rb" />
+      <jump line="13" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/api/domain_extension_groups_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>http://www.example.org</text>
-      </register>
-      <register name="-" type="4">
-        <text>http://www.example.org</text>
-      </register>
-      <register name="/" type="4">
-        <text>bod</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZXJyb3JzLmFkZCg6cGFzc3dvcmQsIGV4Lm1lc3NhZ2UpCg==</text>
-      </register>
-      <register name="1" type="4">
-        <text encoding="base64">IG1haWw=</text>
-      </register>
-      <register name="2" type="4">
-        <text>for</text>
-      </register>
-      <register name="3" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIHJlcXVpcmUgJ3J1YnktZGVidWcnCiAgICBkZWJ1Z2dlcgo=</text>
+      <register name="-" type="4">
+        <text>API</text>
+      </register>
+      <register name="/" type="4">
+        <text>api</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgcmVzcG9uZF90byBkbyB8Zm9ybWF0fAogICAgICAgIGZvcm1hdC5qc29uIGRvCiAgICAgICAgICByZW5kZXIgOmpzb24gPT4gezpkYXRhID0+ICdoZWxsbyB3b3JsZCd9CiAgICAgICAgZW5kCiAgICAgIGVuZA==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICBmb3JtYXQuaHRtbCBkbwogICAgICAgICAgcmVuZGVyIDp0ZXh0ID0+ICdoaScKICAgICAgICBlbmQ=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgcmVzcG9uZF90byBkbyB8Zm9ybWF0fAogICAgICAgIGZvcm1hdC5qc29uIGRvCiAgICAgICAgICByZW5kZXIgOmpzb24gPT4gezpkYXRhID0+ICdoZWxsbyB3b3JsZCd9CiAgICAgICAgZW5kCiAgICAgIGVuZAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBmbGFzaFs6ZXJyb3JdID0gVFNTLm5ldygnWW91IG11c3QgbG9naW4gdG8gYWNjZXNzIHRoaXMgcGFnZScpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBAZ2xvYmFsX3Nlc3Npb24uYm9va21hcmtlZF91cmwgPSByZXF1ZXN0LnJlcXVlc3RfdXJpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXNldF9zZXNzaW9uX2J1dF9rZWVwX2ZsYXNoCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>bod</last-search>
+      <last-search>api</last-search>
       <last-offset />
-      <last-pattern>bod</last-pattern>
+      <last-pattern>api</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sub</last-substitute>
       <last-dir>1</last-dir>
@@ -1029,8 +957,6 @@
     </search>
     <history>
       <history-search>
-        <entry>namespace</entry>
-        <entry>path_prefix</entry>
         <entry>hirb</entry>
         <entry>type</entry>
         <entry>of</entry>
@@ -1049,6 +975,8 @@
         <entry>ruby-debug</entry>
         <entry>add</entry>
         <entry>bod</entry>
+        <entry>:pacman</entry>
+        <entry>api</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
