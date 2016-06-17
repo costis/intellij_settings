@@ -413,6 +413,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" timestamp="1466174871476">
+        <mark key="'" line="337" column="6" />
+      </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/test/test_helper.rb" timestamp="1464959709235">
         <mark key="'" line="7" column="2" />
         <mark key="[" line="150" column="194" />
@@ -645,8 +648,8 @@
       <file name="$USER_HOME$/projects/learning/js/concord-domains/node_modules/@angular/core/src/metadata.d.ts" timestamp="1466170987367">
         <mark key="'" line="1129" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/accounts_controller.rb" timestamp="1465998285790">
-        <mark key="'" line="0" column="45" />
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/accounts_controller.rb" timestamp="1466174655744">
+        <mark key="'" line="2" column="40" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/directive-kata/app/domaingroups.service.ts" timestamp="1462619537772">
         <mark key="'" line="17" column="31" />
@@ -870,7 +873,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="11" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="8" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
       <jump line="20" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/serializers/domain_extension_group_serializer.rb" />
@@ -937,7 +939,6 @@
       <jump line="88" column="8" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/cmmailbox.rb" />
       <jump line="89" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/cmmailbox.rb" />
       <jump line="109" column="58" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/control_panel/service_groups_controller.rb" />
-      <jump line="2" column="40" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/accounts_controller.rb" />
       <jump line="85" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/accounts_controller.rb" />
       <jump line="110" column="6" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/control_panel/service_groups_controller.rb" />
       <jump line="0" column="65" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/control_panel/service_groups_controller.rb" />
@@ -970,6 +971,8 @@
       <jump line="5" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
       <jump line="2" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
       <jump line="17" column="2" filename="$USER_HOME$/projects/learning/js/concord-domains/bs-config.js" />
+      <jump line="2" column="40" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/accounts_controller.rb" />
+      <jump line="337" column="6" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
