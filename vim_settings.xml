@@ -97,11 +97,6 @@
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/account.rb" timestamp="1464770689749">
         <mark key="'" line="419" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/jsonapi_simple/test/jsonapi_simple/serializer.rb" timestamp="1464099752044">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/api_controller.rb" timestamp="1463088792031">
         <mark key="'" line="4" column="4" />
         <mark key="[" line="0" column="22" />
@@ -192,11 +187,6 @@
         <mark key="]" line="0" column="41" />
         <mark key="^" line="0" column="41" />
         <mark key="." line="0" column="41" />
-      </file>
-      <file name="$USER_HOME$/projects/learning/js/ngBook2/angular2-reddit-base/index.html" timestamp="1465814578017">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" timestamp="1466176498935">
         <mark key="'" line="104" column="116" />
@@ -350,11 +340,6 @@
         <mark key="." line="3" column="44" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/secure_payment/pay_and_postprocess/pay_for_order.rb" timestamp="1466170766041" />
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/views/rest_api/domain_extension_groups/index.jsonapi.rabl" timestamp="1464127202203">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/application.rb" timestamp="1466175563373">
         <mark key="'" line="337" column="6" />
         <mark key="[" line="337" column="0" />
@@ -567,7 +552,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/auth_controller.rb" timestamp="1466178502451">
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/auth_controller.rb" timestamp="1466239429211">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -711,12 +696,12 @@
         <mark key="^" line="139" column="23" />
         <mark key="." line="139" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/config/database.yml" timestamp="1463058108890">
+      <file name="$USER_HOME$/projects/clara/concord/webapp/config/database.yml" timestamp="1466239742907">
         <mark key="'" line="29" column="19" />
-        <mark key="[" line="29" column="8" />
-        <mark key="]" line="29" column="16" />
-        <mark key="." line="29" column="16" />
-        <mark key="^" line="29" column="16" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="68" column="11" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/heart.component.ts" timestamp="1461444468611">
         <mark key="'" line="7" column="0" />
@@ -738,6 +723,9 @@
         <mark key="]" line="6" column="65" />
         <mark key="." line="6" column="65" />
         <mark key="^" line="6" column="64" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1466238896846">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/mailbox.rb" timestamp="1465996167218">
         <mark key="'" line="36" column="4" />
@@ -902,11 +890,11 @@
       <jump line="11" column="17" filename="$USER_HOME$/projects/learning/js/concord-domains/app/app.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>skaj2002</text>
       </register>
       <register name="/" type="4">
         <text>api</text>
@@ -915,31 +903,31 @@
         <text encoding="base64">ICAgICAgcmVzcG9uZF90byBkbyB8Zm9ybWF0fAogICAgICAgIGZvcm1hdC5qc29uIGRvCiAgICAgICAgICByZW5kZXIgOmpzb24gPT4gezpkYXRhID0+ICdoZWxsbyB3b3JsZCd9CiAgICAgICAgZW5kCiAgICAgIGVuZA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRncy5nZXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRncy5nZXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRncy5nZXRFCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">I1RoZSBmb2xsb3dpbmcgY29uZmlnIGFkZGVkIGJ5IGNsYXJhX2F1dGhfcGx1Z2luIGluc3RhbGxhdGlvbiBzY3JpcHQKY2xhcmFfYXV0aF90ZXN0OgogIHVzZXJuYW1lOiByb290CiAgYWRhcHRlcjogbXlzcWwKICBob3N0OiBsb2NhbGhvc3QKICBwYXNzd29yZDogCiAgZGF0YWJhc2U6IGNsYXJhX2F1dGhfdGVzdAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICBmb3JtYXQuaHRtbCBkbwogICAgICAgICAgcmVuZGVyIDp0ZXh0ID0+ICdoaScKICAgICAgICBlbmQ=</text>
-      </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">I1RoZSBmb2xsb3dpbmcgY29uZmlnIGFkZGVkIGJ5IGNsYXJhX2F1dGhfcGx1Z2luIGluc3RhbGxhdGlvbiBzY3JpcHQKY2xhcmFfYXV0aF9wcm9kdWN0aW9uOgogIHVzZXJuYW1lOiBjbGFyYW5ldAogIGFkYXB0ZXI6IG15c3FsCiAgaG9zdDogcHJpLWRiLnVrLmNsYXJhLm5ldAogIHBhc3N3b3JkOiBza2FqMjAwMgogIGRhdGFiYXNlOiBjbGFyYV9hdXRoCiAgcG9ydDogMzMwNgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRncy5nZXQK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgcmVzcG9uZF90byBkbyB8Zm9ybWF0fAogICAgICAgIGZvcm1hdC5qc29uIGRvCiAgICAgICAgICByZW5kZXIgOmpzb24gPT4gezpkYXRhID0+ICdoZWxsbyB3b3JsZCd9CiAgICAgICAgZW5kCiAgICAgIGVuZAo=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGRncy5nZXQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
