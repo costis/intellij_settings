@@ -60,12 +60,12 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/pricing/pricinglist.component.ts" timestamp="1466363933994">
-        <mark key="'" line="29" column="1" />
-        <mark key="[" line="20" column="4" />
-        <mark key="]" line="20" column="4" />
-        <mark key="^" line="25" column="6" />
-        <mark key="." line="20" column="4" />
+      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/pricing/pricinglist.component.ts" timestamp="1466419244961">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="9" column="56" />
+        <mark key="]" line="10" column="32" />
+        <mark key="^" line="10" column="32" />
+        <mark key="." line="10" column="32" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/directive-kata/tslint.json" timestamp="1462272582847">
         <mark key="'" line="0" column="0" />
@@ -280,12 +280,12 @@
         <mark key="^" line="16" column="89" />
         <mark key="." line="16" column="89" />
       </file>
-      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroup-list.component.ts" timestamp="1466417888049">
+      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroup-list.component.ts" timestamp="1466419191389">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="22" column="27" />
-        <mark key="]" line="22" column="27" />
-        <mark key="." line="22" column="27" />
-        <mark key="^" line="22" column="27" />
+        <mark key="[" line="25" column="27" />
+        <mark key="]" line="25" column="27" />
+        <mark key="." line="25" column="27" />
+        <mark key="^" line="25" column="27" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/billing/chargeable_item.rb" timestamp="1464696365759">
         <mark key="'" line="1572" column="0" />
@@ -547,12 +547,12 @@
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/control_panel/mail/addresses_controller.rb" timestamp="1466007107678">
         <mark key="'" line="52" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-list.component.ts" timestamp="1466363895504">
+      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-list.component.ts" timestamp="1466419371235">
         <mark key="'" line="15" column="13" />
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="4" />
-        <mark key="^" line="17" column="19" />
-        <mark key="." line="17" column="4" />
+        <mark key="[" line="27" column="46" />
+        <mark key="]" line="27" column="46" />
+        <mark key="^" line="27" column="43" />
+        <mark key="." line="27" column="46" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/changepassword.component.html" timestamp="1461581701690">
         <mark key="'" line="25" column="0" />
@@ -677,11 +677,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-form.component.ts" timestamp="1466416227168">
+      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-form.component.ts" timestamp="1466419431699">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="7" column="73" />
-        <mark key="]" line="8" column="32" />
-        <mark key="." line="8" column="32" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
         <mark key="^" line="8" column="32" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/directive-kata/app/main.component.ts" timestamp="1462293115954">
@@ -804,9 +804,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="24" filename="$USER_HOME$/projects/clara/concord/webapp/app/views/layouts/control_panel.rhtml" />
-      <jump line="37" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/cmmailbox.rb" />
-      <jump line="95" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/cmmailbox.rb" />
       <jump line="2" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/cmmailbox.rb" />
       <jump line="85" column="12" filename="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/cmmailbox.rb" />
       <jump line="33" column="4" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/control_panel/mail_controller.rb" />
@@ -900,17 +897,20 @@
       <jump line="5" column="22" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroup-list.component.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroup-list.component.ts" />
       <jump line="15" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/app.component.html" />
-      <jump line="13" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-form.component.ts" />
       <jump line="17" column="2" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroup-list.component.ts" />
       <jump line="14" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroup-list.component.html" />
       <jump line="20" column="18" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroup-list.component.html" />
+      <jump line="11" column="13" filename="$USER_HOME$/projects/learning/js/concord-domains/app/pricing/pricinglist.component.ts" />
+      <jump line="7" column="11" filename="$USER_HOME$/projects/learning/js/concord-domains/app/pricing/pricinglist.component.ts" />
+      <jump line="4" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/pricing/pricinglist.component.ts" />
+      <jump line="13" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-form.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, Router</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coImN1cnJlbnQgZXh0IiwgdGhpcy5fY3VycmVudEV4dGVuc2lvbik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>, Router</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
@@ -919,31 +919,31 @@
         <text>domaingroups</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucm91dGVyLnVybFRyZWUpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coImN1cnJlbnQgZXh0IiwgdGhpcy5fY3VycmVudEV4dGVuc2lvbik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMucm91dGVyLm5hdmlnYXRlKFsncHJpY2luZycsIGRnLmlkXSk7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMucm91dGVyLm5hdmlnYXRlKFsnL2V4dGVuc2lvbicsIDFdKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly9ib290c3RyYXAoQXBwQ29tcG9uZW50KTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucm91dGVyLnVybFRyZWUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gYm9vdHN0cmFwKEFwcENvbXBvbmVudCwgW0FQUF9ST1VURVJfUFJPVklERVJTXSk7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMucm91dGVyLm5hdmlnYXRlKFsncHJpY2luZycsIGRnLmlkXSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8bGk+PGEgW3JvdXRlckxpbmtdPSJbJ0RvbWFpbkV4dGVuc2lvbicsIG51bGxdIj5OZXcgRXh0ZW5zaW9uPC9hPjwvbGk+Cg==</text>
+        <text encoding="base64">Ly9ib290c3RyYXAoQXBwQ29tcG9uZW50KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtBUFBfUk9VVEVSX1BST1ZJREVSU30gZnJvbSAnLi9hcHAucm91dGVzJzsK</text>
+        <text encoding="base64">Ly8gYm9vdHN0cmFwKEFwcENvbXBvbmVudCwgW0FQUF9ST1VURVJfUFJPVklERVJTXSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRlbXBsYXRlOiAnaGVsbG8gd3dvcmxkJwo=</text>
+        <text encoding="base64">ICAgICAgICA8bGk+PGEgW3JvdXRlckxpbmtdPSJbJ0RvbWFpbkV4dGVuc2lvbicsIG51bGxdIj5OZXcgRXh0ZW5zaW9uPC9hPjwvbGk+Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0iY29udGFpbmVyIj4KICA8cm91dGVyLW91dGxldD48L3JvdXRlci1vdXRsZXQ+CjwvZGl2Pg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHtBUFBfUk9VVEVSX1BST1ZJREVSU30gZnJvbSAnLi9hcHAucm91dGVzJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICdAYW5ndWxhci91cGdyYWRlJwo=</text>
+        <text encoding="base64">ICAgIHRlbXBsYXRlOiAnaGVsbG8gd3dvcmxkJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
