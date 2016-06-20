@@ -40,6 +40,9 @@
         <mark key="." line="9" column="11" />
         <mark key="^" line="9" column="11" />
       </file>
+      <file name="/a.dummy" timestamp="1466439791695">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/simpleform.component.html" timestamp="1461496769678">
         <mark key="'" line="2" column="15" />
         <mark key="[" line="13" column="46" />
@@ -755,6 +758,9 @@
         <mark key="]" line="6" column="65" />
         <mark key="." line="6" column="65" />
         <mark key="^" line="6" column="64" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1466240462927">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/mailbox.rb" timestamp="1465996167218">
         <mark key="'" line="36" column="4" />
