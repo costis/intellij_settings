@@ -832,13 +832,13 @@
       <file name="$USER_HOME$/projects/learning/js/concord-domains/node_modules/@angular/core/src/facade/collection.d.ts" timestamp="1466511309804">
         <mark key="'" line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" timestamp="1466516760725">
+      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" timestamp="1466520089587">
         <mark key="'" line="23" column="25" />
-        <mark key="[" line="46" column="35" />
+        <mark key="[" line="45" column="111" />
         <mark key="m" line="22" column="59" />
-        <mark key="]" line="46" column="35" />
-        <mark key="." line="46" column="35" />
-        <mark key="^" line="46" column="35" />
+        <mark key="]" line="47" column="29" />
+        <mark key="." line="47" column="29" />
+        <mark key="^" line="47" column="29" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/test/functional/api_controller_test.rb" timestamp="1463996921939">
         <mark key="'" line="3" column="34" />
@@ -951,11 +951,11 @@
       <jump line="23" column="25" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vY29uc29sZS5sb2codGhpcy5zdWJqZWN0KCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dGhpcy5zdWJqZWN0IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc29sZS5sb2coImhpIik7IA==</text>
+        <text encoding="base64">dGhpcy5zdWJqZWN0IA==</text>
       </register>
       <register name="/" type="4">
         <text>2(</text>
@@ -964,31 +964,31 @@
         <text encoding="base64">ZmFrZUFzeW5jKGluamVjdChbRG9tYWluZ3JvdXBzU2VydmljZSwgTW9ja0JhY2tlbmRdLCAoZGdzLCBiYWNrZW5kOiBNb2NrQmFja2VuZCkgPT4gewogICAgYmFja2VuZC5jb25uZWN0aW9ucy5zdWJzY3JpYmUoCiAgICAgIChjb25uOiBNb2NrQ29ubmVjdGlvbikgPT4gew==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vY29uc29sZS5sb2codGhpcy5zdWJqZWN0KCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdCh0aGlzLikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMpOwo=</text>
+        <text encoding="base64">ICAgIGV4cGVjdCh0aGlzLnN1YmplY3QoKSkudG9CZSh7fSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBsZXQgaHR0cF9jb25uZWN0aW9uID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgIC8vY29uc29sZS5sb2codGhpcy5zdWJqZWN0KCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4cGVjdCh0aGlzLikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCBodHRwX2Nvbm5lY3Rpb24gPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQgaHR0cF9jb25uZWN0aW9uID0gbnVsbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">KGRncywgYmFja2VuZDogTW9ja0JhY2tlbmQpID0+IHsKICAgICAgYmFja2VuZC5jb25uZWN0aW9ucy5zdWJzY3JpYmUoIChjb25uOiBNb2NrQ29ubmVjdGlvbikgPT4geyB9KTsKICAgICAgCgogICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGxldCBodHRwX2Nvbm5lY3Rpb24gPSBudWxsOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
