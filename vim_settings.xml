@@ -299,8 +299,8 @@
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/billing/chargeable_item.rb" timestamp="1464696365759">
         <mark key="'" line="1572" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" timestamp="1466499982946">
-        <mark key="'" line="89" column="0" />
+      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" timestamp="1466501428515">
+        <mark key="'" line="92" column="28" />
         <mark key="[" line="91" column="28" />
         <mark key="]" line="91" column="28" />
         <mark key="^" line="91" column="28" />
@@ -836,7 +836,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="33" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-form.component.ts" />
       <jump line="9" column="2" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-list.component.ts" />
       <jump line="24" column="5" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroup-form.component.ts" />
       <jump line="14" column="24" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-form.component.ts" />
@@ -915,7 +914,6 @@
       <jump line="3" column="2" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
       <jump line="9" column="48" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
       <jump line="36" column="16" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
-      <jump line="3" column="30" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
       <jump line="42" column="22" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
       <jump line="50" column="12" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
       <jump line="52" column="22" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
@@ -936,6 +934,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
       <jump line="69" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/karma.conf.js" />
       <jump line="2" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/karma.conf.js" />
+      <jump line="92" column="28" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
+      <jump line="3" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
