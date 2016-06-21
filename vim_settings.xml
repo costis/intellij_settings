@@ -406,8 +406,12 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/learning/js/concord-domains/karma.conf.js" timestamp="1466498915417">
-        <mark key="'" line="2" column="0" />
+      <file name="$USER_HOME$/projects/learning/js/concord-domains/karma.conf.js" timestamp="1466502028957">
+        <mark key="'" line="82" column="19" />
+        <mark key="[" line="85" column="15" />
+        <mark key="]" line="85" column="19" />
+        <mark key="." line="85" column="19" />
+        <mark key="^" line="85" column="19" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/control_panel_controller.rb" timestamp="1465998367023">
         <mark key="'" line="115" column="0" />
@@ -819,12 +823,12 @@
         <mark key="^" line="11" column="90" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" timestamp="1466498824589">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="17" column="11" />
+      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" timestamp="1466502120509">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="1" column="33" />
         <mark key="m" line="11" column="59" />
-        <mark key="]" line="18" column="34" />
-        <mark key="." line="18" column="34" />
+        <mark key="]" line="1" column="33" />
+        <mark key="." line="1" column="33" />
         <mark key="^" line="18" column="34" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/test/functional/api_controller_test.rb" timestamp="1463996921939">
@@ -836,11 +840,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="2" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-list.component.ts" />
-      <jump line="24" column="5" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroup-form.component.ts" />
-      <jump line="14" column="24" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-form.component.ts" />
-      <jump line="28" column="4" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-form.component.ts" />
-      <jump line="15" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-form.component.ts" />
       <jump line="44" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-form.component.ts" />
       <jump line="16" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-form.component.ts" />
       <jump line="18" column="42" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-form.component.ts" />
@@ -911,7 +910,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/karma.conf.js" />
       <jump line="22" column="4" filename="$USER_HOME$/projects/learning/js/concord-domains/karma.conf.js" />
       <jump line="4" column="40" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
-      <jump line="3" column="2" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
       <jump line="9" column="48" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
       <jump line="36" column="16" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
       <jump line="42" column="22" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
@@ -921,7 +919,6 @@
       <jump line="73" column="26" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
       <jump line="91" column="42" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
       <jump line="80" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
-      <jump line="12" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
       <jump line="87" column="11" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
       <jump line="90" column="2" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
       <jump line="94" column="26" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
@@ -933,16 +930,23 @@
       <jump line="14" column="2" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
       <jump line="69" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/karma.conf.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/karma.conf.js" />
       <jump line="92" column="28" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
       <jump line="3" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
+      <jump line="27" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/karma.conf.js" />
+      <jump line="74" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/karma.conf.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/karma.conf.js" />
+      <jump line="17" column="6" filename="$USER_HOME$/projects/learning/js/concord-domains/karma.conf.js" />
+      <jump line="82" column="19" filename="$USER_HOME$/projects/learning/js/concord-domains/karma.conf.js" />
+      <jump line="17" column="5" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
+      <jump line="3" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
+      <jump line="12" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://admin-dev.clarahost.co.uk:3005</text>
+        <text encoding="base64">ZmFrZUFzeW5jLCA=</text>
       </register>
       <register name="-" type="4">
-        <text>http://admin-dev.clarahost.co.uk:3005</text>
+        <text encoding="base64">ZmFrZUFzeW5jLCA=</text>
       </register>
       <register name="/" type="4">
         <text>capture</text>
