@@ -40,9 +40,6 @@
         <mark key="." line="9" column="11" />
         <mark key="^" line="9" column="11" />
       </file>
-      <file name="/a.dummy" timestamp="1466439791695">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/simpleform.component.html" timestamp="1461496769678">
         <mark key="'" line="2" column="15" />
         <mark key="[" line="13" column="46" />
@@ -152,6 +149,9 @@
         <mark key="." line="16" column="20" />
         <mark key="^" line="16" column="20" />
       </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/test/controller/routing_test.rb" timestamp="1466595995872">
+        <mark key="'" line="361" column="121" />
+      </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/control_panel/mail_controller.rb" timestamp="1466006150229">
         <mark key="'" line="128" column="2" />
         <mark key="[" line="5" column="1" />
@@ -187,6 +187,12 @@
         <mark key="." line="27" column="49" />
         <mark key="^" line="27" column="49" />
       </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/api/domain_groups_controller.rb" timestamp="1466598848683">
+        <mark key="'" line="13" column="4" />
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="14" />
+        <mark key="." line="1" column="14" />
+      </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/railties/lib/test_help.rb" timestamp="1463089190808">
         <mark key="'" line="15" column="32" />
         <mark key="[" line="0" column="31" />
@@ -194,13 +200,12 @@
         <mark key="^" line="0" column="41" />
         <mark key="." line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" timestamp="1466594440804">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="557" column="4" />
-        <mark key="m" line="556" column="21" />
-        <mark key="]" line="557" column="4" />
-        <mark key="^" line="556" column="92" />
-        <mark key="." line="557" column="4" />
+      <file name="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" timestamp="1466598793598">
+        <mark key="'" line="9" column="2" />
+        <mark key="[" line="564" column="22" />
+        <mark key="]" line="564" column="23" />
+        <mark key="^" line="564" column="23" />
+        <mark key="." line="564" column="23" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/star.component.ts" timestamp="1461443601932">
         <mark key="'" line="30" column="0" />
@@ -336,12 +341,12 @@
         <mark key="^" line="377" column="34" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/api.endpoints.ts" timestamp="1466593272153">
+      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/api.endpoints.ts" timestamp="1466598963912">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="3" column="43" />
-        <mark key="]" line="3" column="53" />
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="3" column="27" />
         <mark key="^" line="3" column="53" />
-        <mark key="." line="3" column="53" />
+        <mark key="." line="3" column="27" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/base.rb" timestamp="1463405861739">
         <mark key="'" line="863" column="0" />
@@ -363,6 +368,9 @@
         <mark key="]" line="37" column="55" />
         <mark key="." line="37" column="55" />
         <mark key="^" line="37" column="55" />
+      </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/routing.rb" timestamp="1466595835514">
+        <mark key="'" line="1091" column="12" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/helpers/password_helper.rb" timestamp="1462977736325">
         <mark key="'" line="10" column="25" />
@@ -528,6 +536,10 @@
         <mark key="]" line="14" column="16" />
         <mark key="^" line="14" column="16" />
         <mark key="." line="14" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/config/routes.new.rb" timestamp="1466598700095">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="4" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/directive-kata/index.html" timestamp="1462612748084">
         <mark key="'" line="28" column="6" />
@@ -723,6 +735,9 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="8" column="32" />
       </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb.orig" timestamp="1466596357550">
+        <mark key="'" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/learning/js/directive-kata/app/main.component.ts" timestamp="1462293115954">
         <mark key="'" line="6" column="59" />
         <mark key="[" line="6" column="82" />
@@ -779,15 +794,15 @@
         <mark key="." line="6" column="65" />
         <mark key="^" line="6" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1466240462927">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/mailbox.rb" timestamp="1465996167218">
         <mark key="'" line="36" column="4" />
         <mark key="[" line="47" column="16" />
         <mark key="]" line="47" column="23" />
         <mark key="." line="47" column="23" />
         <mark key="^" line="47" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/test/controller/resources_test.rb" timestamp="1466596114023">
+        <mark key="'" line="284" column="4" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1466498545421">
         <mark key="[" line="6" column="12" />
@@ -807,6 +822,13 @@
         <mark key="]" line="7" column="61" />
         <mark key="." line="7" column="61" />
         <mark key="^" line="7" column="64" />
+      </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/api/domain_group_extensions_controller.rb" timestamp="1466599838297">
+        <mark key="'" line="10" column="10" />
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="16" column="21" />
+        <mark key="." line="16" column="21" />
+        <mark key="^" line="16" column="21" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/views/layouts/control_panel.rhtml" timestamp="1466007204739">
         <mark key="'" line="5" column="0" />
@@ -862,51 +884,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="34" filename="$USER_HOME$/projects/learning/js/concord-domains/karma.conf.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/karma.conf.js" />
-      <jump line="22" column="4" filename="$USER_HOME$/projects/learning/js/concord-domains/karma.conf.js" />
-      <jump line="4" column="40" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
-      <jump line="42" column="22" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
-      <jump line="50" column="12" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
-      <jump line="52" column="22" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
-      <jump line="62" column="22" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
-      <jump line="73" column="26" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
-      <jump line="80" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
-      <jump line="87" column="11" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
-      <jump line="90" column="2" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
-      <jump line="94" column="26" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
-      <jump line="88" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
-      <jump line="7" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
-      <jump line="14" column="2" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
-      <jump line="69" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/karma.conf.js" />
-      <jump line="92" column="28" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
-      <jump line="27" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/karma.conf.js" />
-      <jump line="74" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/karma.conf.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/karma.conf.js" />
-      <jump line="17" column="6" filename="$USER_HOME$/projects/learning/js/concord-domains/karma.conf.js" />
-      <jump line="82" column="19" filename="$USER_HOME$/projects/learning/js/concord-domains/karma.conf.js" />
-      <jump line="17" column="5" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
-      <jump line="4" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
-      <jump line="5" column="41" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
-      <jump line="11" column="27" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
-      <jump line="20" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
-      <jump line="290" column="24" filename="$USER_HOME$/projects/learning/js/concord-domains/node_modules/@angular/core/src/di/provider.d.ts" />
-      <jump line="163" column="8" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
-      <jump line="12" column="7" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
-      <jump line="15" column="27" filename="$USER_HOME$/projects/learning/js/concord-domains/node_modules/@angular/core/index.d.ts" />
-      <jump line="10" column="20" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
-      <jump line="21" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
-      <jump line="29" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
-      <jump line="98" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/node_modules/@angular/core/src/facade/collection.d.ts" />
-      <jump line="18" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
-      <jump line="8" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/karma.conf.js" />
-      <jump line="67" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/karma.conf.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/karma.conf.js" />
-      <jump line="38" column="6" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
-      <jump line="39" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
-      <jump line="19" column="26" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
-      <jump line="37" column="31" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
-      <jump line="24" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
       <jump line="3" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
       <jump line="22" column="11" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
       <jump line="31" column="22" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
@@ -962,55 +939,100 @@
       <jump line="557" column="21" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
       <jump line="8" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
       <jump line="27" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
+      <jump line="0" column="28" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
+      <jump line="1486" column="19" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/routing.rb" />
+      <jump line="1211" column="12" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/routing.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/routing.rb" />
+      <jump line="1080" column="20" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/routing.rb" />
+      <jump line="1076" column="29" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/routing.rb" />
+      <jump line="1091" column="12" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/routing.rb" />
+      <jump line="3" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/test/controller/routing_test.rb" />
+      <jump line="2052" column="2" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/test/controller/routing_test.rb" />
+      <jump line="229" column="52" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/test/controller/routing_test.rb" />
+      <jump line="265" column="6" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/test/controller/routing_test.rb" />
+      <jump line="287" column="37" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/test/controller/routing_test.rb" />
+      <jump line="303" column="26" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/test/controller/routing_test.rb" />
+      <jump line="915" column="25" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/test/controller/routing_test.rb" />
+      <jump line="941" column="6" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/test/controller/routing_test.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/test/controller/routing_test.rb" />
+      <jump line="333" column="4" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/test/controller/routing_test.rb" />
+      <jump line="334" column="49" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/test/controller/routing_test.rb" />
+      <jump line="335" column="17" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/test/controller/routing_test.rb" />
+      <jump line="340" column="21" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/test/controller/routing_test.rb" />
+      <jump line="345" column="17" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/test/controller/routing_test.rb" />
+      <jump line="357" column="4" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/test/controller/routing_test.rb" />
+      <jump line="359" column="45" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/test/controller/routing_test.rb" />
+      <jump line="360" column="116" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/test/controller/routing_test.rb" />
+      <jump line="361" column="121" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/test/controller/routing_test.rb" />
+      <jump line="330" column="10" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/test/controller/resources_test.rb" />
+      <jump line="781" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/test/controller/resources_test.rb" />
+      <jump line="3" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/test/controller/resources_test.rb" />
+      <jump line="284" column="4" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/test/controller/resources_test.rb" />
+      <jump line="3" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb.orig" />
+      <jump line="16" column="33" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
+      <jump line="17" column="65" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
+      <jump line="18" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
+      <jump line="3" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
+      <jump line="22" column="6" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
+      <jump line="23" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
+      <jump line="25" column="25" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
+      <jump line="4" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
+      <jump line="29" column="42" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
+      <jump line="9" column="2" filename="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb" />
+      <jump line="13" column="4" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/api/domain_groups_controller.rb" />
+      <jump line="1" column="6" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/api/domain_group_extensions_controller.rb" />
+      <jump line="4" column="12" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/api/domain_group_extensions_controller.rb" />
+      <jump line="14" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/api/domain_group_extensions_controller.rb" />
+      <jump line="13" column="10" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/api/domain_group_extensions_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>.map { |m| m.to_json()};</text>
       </register>
       <register name="/" type="4">
-        <text>member</text>
+        <text>ps</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IDpjb250cm9sbGVyID0+ICJBcGk6OkRvbWFpbkV4dGVuc2lvbkdyb3VwcyIsIDpwYXRoX3ByZWZpeCA9PiAnL2FwaS92MScsIDpwcmVmaXggPT4gImFwaV92MSI=</text>
+        <text>@domain_group.domain_extension_group_members</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgIGxldCBoZWFkZXJzID0gbmV3IEhlYWRlcnMoeyAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nIH0pOwogICAgbGV0IG9wdGlvbnMgPSBuZXcgUmVxdWVzdE9wdGlvbnMoeyBoZWFkZXJzOiBoZWFkZXJzIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgIyBtZW1iZXJzID0gQGRvbWFpbl9ncm91cC5kb21haW5fZXh0ZW5zaW9uX2dyb3VwX21lbWJlcnMKICAgICAgIyAgcmVuZGVyIDp0ZXh0ID0+IG1lbWJlcnMuc2l6ZSAgYW5kIHJldHVybgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgQGdyb3VwX2lkID0gcGFyYW1zWzpkb21haW5fZ3JvdXBfaWRdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmRvbWFpbkdyb3Vwcy5maW5kKGdyb3VwID0+IGdyb3VwLmlkID09PSBpZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBnZXREb21haW5Hcm91cChpZDogbnVtYmVyKXsKICAgIHJldHVybiB0aGlzLmRvbWFpbkdyb3Vwcy5maW5kKGdyb3VwID0+IGdyb3VwLmlkID09PSBpZCk7CiAgfQo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBtYXAucmVzb3VyY2VzIDpkb21haW5fZ3JvdXBzLAogICAgICAgICAgICAgICAgOm9ubHkgPT4gWzppbmRleCwgOnNob3ddLAogICAgICAgICAgICAgICAgOmNvbnRyb2xsZXIgPT4gIkFwaTo6RG9tYWluRXh0ZW5zaW9uR3JvdXBzIiwKICAgICAgICAgICAgICAgIDpwYXRoX3ByZWZpeCA9PiAnL2FwaS92MScsCiAgICAgICAgICAgICAgICA6cHJlZml4ID0+ICJhcGlfdjEiCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJ0aGUgZ3JvdXBpcyAiLCBkZyk7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CmVuZA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJ0aGlzLmdyb3VwcyIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>member</last-search>
+      <last-search>ps</last-search>
       <last-offset />
-      <last-pattern>member</last-pattern>
+      <last-pattern>ps</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sub</last-substitute>
       <last-dir>1</last-dir>
@@ -1018,17 +1040,6 @@
     </search>
     <history>
       <history-search>
-        <entry>inject</entry>
-        <entry>capture</entry>
-        <entry>3</entry>
-        <entry>provid</entry>
-        <entry>tick</entry>
-        <entry encoding="base64">LCA=</entry>
-        <entry>2(</entry>
-        <entry>DomainGroup</entry>
-        <entry>Domain</entry>
-        <entry>Inject</entry>
-        <entry>private</entry>
         <entry>constructor</entry>
         <entry>url2</entry>
         <entry>construct</entry>
@@ -1036,8 +1047,19 @@
         <entry>getDomainGroups</entry>
         <entry>map</entry>
         <entry>title</entry>
-        <entry>only</entry>
         <entry>member</entry>
+        <entry>routing</entry>
+        <entry>resources</entry>
+        <entry>only</entry>
+        <entry>except</entry>
+        <entry>with_routing</entry>
+        <entry>connect</entry>
+        <entry>edit</entry>
+        <entry>,</entry>
+        <entry>s,</entry>
+        <entry>update</entry>
+        <entry>domain_groups</entry>
+        <entry>ps</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
