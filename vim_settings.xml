@@ -167,12 +167,12 @@
         <mark key="." line="13" column="83" />
         <mark key="^" line="13" column="83" />
       </file>
-      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-form.component.html" timestamp="1462811993447">
+      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-form.component.html" timestamp="1466627899341">
         <mark key="'" line="103" column="0" />
-        <mark key="[" line="2" column="29" />
-        <mark key="]" line="2" column="45" />
-        <mark key="." line="2" column="45" />
-        <mark key="^" line="2" column="45" />
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="5" column="46" />
+        <mark key="." line="5" column="46" />
+        <mark key="^" line="5" column="46" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/public/javascripts/application.js" timestamp="1461232012970">
         <mark key="'" line="212" column="9" />
@@ -301,13 +301,13 @@
       <file name="$USER_HOME$/projects/learning/js/concord-domains/node_modules/@angular/core/src/di/provider.d.ts" timestamp="1466502914498">
         <mark key="'" line="290" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" timestamp="1466611075344">
-        <mark key="'" line="134" column="0" />
-        <mark key="[" line="118" column="0" />
+      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" timestamp="1466626336104">
+        <mark key="'" line="135" column="0" />
+        <mark key="[" line="111" column="3" />
         <mark key="m" line="101" column="67" />
-        <mark key="]" line="118" column="0" />
-        <mark key="^" line="115" column="57" />
-        <mark key="." line="118" column="0" />
+        <mark key="]" line="112" column="1" />
+        <mark key="^" line="112" column="1" />
+        <mark key="." line="112" column="1" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/http_authenticated_controller_test.rb" timestamp="1464006378473">
         <mark key="'" line="54" column="2" />
@@ -717,12 +717,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-form.component.ts" timestamp="1466610772928">
-        <mark key="'" line="27" column="18" />
-        <mark key="[" line="27" column="28" />
-        <mark key="]" line="27" column="37" />
-        <mark key="." line="27" column="37" />
-        <mark key="^" line="27" column="37" />
+      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-form.component.ts" timestamp="1466627942291">
+        <mark key="'" line="33" column="39" />
+        <mark key="[" line="29" column="77" />
+        <mark key="]" line="29" column="105" />
+        <mark key="." line="29" column="105" />
+        <mark key="^" line="29" column="105" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb.orig" timestamp="1466596357550">
         <mark key="'" line="3" column="0" />
@@ -862,7 +862,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1076" column="29" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/routing.rb" />
       <jump line="1091" column="12" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/routing.rb" />
       <jump line="3" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/test/controller/routing_test.rb" />
       <jump line="2052" column="2" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/test/controller/routing_test.rb" />
@@ -962,22 +961,23 @@
       <jump line="17" column="53" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-list.component.ts" />
       <jump line="27" column="18" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-form.component.ts" />
       <jump line="6" column="1" filename="$USER_HOME$/projects/learning/js/concord-domains/app/api.endpoints.ts" />
+      <jump line="45" column="39" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-form.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBuZXcgRG9tYWluRXgK</text>
       </register>
       <register name="-" type="4">
-        <text>@domain_group.domain_extension_group_members</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>group_id</text>
+        <text>t</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgcmVzcG9uZF90byBkbyB8Zm9ybWF0fAogICAgICAgIGZvcm1hdC5qc29uIGRvCiAgICAgICAgICBkYXRhID0gQGRvbWFpbl9ncm91cC5kb21haW5fZXh0ZW5zaW9uX2dyb3VwX21lbWJlcnMKICAgICAgICAgIHJlbmRlciA6anNvbiA9PiB7OmRhdGEgPT4gZGF0YSB9CiAgICAgICAgZW5kCiAgICAgIGVuZA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBuZXcgRG9tYWluRXgK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -986,10 +986,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgIC8vIHJldHVybiB0aGlzLl9leHRlbnNpb25zLmZpbmQoKGV4dCk9PiB7CiAgICAvLyAgIHJldHVybiAoZXh0LmlkID09PSBleHRfaWQpID8gdHJ1ZSA6IGZhbHNlOwogICAgLy8gfSk7</text>
+        <text encoding="base64">ICAgIHRoaXMuZm9ybSA9IG5ldyBDb250cm9sR3JvdXAoewogICAgICAnZXh0ZW5zaW9uJzogbmV3IENvbnRyb2wodGhpcy5fY3VycmVudEV4dGVuc2lvbi5leHRlbnNpb24sIFZhbGlkYXRvcnMucmVxdWlyZWQpLAogICAgICAncmVnaXN0cmFyJzogbmV3IENvbnRyb2wodGhpcy5fY3VycmVudEV4dGVuc2lvbi5yZWdpc3RyYXJfaWQsIFZhbGlkYXRvcnMucmVxdWlyZWQpLAogICAgICAnY3VzdG9tZXJfY2FuX3JlZ2lzdGVyJzogbmV3IENvbnRyb2wodGhpcy5fY3VycmVudEV4dGVuc2lvbi5jdXN0b21lcl9jYW5fcmVnaXN0ZXIpLAogICAgICAnY3VzdG9tZXJfY2FuX3RyYW5zZmVyJzogbmV3IENvbnRyb2wodGhpcy5fY3VycmVudEV4dGVuc2lvbi5jdXN0b21lcl9jYW5fdHJhbnNmZXIpLAogICAgICAnZXhvdGljX2RvbWFpbicgOiBuZXcgQ29udHJvbCh0aGlzLl9jdXJyZW50RXh0ZW5zaW9uLmV4b3RpY19kb21haW4pLAogICAgICAnY2FuX3JlZ2lzdGVyX2ludGVybmF0aW9uYWwnOiBuZXcgQ29udHJvbCh0aGlzLl9jdXJyZW50RXh0ZW5zaW9uLmNhbl9yZWdpc3Rlcl9pbnRlcm5hdGlvbmFsKQogICAgfSk7CgogICAgdGhpcy5mb3JtLnZhbHVlQ2hhbmdlcy5zdWJzY3JpYmUoZGF0YSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKCJmb3JtIGNoYWduZXMiLCBkYXRhKQogICAgfSk7</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZXh0ZW5zaW9uX2lkID0gcGFyYW1zWzppZF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -997,28 +997,27 @@
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmVuZGVyIDp0ZXh0ID0+IEBkb21haW5fZ3JvdXAuaWQK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIC8vIHJldHVybiB0aGlzLl9leHRlbnNpb25zLmZpbmQoKGV4dCk9PiB7CiAgICAvLyAgIHJldHVybiAoZXh0LmlkID09PSBleHRfaWQpID8gdHJ1ZSA6IGZhbHNlOwogICAgLy8gfSk7</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgZXh0ZW5zaW9uX2lkID0gcGFyYW1zWzppZF0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>group_id</last-search>
+      <last-search>t</last-search>
       <last-offset />
-      <last-pattern>group_id</last-pattern>
+      <last-pattern>t</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sub</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>with_routing</entry>
         <entry>connect</entry>
         <entry>edit</entry>
         <entry>,</entry>
@@ -1038,6 +1037,7 @@
         <entry>this</entry>
         <entry>group</entry>
         <entry>group_id</entry>
+        <entry>t</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
