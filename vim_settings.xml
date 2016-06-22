@@ -312,13 +312,13 @@
       <file name="$USER_HOME$/projects/learning/js/concord-domains/node_modules/@angular/core/src/di/provider.d.ts" timestamp="1466502914498">
         <mark key="'" line="290" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" timestamp="1466593483087">
-        <mark key="'" line="96" column="27" />
-        <mark key="[" line="102" column="34" />
-        <mark key="m" line="37" column="8" />
-        <mark key="]" line="102" column="57" />
-        <mark key="^" line="102" column="57" />
-        <mark key="." line="102" column="57" />
+      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" timestamp="1466603004274">
+        <mark key="'" line="96" column="55" />
+        <mark key="[" line="101" column="70" />
+        <mark key="m" line="101" column="54" />
+        <mark key="]" line="101" column="70" />
+        <mark key="^" line="101" column="70" />
+        <mark key="." line="101" column="70" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/http_authenticated_controller_test.rb" timestamp="1464006378473">
         <mark key="'" line="54" column="2" />
@@ -341,12 +341,12 @@
         <mark key="^" line="377" column="34" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/api.endpoints.ts" timestamp="1466598963912">
+      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/api.endpoints.ts" timestamp="1466603518738">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="3" column="27" />
-        <mark key="]" line="3" column="27" />
-        <mark key="^" line="3" column="53" />
-        <mark key="." line="3" column="27" />
+        <mark key="[" line="3" column="32" />
+        <mark key="]" line="3" column="32" />
+        <mark key="^" line="3" column="32" />
+        <mark key="." line="3" column="32" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/base.rb" timestamp="1463405861739">
         <mark key="'" line="863" column="0" />
@@ -440,12 +440,11 @@
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/control_panel_controller.rb" timestamp="1465998367023">
         <mark key="'" line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-list.component.html" timestamp="1462877205258">
-        <mark key="'" line="20" column="36" />
-        <mark key="[" line="25" column="37" />
-        <mark key="]" line="25" column="47" />
-        <mark key="." line="25" column="47" />
-        <mark key="^" line="25" column="47" />
+      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-list.component.html" timestamp="1466604270027">
+        <mark key="'" line="2" column="21" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/signup.component.ts" timestamp="1461577138345">
         <mark key="'" line="16" column="0" />
@@ -592,12 +591,12 @@
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/control_panel/mail/addresses_controller.rb" timestamp="1466007107678">
         <mark key="'" line="52" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-list.component.ts" timestamp="1466592405442">
-        <mark key="'" line="15" column="13" />
-        <mark key="[" line="19" column="46" />
-        <mark key="]" line="20" column="5" />
-        <mark key="^" line="20" column="5" />
-        <mark key="." line="20" column="5" />
+      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-list.component.ts" timestamp="1466604153562">
+        <mark key="'" line="22" column="10" />
+        <mark key="[" line="22" column="24" />
+        <mark key="]" line="22" column="24" />
+        <mark key="^" line="22" column="24" />
+        <mark key="." line="22" column="24" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/changepassword.component.html" timestamp="1461581701690">
         <mark key="'" line="25" column="0" />
@@ -884,15 +883,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
-      <jump line="22" column="11" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
-      <jump line="31" column="22" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
-      <jump line="32" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
-      <jump line="84" column="17" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
-      <jump line="2" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
-      <jump line="51" column="4" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
-      <jump line="0" column="29" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
-      <jump line="152" column="8" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
       <jump line="50" column="11" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
       <jump line="30" column="17" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
@@ -921,7 +911,6 @@
       <jump line="104" column="2" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
       <jump line="58" column="7" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
-      <jump line="11" column="9" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
       <jump line="4" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/api.endpoints.ts" />
       <jump line="37" column="37" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
       <jump line="10" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
@@ -984,43 +973,53 @@
       <jump line="4" column="12" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/api/domain_group_extensions_controller.rb" />
       <jump line="14" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/api/domain_group_extensions_controller.rb" />
       <jump line="13" column="10" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/api/domain_group_extensions_controller.rb" />
+      <jump line="100" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
+      <jump line="101" column="54" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
+      <jump line="11" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
+      <jump line="96" column="55" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
+      <jump line="82" column="33" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
+      <jump line="24" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-list.component.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-list.component.html" />
+      <jump line="2" column="21" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-list.component.html" />
+      <jump line="29" column="13" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-list.component.ts" />
+      <jump line="23" column="10" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-list.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB3dGY/Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.map { |m| m.to_json()};</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>ps</text>
+        <text>title</text>
       </register>
       <register name="0" type="4">
         <text>@domain_group.domain_extension_group_members</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB3dGY/Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgICAgIyBtZW1iZXJzID0gQGRvbWFpbl9ncm91cC5kb21haW5fZXh0ZW5zaW9uX2dyb3VwX21lbWJlcnMKICAgICAgIyAgcmVuZGVyIDp0ZXh0ID0+IG1lbWJlcnMuc2l6ZSAgYW5kIHJldHVybgo=</text>
+        <text encoding="base64">ID0+IHsKICAgICAgICAgIHRoYXQ=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgQGdyb3VwX2lkID0gcGFyYW1zWzpkb21haW5fZ3JvdXBfaWRdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gdGhpcy5fZXh0ZW5zaW9ucyA9IHRoaXMuX2Rncy5nZXRFeHRlbnNpb25zRm9yR3JvdXAodGhpcy5ncm91cC5pZCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBtYXAucmVzb3VyY2VzIDpkb21haW5fZ3JvdXBzLAogICAgICAgICAgICAgICAgOm9ubHkgPT4gWzppbmRleCwgOnNob3ddLAogICAgICAgICAgICAgICAgOmNvbnRyb2xsZXIgPT4gIkFwaTo6RG9tYWluRXh0ZW5zaW9uR3JvdXBzIiwKICAgICAgICAgICAgICAgIDpwYXRoX3ByZWZpeCA9PiAnL2FwaS92MScsCiAgICAgICAgICAgICAgICA6cHJlZml4ID0+ICJhcGlfdjEiCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CmVuZA==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgIyBtZW1iZXJzID0gQGRvbWFpbl9ncm91cC5kb21haW5fZXh0ZW5zaW9uX2dyb3VwX21lbWJlcnMKICAgICAgIyAgcmVuZGVyIDp0ZXh0ID0+IG1lbWJlcnMuc2l6ZSAgYW5kIHJldHVybgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgQGdyb3VwX2lkID0gcGFyYW1zWzpkb21haW5fZ3JvdXBfaWRdCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1030,9 +1029,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ps</last-search>
+      <last-search>title</last-search>
       <last-offset />
-      <last-pattern>ps</last-pattern>
+      <last-pattern>title</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sub</last-substitute>
       <last-dir>1</last-dir>
@@ -1046,7 +1045,6 @@
         <entry>get</entry>
         <entry>getDomainGroups</entry>
         <entry>map</entry>
-        <entry>title</entry>
         <entry>member</entry>
         <entry>routing</entry>
         <entry>resources</entry>
@@ -1060,6 +1058,7 @@
         <entry>update</entry>
         <entry>domain_groups</entry>
         <entry>ps</entry>
+        <entry>title</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
