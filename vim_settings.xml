@@ -40,7 +40,7 @@
         <mark key="." line="9" column="11" />
         <mark key="^" line="9" column="11" />
       </file>
-      <file name="/a.dummy" timestamp="1466721274946">
+      <file name="/a.dummy" timestamp="1466723715183">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/simpleform.component.html" timestamp="1461496769678">
@@ -161,6 +161,12 @@
         <mark key="]" line="516" column="0" />
         <mark key="^" line="516" column="0" />
         <mark key="." line="516" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/config/initializers/json_params_parser.rb" timestamp="1466724064123">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="27" />
+        <mark key="^" line="1" column="27" />
+        <mark key="." line="1" column="27" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroup-list.component.html" timestamp="1466591049613">
         <mark key="'" line="20" column="18" />
@@ -326,6 +332,7 @@
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/billing/chargeable_item.rb" timestamp="1464696365759">
         <mark key="'" line="1572" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/CHANGELOG" timestamp="1466723967662" />
       <file name="$USER_HOME$/projects/learning/js/concord-domains/node_modules/@angular/core/src/di/provider.d.ts" timestamp="1466502914498">
         <mark key="'" line="290" column="24" />
       </file>
@@ -472,6 +479,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/mime_types.rb" timestamp="1466723372540" />
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/signup.component.ts" timestamp="1461577138345">
         <mark key="'" line="16" column="0" />
         <mark key="[" line="12" column="81" />
@@ -596,7 +604,7 @@
         <mark key="^" line="68" column="9" />
         <mark key="." line="68" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/base.rb" timestamp="1466721273929">
+      <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/base.rb" timestamp="1466723839479">
         <mark key="'" line="875" column="40" />
         <mark key="[" line="334" column="1" />
         <mark key="]" line="334" column="2" />
@@ -1027,10 +1035,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>`</text>
+        <text>node.root</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>node.root</text>
       </register>
       <register name="/" type="4">
         <text>values</text>
@@ -1039,31 +1047,31 @@
         <text encoding="base64">aW1wb3J0ICdyeGpzL2FkZC9vcGVyYXRvci9tYXAnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBub2RlID0gUkVYTUw6OkRvY3VtZW50Lm5ldyhwb3N0KQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxldCBwYXlsb2FkID0gOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGxldCBwYXlsb2FkID0gOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJzYXZpbmcgZXh0IiwgdGhpcy5fY3VycmVudEV4dGVuc2lvbik7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJzYXZpbmcgZXh0IiwgdGhpcy5fY3VycmVudEV4dGVuc2lvbik7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgLy8gLm1hcCgocmVzOiBSZXNwb25zZSkgPT4gewogICAgICAvLyAgIGlmIChyZXMub2spIHsKICAgICAgLy8gICAgIHJldHVybiB0cnVlOwogICAgICAvLyAgIH0gZWxzZSB7CiAgICAgIC8vICAgICByZXR1cm4gT2JzZXJ2YWJsZS50aHJvdyhuZXcgRXJyb3IoJ0hlbGxvJykpOwogICAgICAvLyAgIH0KICAgICAgLy8gfSk7CiAgICAgIC8vIC5kbyggc29tZXRoaW5nID0+IGNvbnNvbGUubG9nKCJzb210aGluZyBpcyAiLCBzb21ldGhpbmcpKTs=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
