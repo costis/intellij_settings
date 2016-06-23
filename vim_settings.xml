@@ -717,12 +717,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-form.component.ts" timestamp="1466627942291">
-        <mark key="'" line="33" column="39" />
-        <mark key="[" line="29" column="77" />
-        <mark key="]" line="29" column="105" />
-        <mark key="." line="29" column="105" />
-        <mark key="^" line="29" column="105" />
+      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-form.component.ts" timestamp="1466679838053">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="43" column="78" />
+        <mark key="]" line="43" column="78" />
+        <mark key="." line="43" column="78" />
+        <mark key="^" line="46" column="16" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/config/routes.rb.orig" timestamp="1466596357550">
         <mark key="'" line="3" column="0" />
@@ -802,6 +802,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/learning/js/concord-domains/tslint.json" timestamp="1466679688035">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="61" column="6" />
+        <mark key="]" line="61" column="10" />
+        <mark key="." line="61" column="10" />
+        <mark key="^" line="61" column="10" />
+      </file>
       <file name="$USER_HOME$/projects/learning/js/ag2-unit-testing/src/1st.spec.ts" timestamp="1461945730636">
         <mark key="'" line="7" column="40" />
         <mark key="[" line="7" column="61" />
@@ -862,14 +869,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1091" column="12" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/routing.rb" />
-      <jump line="3" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/test/controller/routing_test.rb" />
-      <jump line="2052" column="2" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/test/controller/routing_test.rb" />
-      <jump line="229" column="52" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/test/controller/routing_test.rb" />
-      <jump line="265" column="6" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/test/controller/routing_test.rb" />
-      <jump line="287" column="37" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/test/controller/routing_test.rb" />
-      <jump line="303" column="26" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/test/controller/routing_test.rb" />
-      <jump line="915" column="25" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/test/controller/routing_test.rb" />
       <jump line="941" column="6" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/test/controller/routing_test.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/test/controller/routing_test.rb" />
       <jump line="333" column="4" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/test/controller/routing_test.rb" />
@@ -961,35 +960,43 @@
       <jump line="17" column="53" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-list.component.ts" />
       <jump line="27" column="18" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-form.component.ts" />
       <jump line="6" column="1" filename="$USER_HOME$/projects/learning/js/concord-domains/app/api.endpoints.ts" />
-      <jump line="45" column="39" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-form.component.ts" />
+      <jump line="21" column="12" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-form.component.ts" />
+      <jump line="3" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/tslint.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/tslint.json" />
+      <jump line="46" column="20" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-form.component.ts" />
+      <jump line="47" column="6" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-form.component.ts" />
+      <jump line="5" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-form.component.ts" />
+      <jump line="45" column="7" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-form.component.ts" />
+      <jump line="52" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-form.component.ts" />
+      <jump line="42" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-form.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBuZXcgRG9tYWluRXgK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>t</text>
+        <text>quote</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgcmVzcG9uZF90byBkbyB8Zm9ybWF0fAogICAgICAgIGZvcm1hdC5qc29uIGRvCiAgICAgICAgICBkYXRhID0gQGRvbWFpbl9ncm91cC5kb21haW5fZXh0ZW5zaW9uX2dyb3VwX21lbWJlcnMKICAgICAgICAgIHJlbmRlciA6anNvbiA9PiB7OmRhdGEgPT4gZGF0YSB9CiAgICAgICAgZW5kCiAgICAgIGVuZA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBuZXcgRG9tYWluRXgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5mb3JtID0gbmV3IENvbnRyb2xHcm91cCgpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIHRoaXMuZm9ybSA9IG5ldyBDb250cm9sR3JvdXAoewogICAgICAnZXh0ZW5zaW9uJzogbmV3IENvbnRyb2wodGhpcy5fY3VycmVudEV4dGVuc2lvbi5leHRlbnNpb24sIFZhbGlkYXRvcnMucmVxdWlyZWQpLAogICAgICAncmVnaXN0cmFyJzogbmV3IENvbnRyb2wodGhpcy5fY3VycmVudEV4dGVuc2lvbi5yZWdpc3RyYXJfaWQsIFZhbGlkYXRvcnMucmVxdWlyZWQpLAogICAgICAnY3VzdG9tZXJfY2FuX3JlZ2lzdGVyJzogbmV3IENvbnRyb2wodGhpcy5fY3VycmVudEV4dGVuc2lvbi5jdXN0b21lcl9jYW5fcmVnaXN0ZXIpLAogICAgICAnY3VzdG9tZXJfY2FuX3RyYW5zZmVyJzogbmV3IENvbnRyb2wodGhpcy5fY3VycmVudEV4dGVuc2lvbi5jdXN0b21lcl9jYW5fdHJhbnNmZXIpLAogICAgICAnZXhvdGljX2RvbWFpbicgOiBuZXcgQ29udHJvbCh0aGlzLl9jdXJyZW50RXh0ZW5zaW9uLmV4b3RpY19kb21haW4pLAogICAgICAnY2FuX3JlZ2lzdGVyX2ludGVybmF0aW9uYWwnOiBuZXcgQ29udHJvbCh0aGlzLl9jdXJyZW50RXh0ZW5zaW9uLmNhbl9yZWdpc3Rlcl9pbnRlcm5hdGlvbmFsKQogICAgfSk7CgogICAgdGhpcy5mb3JtLnZhbHVlQ2hhbmdlcy5zdWJzY3JpYmUoZGF0YSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKCJmb3JtIGNoYWduZXMiLCBkYXRhKQogICAgfSk7</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIG5ldyAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBuZXcgRG9tYWluRXgK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -998,30 +1005,26 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgIC8vIHJldHVybiB0aGlzLl9leHRlbnNpb25zLmZpbmQoKGV4dCk9PiB7CiAgICAvLyAgIHJldHVybiAoZXh0LmlkID09PSBleHRfaWQpID8gdHJ1ZSA6IGZhbHNlOwogICAgLy8gfSk7</text>
+        <text encoding="base64">ICAgIHRoaXMuZm9ybSA9IG5ldyBDb250cm9sR3JvdXAoewogICAgICAnZXh0ZW5zaW9uJzogbmV3IENvbnRyb2wodGhpcy5fY3VycmVudEV4dGVuc2lvbi5leHRlbnNpb24sIFZhbGlkYXRvcnMucmVxdWlyZWQpLAogICAgICAncmVnaXN0cmFyJzogbmV3IENvbnRyb2wodGhpcy5fY3VycmVudEV4dGVuc2lvbi5yZWdpc3RyYXJfaWQsIFZhbGlkYXRvcnMucmVxdWlyZWQpLAogICAgICAnY3VzdG9tZXJfY2FuX3JlZ2lzdGVyJzogbmV3IENvbnRyb2wodGhpcy5fY3VycmVudEV4dGVuc2lvbi5jdXN0b21lcl9jYW5fcmVnaXN0ZXIpLAogICAgICAnY3VzdG9tZXJfY2FuX3RyYW5zZmVyJzogbmV3IENvbnRyb2wodGhpcy5fY3VycmVudEV4dGVuc2lvbi5jdXN0b21lcl9jYW5fdHJhbnNmZXIpLAogICAgICAnZXhvdGljX2RvbWFpbicgOiBuZXcgQ29udHJvbCh0aGlzLl9jdXJyZW50RXh0ZW5zaW9uLmV4b3RpY19kb21haW4pLAogICAgICAnY2FuX3JlZ2lzdGVyX2ludGVybmF0aW9uYWwnOiBuZXcgQ29udHJvbCh0aGlzLl9jdXJyZW50RXh0ZW5zaW9uLmNhbl9yZWdpc3Rlcl9pbnRlcm5hdGlvbmFsKQogICAgfSk7CgogICAgdGhpcy5mb3JtLnZhbHVlQ2hhbmdlcy5zdWJzY3JpYmUoZGF0YSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKCJmb3JtIGNoYWduZXMiLCBkYXRhKQogICAgfSk7</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZXh0ZW5zaW9uX2lkID0gcGFyYW1zWzppZF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>t</last-search>
+      <last-search>quote</last-search>
       <last-offset />
-      <last-pattern>t</last-pattern>
+      <last-pattern>quote</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sub</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>connect</entry>
-        <entry>edit</entry>
-        <entry>,</entry>
-        <entry>s,</entry>
         <entry>update</entry>
         <entry>domain_groups</entry>
         <entry>ps</entry>
@@ -1038,6 +1041,10 @@
         <entry>group</entry>
         <entry>group_id</entry>
         <entry>t</entry>
+        <entry>form chag</entry>
+        <entry>double</entry>
+        <entry>quotes</entry>
+        <entry>quote</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
