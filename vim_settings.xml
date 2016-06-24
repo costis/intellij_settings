@@ -832,6 +832,9 @@
       <file name="/dummy.sql" timestamp="1466685747746">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/Gemfile" timestamp="1466762538178">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/learning/js/directive-kata/app/app.component.ts" timestamp="1462649875046">
         <mark key="'" line="8" column="11" />
         <mark key="[" line="6" column="65" />
@@ -878,7 +881,7 @@
         <mark key="." line="7" column="61" />
         <mark key="^" line="7" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/api/domain_group_extensions_controller.rb" timestamp="1466727118922">
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/api/domain_group_extensions_controller.rb" timestamp="1466728433591">
         <mark key="'" line="2" column="14" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -939,8 +942,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-list.component.html" />
-      <jump line="25" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-list.component.html" />
       <jump line="25" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-list.component.ts" />
       <jump line="6" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-list.component.ts" />
       <jump line="1" column="47" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-list.component.ts" />
@@ -1039,6 +1040,8 @@
       <jump line="33" column="48" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/api/domain_group_extensions_controller.rb" />
       <jump line="4" column="14" filename="$USER_HOME$/projects/clara/concord/webapp/app/controllers/api/domain_group_extensions_controller.rb" />
       <jump line="318" column="66" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/base.rb" />
+      <jump line="60" column="5" filename="$USER_HOME$/projects/clara/concord/webapp/Gemfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1048,7 +1051,7 @@
         <text>JSON.parse(data)</text>
       </register>
       <register name="/" type="4">
-        <text>values</text>
+        <text>multi</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IFByb2MubmV3IGRvIHxkYXRhfA==</text>
@@ -1085,9 +1088,9 @@
       </register>
     </registers>
     <search>
-      <last-search>values</last-search>
+      <last-search>multi</last-search>
       <last-offset />
-      <last-pattern>values</last-pattern>
+      <last-pattern>multi</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sub</last-substitute>
       <last-dir>1</last-dir>
@@ -1095,8 +1098,6 @@
     </search>
     <history>
       <history-search>
-        <entry>domain</entry>
-        <entry>ext</entry>
         <entry>end</entry>
         <entry>eol</entry>
         <entry>plugins</entry>
@@ -1115,6 +1116,8 @@
         <entry>Abastra</entry>
         <entry>Abstrac</entry>
         <entry>values</entry>
+        <entry>json</entry>
+        <entry>multi</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
