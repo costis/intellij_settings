@@ -162,11 +162,11 @@
         <mark key="^" line="516" column="0" />
         <mark key="." line="516" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/config/initializers/json_params_parser.rb" timestamp="1466724064123">
-        <mark key="[" line="1" column="18" />
-        <mark key="]" line="1" column="27" />
-        <mark key="^" line="1" column="27" />
-        <mark key="." line="1" column="27" />
+      <file name="$USER_HOME$/projects/clara/concord/webapp/config/initializers/json_params_parser.rb" timestamp="1466727007187">
+        <mark key="[" line="1" column="32" />
+        <mark key="]" line="1" column="32" />
+        <mark key="." line="1" column="32" />
+        <mark key="^" line="1" column="32" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroup-list.component.html" timestamp="1466591049613">
         <mark key="'" line="20" column="18" />
@@ -336,12 +336,12 @@
       <file name="$USER_HOME$/projects/learning/js/concord-domains/node_modules/@angular/core/src/di/provider.d.ts" timestamp="1466502914498">
         <mark key="'" line="290" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" timestamp="1466701104614">
+      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" timestamp="1466726390745">
         <mark key="'" line="19" column="27" />
-        <mark key="[" line="91" column="86" />
-        <mark key="]" line="91" column="92" />
-        <mark key="^" line="91" column="92" />
-        <mark key="." line="91" column="92" />
+        <mark key="[" line="87" column="20" />
+        <mark key="]" line="87" column="20" />
+        <mark key="^" line="87" column="31" />
+        <mark key="." line="87" column="20" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/test/functional/rest_api/V2/http_authenticated_controller_test.rb" timestamp="1464006378473">
         <mark key="'" line="54" column="2" />
@@ -349,6 +349,9 @@
         <mark key="]" line="0" column="45" />
         <mark key="." line="0" column="45" />
         <mark key="^" line="0" column="45" />
+      </file>
+      <file name="/fragment.rb" timestamp="1466725755748">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup-list.component.ts" timestamp="1462784165265">
         <mark key="'" line="13" column="36" />
@@ -604,7 +607,7 @@
         <mark key="^" line="68" column="9" />
         <mark key="." line="68" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/base.rb" timestamp="1466723839479">
+      <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/base.rb" timestamp="1466725364460">
         <mark key="'" line="875" column="40" />
         <mark key="[" line="334" column="1" />
         <mark key="]" line="334" column="2" />
@@ -621,6 +624,7 @@
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/control_panel/mail/addresses_controller.rb" timestamp="1466007107678">
         <mark key="'" line="52" column="61" />
       </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/request.rb" timestamp="1466725860023" />
       <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-list.component.ts" timestamp="1466687343577">
         <mark key="'" line="17" column="53" />
         <mark key="[" line="17" column="7" />
@@ -732,6 +736,9 @@
         <mark key="]" line="57" column="42" />
         <mark key="^" line="57" column="42" />
         <mark key="." line="57" column="42" />
+      </file>
+      <file name="/Ruby Console" timestamp="1466725885190">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/concord-domains/.gitignore" timestamp="1466422940518">
         <mark key="[" line="10" column="0" />
@@ -871,12 +878,12 @@
         <mark key="." line="7" column="61" />
         <mark key="^" line="7" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/api/domain_group_extensions_controller.rb" timestamp="1466722720506">
-        <mark key="'" line="4" column="14" />
-        <mark key="[" line="36" column="62" />
-        <mark key="]" line="36" column="66" />
-        <mark key="." line="36" column="66" />
-        <mark key="^" line="36" column="66" />
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/api/domain_group_extensions_controller.rb" timestamp="1466727118922">
+        <mark key="'" line="2" column="14" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="34" column="34" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/views/layouts/control_panel.rhtml" timestamp="1466007204739">
         <mark key="'" line="5" column="0" />
@@ -1034,44 +1041,44 @@
       <jump line="318" column="66" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/base.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>node.root</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>node.root</text>
+        <text>JSON.parse(data)</text>
       </register>
       <register name="/" type="4">
         <text>values</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICdyeGpzL2FkZC9vcGVyYXRvci9tYXAnOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IFByb2MubmV3IGRvIHxkYXRhfA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBub2RlID0gUkVYTUw6OkRvY3VtZW50Lm5ldyhwb3N0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVxdWlyZSAnanNvbicK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QWN0aW9uQ29udHJvbGxlcjo6QmFzZS5wYXJhbV9wYXJzZXJzW01pbWU6OlR5cGUubG9va3VwKCdhcHBsaWNhdGlvbi9qc29uJyldID0gUHJvYy5uZXcgZG8gfGRhdGF8CiAgSlNPTi5wYXJzZShkYXRhKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCBwYXlsb2FkID0gOwo=</text>
+        <text encoding="base64">IyByZXF1aXJlICdqc29uJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBBY3RpdmVTdXBwb3J0OjpKU09OLmRlY29kZShkYXRhKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cmVxdWlyZSAnanNvbicK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJzYXZpbmcgZXh0IiwgdGhpcy5fY3VycmVudEV4dGVuc2lvbik7Cg==</text>
+        <text encoding="base64">ICB7IDp0YXBhcGFyaWEgPT4gJ3RvdSBpb3VkYScgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QWN0aW9uQ29udHJvbGxlcjo6QmFzZS5wYXJhbV9wYXJzZXJzWydhcHBsaWNhdGlvbi9qc29uJ10gPSBQcm9jLm5ldyBkbyB8ZGF0YXwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
