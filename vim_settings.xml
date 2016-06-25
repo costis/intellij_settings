@@ -202,6 +202,12 @@
       <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/test/controller/routing_test.rb" timestamp="1466595995872">
         <mark key="'" line="361" column="121" />
       </file>
+      <file name="$USER_HOME$/projects/learning/js/concord-domains.final/src/platform/browser-directives.ts" timestamp="1466889522496">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="15" column="19" />
+        <mark key="^" line="15" column="19" />
+        <mark key="." line="15" column="19" />
+      </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/control_panel/mail_controller.rb" timestamp="1466006150229">
         <mark key="'" line="128" column="2" />
         <mark key="[" line="5" column="1" />
@@ -836,7 +842,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-form.component.ts" timestamp="1466700558371">
+      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-form.component.ts" timestamp="1466888936962">
         <mark key="'" line="28" column="16" />
         <mark key="[" line="50" column="102" />
         <mark key="]" line="50" column="103" />
@@ -1113,10 +1119,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>j</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>Webpack plugins</text>
