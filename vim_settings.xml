@@ -40,7 +40,7 @@
         <mark key="." line="9" column="11" />
         <mark key="^" line="9" column="11" />
       </file>
-      <file name="/a.dummy" timestamp="1466886185984">
+      <file name="/a.dummy" timestamp="1466890901904">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/simpleform.component.html" timestamp="1461496769678">
@@ -53,12 +53,12 @@
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/control_panel/service_groups_controller.rb" timestamp="1466003609868">
         <mark key="'" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/learning/js/concord-domains.final/src/vendor.browser.ts" timestamp="1466885444421">
+      <file name="$USER_HOME$/projects/learning/js/concord-domains.final/src/vendor.browser.ts" timestamp="1466890868183">
         <mark key="'" line="27" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+        <mark key="[" line="10" column="2" />
+        <mark key="]" line="10" column="2" />
+        <mark key="^" line="10" column="2" />
+        <mark key="." line="10" column="2" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/directive-kata/app/domaingroup-rowview.component.html" timestamp="1462650950694">
         <mark key="'" line="1" column="12" />
@@ -420,13 +420,6 @@
         <mark key="^" line="449" column="28" />
         <mark key="." line="449" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/learning/js/concord-domains.final/src/main.browser.ts" timestamp="1466870053906">
-        <mark key="'" line="38" column="4" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/app.component.spec.ts" timestamp="1461575097298">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="32" column="6" />
@@ -741,6 +734,13 @@
       <file name="$USER_HOME$/projects/learning/js/concord-domains/node_modules/@angular/core/src/metadata.d.ts" timestamp="1466170987367">
         <mark key="'" line="1129" column="5" />
       </file>
+      <file name="$USER_HOME$/projects/learning/js/concord-domains.final/package.json" timestamp="1466891455389">
+        <mark key="'" line="64" column="24" />
+        <mark key="[" line="97" column="19" />
+        <mark key="]" line="97" column="19" />
+        <mark key="." line="97" column="19" />
+        <mark key="^" line="97" column="19" />
+      </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/accounts_controller.rb" timestamp="1466177986340">
         <mark key="'" line="2" column="17" />
       </file>
@@ -815,11 +815,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/learning/js/concord-domains.final/src/platform/browser-providers.ts" timestamp="1466870018986">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/projects/learning/js/concord-domains.final/src/platform/browser-providers.ts" timestamp="1466890976258">
+        <mark key="'" line="12" column="1" />
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="2" />
+        <mark key="." line="3" column="2" />
+        <mark key="^" line="3" column="2" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/pacman/accounts/pay_arbitrary_period_controller.rb" timestamp="1461927352681">
         <mark key="'" line="43" column="50" />
@@ -1016,8 +1017,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
-      <jump line="47" column="14" filename="$USER_HOME$/projects/learning/js/concord-domains/app/pricing/pricinglist.component.ts" />
       <jump line="9" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/pricing/pricinglist.component.ts" />
       <jump line="55" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/pricing/pricinglist.component.ts" />
       <jump line="54" column="9" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
@@ -1116,16 +1115,18 @@
       <jump line="16" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains.final/src/vendor.browser.ts" />
       <jump line="27" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains.final/src/vendor.browser.ts" />
       <jump line="44" column="21" filename="$USER_HOME$/projects/learning/js/concord-domains.final/node_modules/@angular/common/src/location/hash_location_strategy.d.ts" />
+      <jump line="12" column="1" filename="$USER_HOME$/projects/learning/js/concord-domains.final/src/platform/browser-providers.ts" />
+      <jump line="64" column="24" filename="$USER_HOME$/projects/learning/js/concord-domains.final/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>j</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>Webpack plugins</text>
+        <text>karma</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0YXJnZXQ6ICdodHRwOi8vYWRtaW4tZGV2LmNsYXJhaG9zdC5jby51azozMDA1JywK</text>
@@ -1158,13 +1159,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>Webpack plugins</last-search>
+      <last-search>karma</last-search>
       <last-offset />
-      <last-pattern>Webpack plugins</last-pattern>
+      <last-pattern>karma</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sub</last-substitute>
       <last-dir>1</last-dir>
@@ -1172,7 +1173,6 @@
     </search>
     <history>
       <history-search>
-        <entry>put</entry>
         <entry>Up</entry>
         <entry>grou</entry>
         <entry>subs</entry>
@@ -1192,9 +1192,9 @@
         <entry>proxy</entry>
         <entry>test</entry>
         <entry>Webpack plugins</entry>
+        <entry>karma</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>set rnu</entry>
         <entry>actionlist</entry>
@@ -1214,6 +1214,7 @@
         <entry>action SaveDocument</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
