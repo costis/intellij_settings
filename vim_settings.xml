@@ -50,12 +50,12 @@
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/control_panel/service_groups_controller.rb" timestamp="1466003609868">
         <mark key="'" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/learning/js/concord-domains.final/src/vendor.browser.ts" timestamp="1466882820390">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="24" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/projects/learning/js/concord-domains.final/src/vendor.browser.ts" timestamp="1466885444421">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/directive-kata/app/domaingroup-rowview.component.html" timestamp="1462650950694">
         <mark key="'" line="1" column="12" />
@@ -992,7 +992,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/node_modules/@angular/http/testing/mock_backend.d.ts" />
       <jump line="33" column="37" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
       <jump line="39" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
       <jump line="47" column="14" filename="$USER_HOME$/projects/learning/js/concord-domains/app/pricing/pricinglist.component.ts" />
@@ -1092,13 +1091,14 @@
       <jump line="273" column="3" filename="$USER_HOME$/projects/learning/js/concord-domains.final/config/webpack.common.js" />
       <jump line="16" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains.final/config/webpack.common.js" />
       <jump line="16" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains.final/src/vendor.browser.ts" />
+      <jump line="27" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains.final/src/vendor.browser.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Webpack plugins</text>
@@ -1107,10 +1107,10 @@
         <text encoding="base64">ICAgICAgICB0YXJnZXQ6ICdodHRwOi8vYWRtaW4tZGV2LmNsYXJhaG9zdC5jby51azozMDA1JywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBEZXZlbG9wbWVudAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBQcm9kdWN0aW9uCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1128,10 +1128,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gQm9vdHN0cmFwIDQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgeyB0ZXN0OiAvYm9vdHN0cmFwXC9kaXN0XC9qc1wvdW1kXC8vLCBsb2FkZXI6ICdpbXBvcnRzP2pRdWVyeT1qcXVlcnknIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
