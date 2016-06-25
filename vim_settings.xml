@@ -153,6 +153,9 @@
         <mark key="^" line="516" column="0" />
         <mark key="." line="516" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/config/initializers/json_params_parser.rb" timestamp="1466859477161">
+        <mark key="'" line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroup-list.component.html" timestamp="1466591049613">
         <mark key="'" line="20" column="18" />
         <mark key="[" line="16" column="18" />
@@ -235,8 +238,8 @@
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/mailbox_control_panel/quarantined_emails_controller.rb" timestamp="1466006745508">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroup-form.component.ts" timestamp="1466363913930">
-        <mark key="'" line="14" column="4" />
+      <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroup-form.component.ts" timestamp="1466859530105">
+        <mark key="'" line="35" column="0" />
         <mark key="[" line="24" column="4" />
         <mark key="]" line="24" column="4" />
         <mark key="^" line="26" column="46" />
@@ -311,7 +314,6 @@
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/billing/chargeable_item.rb" timestamp="1464696365759">
         <mark key="'" line="1572" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/CHANGELOG" timestamp="1466723967662" />
       <file name="$USER_HOME$/projects/learning/js/concord-domains/node_modules/@angular/core/src/di/provider.d.ts" timestamp="1466502914498">
         <mark key="'" line="290" column="24" />
       </file>
@@ -394,6 +396,7 @@
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/vispization/configuration.rb" timestamp="1466425058115">
         <mark key="'" line="1" column="8" />
       </file>
+      <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/secure_payment/pay_and_postprocess/pay_for_order.rb" timestamp="1466854737757" />
       <file name="$USER_HOME$/projects/learning/js/concord-domains/node_modules/@angular/http/testing/mock_backend.d.ts" timestamp="1466695410001">
         <mark key="'" line="0" column="0" />
       </file>
@@ -461,7 +464,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/mime_types.rb" timestamp="1466723372540" />
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/signup.component.ts" timestamp="1461577138345">
         <mark key="'" line="16" column="0" />
         <mark key="[" line="12" column="81" />
@@ -603,7 +605,6 @@
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/controllers/control_panel/mail/addresses_controller.rb" timestamp="1466007107678">
         <mark key="'" line="52" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/request.rb" timestamp="1466725860023" />
       <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-list.component.ts" timestamp="1466687343577">
         <mark key="'" line="17" column="53" />
         <mark key="[" line="17" column="7" />
@@ -909,10 +910,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-list.component.ts" />
-      <jump line="19" column="32" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-list.component.ts" />
-      <jump line="20" column="42" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-list.component.ts" />
-      <jump line="22" column="47" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-list.component.ts" />
       <jump line="29" column="49" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-list.component.ts" />
       <jump line="12" column="11" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-list.component.ts" />
       <jump line="17" column="53" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domain_extension/domainextension-list.component.ts" />
@@ -1009,6 +1006,10 @@
       <jump line="301" column="88" filename="$USER_HOME$/projects/clara/concord/webapp/vendor/rails/actionpack/lib/action_controller/base.rb" />
       <jump line="88" column="0" filename="$USER_HOME$/.rvm/gems/ruby-1.8.7-p374@concord/gems/ruby-debug-ide-0.6.1.beta2/lib/ruby-debug-ide.rb" />
       <jump line="6" column="0" filename="$USER_HOME$/.rvm/gems/ruby-1.8.7-p374@concord/gems/ruby-debug-ide-0.6.1.beta2/lib/ruby-debug-ide.rb" />
+      <jump line="5" column="0" filename="$USER_HOME$/projects/clara/concord/webapp/config/initializers/json_params_parser.rb" />
+      <jump line="3" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroup-form.component.ts" />
+      <jump line="2" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroup-form.component.ts" />
+      <jump line="35" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroup-form.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
