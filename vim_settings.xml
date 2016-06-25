@@ -40,6 +40,9 @@
         <mark key="." line="9" column="11" />
         <mark key="^" line="9" column="11" />
       </file>
+      <file name="/a.dummy" timestamp="1466886185984">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/learning/js/pluralsight-angular2/app/simpleform.component.html" timestamp="1461496769678">
         <mark key="'" line="2" column="15" />
         <mark key="[" line="13" column="46" />
@@ -284,6 +287,9 @@
         <mark key="^" line="26" column="46" />
         <mark key="." line="24" column="4" />
       </file>
+      <file name="$USER_HOME$/projects/learning/js/concord-domains.final/node_modules/@angular/common/src/location/hash_location_strategy.d.ts" timestamp="1466886291237">
+        <mark key="'" line="44" column="21" />
+      </file>
       <file name="$USER_HOME$/projects/learning/js/directive-kata/app/contact-form.component.ts" timestamp="1462458805600">
         <mark key="'" line="19" column="6" />
         <mark key="[" line="18" column="33" />
@@ -376,6 +382,9 @@
         <mark key="]" line="0" column="45" />
         <mark key="." line="0" column="45" />
         <mark key="^" line="0" column="45" />
+      </file>
+      <file name="/fragment.rb" timestamp="1466725755748">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup-list.component.ts" timestamp="1462784165265">
         <mark key="'" line="13" column="36" />
@@ -791,6 +800,9 @@
         <mark key="^" line="57" column="42" />
         <mark key="." line="57" column="42" />
       </file>
+      <file name="/Ruby Console" timestamp="1466725885190">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/learning/js/concord-domains.final/src/app/app.component.html" timestamp="1466868394118">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="26" column="0" />
@@ -886,6 +898,9 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="4" column="44" />
       </file>
+      <file name="/dummy.sql" timestamp="1466685747746">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/Gemfile" timestamp="1466762538178">
         <mark key="'" line="0" column="0" />
       </file>
@@ -895,6 +910,9 @@
         <mark key="]" line="6" column="65" />
         <mark key="." line="6" column="65" />
         <mark key="^" line="6" column="64" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1466240462927">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/clara/concord/webapp/app/models/service_component/chapi/mailbox.rb" timestamp="1465996167218">
         <mark key="'" line="36" column="4" />
@@ -992,7 +1010,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="37" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
       <jump line="39" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
       <jump line="47" column="14" filename="$USER_HOME$/projects/learning/js/concord-domains/app/pricing/pricinglist.component.ts" />
       <jump line="9" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/app/pricing/pricinglist.component.ts" />
@@ -1092,6 +1109,7 @@
       <jump line="16" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains.final/config/webpack.common.js" />
       <jump line="16" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains.final/src/vendor.browser.ts" />
       <jump line="27" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains.final/src/vendor.browser.ts" />
+      <jump line="44" column="21" filename="$USER_HOME$/projects/learning/js/concord-domains.final/node_modules/@angular/common/src/location/hash_location_strategy.d.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
