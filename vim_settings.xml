@@ -613,9 +613,12 @@
         <mark key="." line="14" column="66" />
         <mark key="^" line="14" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/learning/js/concord-domains.final/config/webpack.common.js" timestamp="1466870954785">
-        <mark key="'" line="6" column="0" />
-        <mark key="^" line="20" column="31" />
+      <file name="$USER_HOME$/projects/learning/js/concord-domains.final/config/webpack.common.js" timestamp="1466882165968">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="280" column="0" />
+        <mark key="]" line="280" column="0" />
+        <mark key="^" line="279" column="5" />
+        <mark key="." line="280" column="0" />
       </file>
       <file name="$USER_HOME$/projects/learning/js/angular2-seed/package.json" timestamp="1461607168808">
         <mark key="'" line="20" column="21" />
@@ -982,14 +985,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="23" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
-      <jump line="87" column="49" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
-      <jump line="7" column="29" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
-      <jump line="85" column="25" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.ts" />
-      <jump line="74" column="24" filename="$USER_HOME$/projects/learning/js/concord-domains/node_modules/@angular/http/testing/mock_backend.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/node_modules/@angular/http/testing/mock_backend.js" />
-      <jump line="30" column="47" filename="$USER_HOME$/projects/learning/js/concord-domains/node_modules/@angular/http/testing/mock_backend.js" />
-      <jump line="16" column="56" filename="$USER_HOME$/projects/learning/js/concord-domains/node_modules/@angular/http/testing/mock_backend.js" />
       <jump line="91" column="1" filename="$USER_HOME$/projects/learning/js/concord-domains/node_modules/@angular/http/testing/mock_backend.d.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains/node_modules/@angular/http/testing/mock_backend.d.ts" />
       <jump line="33" column="37" filename="$USER_HOME$/projects/learning/js/concord-domains/app/domaingroup/domaingroups.service.spec.ts" />
@@ -1082,16 +1077,24 @@
       <jump line="1" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains.final/config/webpack.github-deploy.js" />
       <jump line="2" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains.final/config/webpack.github-deploy.js" />
       <jump line="13" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains.final/config/html-elements-plugin/index.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains.final/config/webpack.common.js" />
+      <jump line="34" column="3" filename="$USER_HOME$/projects/learning/js/concord-domains.final/config/webpack.common.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains.final/config/webpack.common.js" />
+      <jump line="103" column="12" filename="$USER_HOME$/projects/learning/js/concord-domains.final/config/webpack.common.js" />
+      <jump line="112" column="8" filename="$USER_HOME$/projects/learning/js/concord-domains.final/config/webpack.common.js" />
+      <jump line="188" column="11" filename="$USER_HOME$/projects/learning/js/concord-domains.final/config/webpack.common.js" />
+      <jump line="273" column="3" filename="$USER_HOME$/projects/learning/js/concord-domains.final/config/webpack.common.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/projects/learning/js/concord-domains.final/config/webpack.common.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>proxy</text>
+        <text>Webpack plugins</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0YXJnZXQ6ICdodHRwOi8vYWRtaW4tZGV2LmNsYXJhaG9zdC5jby51azozMDA1JywK</text>
@@ -1099,26 +1102,26 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICBoZWFkZXJzOiB7CiAgICAgICAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICdIb3N0JzogJycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0YXJnZXQ6ICdodHRwczovL290aGVyLXNlcnZlci5leGFtcGxlLmNvbScsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIHByb3h5OiB7CiAgICB9Cg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgLy8gQm9vdHN0cmFwIDQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvL25vaW5zcGVjdGlvbiBKU1VudXNlZEdsb2JhbFN5bWJvbHMK</text>
+        <text encoding="base64">ICAgICAgeyB0ZXN0OiAvYm9vdHN0cmFwXC9kaXN0XC9qc1wvdW1kXC8vLCBsb2FkZXI6ICdpbXBvcnRzP2pRdWVyeT1qcXVlcnknIH0K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1128,9 +1131,9 @@
       </register>
     </registers>
     <search>
-      <last-search>proxy</last-search>
+      <last-search>Webpack plugins</last-search>
       <last-offset />
-      <last-pattern>proxy</last-pattern>
+      <last-pattern>Webpack plugins</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sub</last-substitute>
       <last-dir>1</last-dir>
@@ -1138,8 +1141,6 @@
     </search>
     <history>
       <history-search>
-        <entry>resize</entry>
-        <entry>JSON</entry>
         <entry>put</entry>
         <entry>Up</entry>
         <entry>grou</entry>
@@ -1158,6 +1159,8 @@
         <entry>routes</entry>
         <entry>app</entry>
         <entry>proxy</entry>
+        <entry>test</entry>
+        <entry>Webpack plugins</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
